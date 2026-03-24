@@ -1,5 +1,6 @@
+## WUOM - Universal Operating Model
 WUOM — Universal Operating Model. A structural to organize information, processes, and perception.   
-WUOM — Universal Operating Model
+
 
 WUOM is a structural system designed to organize information, processes, and perception.
 
@@ -34,12 +35,12 @@ https://roblesrionegro.gumroad.com/
 
 ## Documents
 
-English:
+## English:
 [Download EN](docs/WUOM_Universal_Operating_Model_EN_v1.pdf)
 
-Spanish:
+## Spanish:
 [Download ES](docs/WUOM_Universal_Operating_Model_ES_v1.pdf)
 
-Usage
+## Usage
 
 WUOM is understood through use, not explanation. 
