@@ -29,8 +29,8 @@ It organizes what already exists.
 
 ### Notion
 
-- EN → https://fuchsia-wineberry-c88.notion.site/WUOM-EN-32801379e35c80f19acfe28e51c8d203
-- ES → https://fuchsia-wineberry-c88.notion.site/WUOM-ES-32801379e35c8068bc47c6fa97613183 
+- EN → https://fuchsia-wineberry-c88.notion.site/WUOM-EN-32801379e35c80f19acfe28e51c8d203?pvs143
+- ES → https://fuchsia-wineberry-c88.notion.site/WUOM-ES-32801379e35c8068bc47c6fa97613183?pvs143 
 
 ### Gumroad
 - BIO → https://roblesrionegro.gumroad.com/
