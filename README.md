@@ -28,11 +28,16 @@ It organizes what already exists.
 ## Access
 
 ## Notion:
-https://fuschia-wineberry-c88.notion.site/WUOM-EN-...
+[EN](https://fuschia-wineberry-c88.notion.site/WUOM-EN-32801379e35c80f19acfe28e51c8d203))
+[ES](https://fuschia-wineberry-c88.notion.site/WUOM-ES-32801379e35c8068bc47c6fa97613183))
 
 ## Gumroad:
-https://roblesrionegro.gumroad.com/
-
+[BIO ]([url](https://roblesrionegro.gumroad.com/))
+[MODULAR]([url](http://roblesrionegro.gumroad.com/l/bwscsi))
+[MATRIX  ]( http://roblesrionegro.gumroad.com/l/zlztg))
+[SPHERICA]([url](http://roblesrionegro.gumroad.com/l/bajthx))  
+[COMPLETE ]( http://roblesrionegro.gumroad.com/l/hfmse))
+[EXTENDED PRO ]( http://roblesrionegro.gumroad.com/l/xaiomm)) 
 ## Documents
 
 ## English:
