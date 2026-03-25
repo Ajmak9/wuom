@@ -27,30 +27,19 @@ It organizes what already exists.
 
 ## Access
 
-## Notion:
+### Notion
 
-[EN]([EN](https://fuschia-wineberry-c88.notion.site/WUOM-EN-32801379e35c80f19acfe28e51c8d203)))
+- EN → https://fuchsia-wineberry-c88.notion.site/WUOM-EN-32801379e35c80f19acfe28e51c8d203
+- ES → https://fuchsia-wineberry-c88.notion.site/WUOM-ES-32801379e35c8068bc47c6fa97613183 
 
-[ES]([ES](https://fuschia-wineberry-c88.notion.site/WUOM-ES-32801379e35c8068bc47c6fa97613183)))
+### Gumroad
+- BIO → https://roblesrionegro.gumroad.com/
+- Modular → https://roblesrionegro.gumroad.com/l/bwscsi
+- Matrix → https://roblesrionegro.gumroad.com/l/zlztg
+- Spherica → https://roblesrionegro.gumroad.com/l/bajthx
+- Complete → https://roblesrionegro.gumroad.com/l/hfmse
+- Extended Pro → https://roblesrionegro.gumroad.com/l/xaiomm 
 
-
-## Gumroad:
-
-[BIO](([url](https://roblesrionegro.gumroad.com/)))
-
-[MODULAR](([url](http://roblesrionegro.gumroad.com/l/bwscsi)))
-
-[MATRIX](([url](http://roblesrionegro.gumroad.com/l/zlztg))
-)
-
-
-[SPHERICA](([url](http://roblesrionegro.gumroad.com/l/bajthx))  
-)
-
-[COMPLETE](([url](http://roblesrionegro.gumroad.com/l/hfmse))
-)
-
-[EXTENDED PRO](([url](http://roblesrionegro.gumroad.com/l/xaiomm)) )
 
 >EXTENDED PRO is not a cofiguration.
 >It is the operational layer of the system.
