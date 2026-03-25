@@ -28,31 +28,32 @@ It organizes what already exists.
 ## Access
 
 ## Notion:
-## Enghish
+
+## EN
 [EN](https://fuschia-wineberry-c88.notion.site/WUOM-EN-32801379e35c80f19acfe28e51c8d203))
 
-## Spanish
+## ES
 [ES](https://fuschia-wineberry-c88.notion.site/WUOM-ES-32801379e35c8068bc47c6fa97613183))
 
 ## Gumroad:
 
 ## BIO
-[BIO ]([url](https://roblesrionegro.gumroad.com/))
+([url](https://roblesrionegro.gumroad.com/))
 
 ## MODULAR
-[MODULAR]([url](http://roblesrionegro.gumroad.com/l/bwscsi))
+([url](http://roblesrionegro.gumroad.com/l/bwscsi))
 
 ## MATRIX
-[MATRIX  ]([url](http://roblesrionegro.gumroad.com/l/zlztg))
+([url](http://roblesrionegro.gumroad.com/l/zlztg))
 
 ## SPHERICA
-[SPHERICA]([url](http://roblesrionegro.gumroad.com/l/bajthx))  
+([url](http://roblesrionegro.gumroad.com/l/bajthx))  
 
 ## COMPLETE
-[COMPLETE ]([url](http://roblesrionegro.gumroad.com/l/hfmse))
+([url](http://roblesrionegro.gumroad.com/l/hfmse))
 
 ## EXTENDED PRO
-[EXTENDED PRO ]([url](http://roblesrionegro.gumroad.com/l/xaiomm)) 
+([url](http://roblesrionegro.gumroad.com/l/xaiomm)) 
 
 ## Documents
 
