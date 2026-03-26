@@ -1,13 +1,12 @@
 ## WUOM - Universal Operating Model
-WUOM — Universal Operating Model. A structural to organize information, processes, and perception.   
+WUOM — Universal Operating Model. A system to organize information, processes and action.   
 
-
-WUOM is a structural system designed to organize information, processes, and perception.
+WUOM is a structural system designed to work with complexity.
 
 It is not an application. 
 It is not a closed methodology. 
 
-It is a framework based on three operational geometries:
+It is a framework based on four operational geometries:
 
 ## Modular
 Basic units. 
@@ -21,9 +20,14 @@ System-level organization.
 Global vision. 
 Context, integration, totality.
 
+## Extended
+Cohexistence of structures.
+Multiple logics operating
+simultaneously.
+
 
 WUOM does not add content. 
-It organizes what already exists.
+It reveals structure within what already exists.
 
 ## Access
 
@@ -38,10 +42,10 @@ It organizes what already exists.
 - Matrix → https://roblesrionegro.gumroad.com/l/zlztg
 - Spherica → https://roblesrionegro.gumroad.com/l/bajthx
 - Complete → https://roblesrionegro.gumroad.com/l/hfmse
-- Extended Pro → https://roblesrionegro.gumroad.com/l/xaiomm 
+- Extended → https://roblesrionegro.gumroad.com/l/xaiomm 
 
 
->EXTENDED PRO is not a cofiguration.
+>EXTENDED is not a cofiguration.
 >It is the operational layer of the system.
 
 ## Documents
