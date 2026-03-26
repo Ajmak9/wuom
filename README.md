@@ -48,14 +48,6 @@ It reveals structure within what already exists.
 >EXTENDED is not a cofiguration.
 >It is the operational layer of the system.
 
-## Documents
-
-## English:
-[Download EN](docs/WUOM_Universal_Operating_Model_EN_v1.pdf)
-
-## Spanish:
-[Download ES](docs/WUOM_Universal_Operating_Model_ES_v1.pdf)
-
 ## Usage
 
 WUOM is understood through use, not explanation. 
