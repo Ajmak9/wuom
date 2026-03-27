@@ -167,7 +167,12 @@ WUOM is organized into three main layers:
   
 - [SPHERICA_MASTER.xcf](templates/SPHERICA_MASTER.xcf)
   
-- [EXTENDED_FLOW_MASTER.xcf](templates/EXTENDED_FLOW_MASTER.xcf) 
+- [EXTENDED_FLOW_MASTER.xcf](templates/EXTENDED_FLOW_MASTER.xcf)
+
+## Examples
+
+- [Modular Example]
+(examples/example_modular.md)
 
 ## Usage
 
