@@ -41,9 +41,11 @@ It reveals structure within what already exists.
   
 ### Notion
 
-- EN → https://fuschia-wineberry-c88.notion.site/WUOM-EN-32801379e35c80f19acfe28e51c8d203?source=copy_link
+- EN → https://fuschia-wineberry-c88.notion.site/WUOM-EN-32801379e35c80f19acfe28e51c8d203?pvs=143
+  
+- CAT → https://fuschia-wineberry-c88.notion.site/WUOM-CAT-32801379e35c8098bfeae58196c31897?pvs=143
 
-- ES → https://fuschia-wineberry-c88.notion.site/WUOM-ES-32801379e35c8068bc47c6fa97613183?source=copy_link
+- ES → https://fuschia-wineberry-c88.notion.site/WUOM-ES-32801379e35c8068bc47c6fa97613183?pvs=143
 
 ### Gumroad
 
