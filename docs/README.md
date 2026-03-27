@@ -6,7 +6,7 @@ This folder contains the theoretical and explanatory documents of WUOM.
 
 - MODULAR.pdf → introduction to simple structures (3x3)
 - MATRIX.pdf → complex systems (8x8)
-- SPHERICA.pdf → multidimensional relationships
+- SPHERICA.pdf → multidimensional relationships (continuous field, 9:16)
 - EXTENDED.pdf → flow and coexistence across geometries
 
 ## Purpose
