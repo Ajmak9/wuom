@@ -127,7 +127,56 @@ Templates may require tools such as:
 - GIMP 
 - Word or compatible editors 
 
+## Structure
+
+- 📄 Documentation → /docs
+- 🧠 Templates → /templates
+- 👁 Visual → /images
+
+## Repository Structure
+
+WUOM is organized into three main layers:
+
+- **Documentation** → [`/docs`](docs/) 
+  Theoretical and explanatory documents of the system.
+
+- **Images** → [`/images`](images/) 
+  Visual representations of the operational geometries.
+
+- **Templates** → [`/templates`](templates/) 
+  Operational master files for applying WUOM in practice.
+
 ---
+
+## Direct Access
+
+### Documentation
+
+- [MODULAR.pdf](docs/MODULAR.pdf)
+  
+- [MATRIX.pdf](docs/MATRIX.pdf)
+  
+- [SPHERICA.pdf](docs/SPHERICA.pdf)
+  
+- [EXTENDED.pdf](docs/EXTENDED.pdf)
+
+### Images
+
+- [01_modular.png](images/01_modular.png)
+  
+- [02_matrix.png](images/02_matrix.png)
+  
+- [03_spherica.png](images/03_spherica.png)
+
+### Templates
+
+- [MODULAR_MASTER.xcf](templates/MODULAR_MASTER.xcf)
+  
+- [MATRIX_MASTER.xcf](templates/MATRIX_MASTER.xcf)
+  
+- [SPHERICA_MASTER.xcf](templates/SPHERICA_MASTER.xcf)
+  
+- [EXTENDED_FLOW_MASTER.xcf](templates/EXTENDED_FLOW_MASTER.xcf) 
 
 ## Usage
 
