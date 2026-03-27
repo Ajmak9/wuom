@@ -59,22 +59,7 @@ The Extended layer introduces:
 - **Coexistence** → integration of Modular, Matrix, and Spherica 
 
 Extended is not a geometry. 
-It is the operational state where all geometries interact. 
-## Images
-
-# Modular
-
-- [01_modular.png](images/01_modular.png)
-- 
-# Matrix
-  
-- [02_matrix.png](images/02_matrix.png)
-  
-# Spherica
-  
-- [03_spherica.png](images/03_spherica.png)
-
-
+It is the operational state where all geometries interact.
 
 ## How to Start
 
