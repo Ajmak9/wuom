@@ -163,13 +163,13 @@ WUOM is organized into three main layers:
 
 ### Templates
 
-- [MODULAR_MASTER.xcf](templates/MODULAR_MASTER.xcf)
+- [MODULAR_BASE.xcf](templates/MODULAR_BASE.xcf)
   
-- [MATRIX_MASTER.xcf](templates/MATRIX_MASTER.xcf)
+- [MATRIX_BASE.xcf](templates/MATRIX_BASE.xcf)
 
-- [SPHERICA_MASTER.xcf](template/SPHERICA_MASTER.xcf)
+- [SPHERICA_BASE.xcf](templates/SPHERICA_BASE.xcf)
 
-- [EXTENDED_FLOW_MASTER.xcf](template/EXTENDED_FLOW_MASTER.xcf)
+Advanced templates available on Gumroad.
 
 This example shows how WUOM can be applied to a real environment: an olive grove.
 
