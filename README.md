@@ -60,18 +60,21 @@ The Extended layer introduces:
 
 Extended is not a geometry. 
 It is the operational state where all geometries interact. 
+## Images
 
-### Modular
+# Modular
 
-<img src="01_modular.png" width="400"/>
+- [01_modular.png](images/01_modular.png)
+- 
+# Matrix
+  
+- [02_matrix.png](images/02_matrix.png)
+  
+# Spherica
+  
+- [03_spherica.png](images/03_spherica.png)
 
-### Matrix
 
-<img src="02_matrix.png" width="400"/>
-
-### Spherica
-
-<img src="03_spherica.png" width="400"/> 
 
 ## How to Start
 
