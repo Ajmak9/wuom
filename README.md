@@ -1,17 +1,15 @@
 ## WUOM - Universal Operating Model
 
-- https://wuom.carrd.co
+👉 https://wuom.carrd.co
 
-WUOM is a estructural system to organize information, processes and action.
- 
-WUOM — Universal Operating Model. A system to organize information, processes and action.   
+WUOM is a structural system to organize information, processes and action.
 
 WUOM is a structural system designed to work with complexity.
 
-It is not an application. 
-It is not a closed methodology. 
+It is not an application.
+It is not a closed methodology.
 
-It is a framework based on four operational geometries:
+It is a framework based on four operational geometries: 
 
 ## Modular
 Basic units. 
