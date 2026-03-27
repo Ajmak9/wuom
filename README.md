@@ -174,6 +174,11 @@ WUOM is organized into three main layers:
 - [Modular Example]
 (examples/example_modular.md)
 
+## Examples
+
+- [Olivar Example](examples/
+examples/example_olivar.md)
+
 ## Usage
 
 WUOM is understood through use, not explanation. 
