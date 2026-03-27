@@ -137,7 +137,7 @@ WUOM is organized into three main layers:
 - **Templates** → [`/templates`](templates/) 
   Operational master files for applying WUOM in practice.
   
-  Base templates available here.
+  BASE templates available here.
   
   MASTER templates available via Gumroad.
 
