@@ -232,6 +232,8 @@ It is recognized.
 
 - [Olivar (Detailed)](examples/example_olivar.md)
   
+### Geometries
+  
 - [Modular Example](examples/example_olivar_modular.md)
   
 - [Matrix Example](examples/example_olivar_matrix.md)
@@ -239,6 +241,8 @@ It is recognized.
 - [Spherica Example](examples/example_olivar_spherica.md)
 
 - [Extended Example](examples/example_olivar_extended.md)
+
+### Aplications
   
 - [Decision / Block](examples/example_decision.md)
   
