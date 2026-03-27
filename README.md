@@ -40,7 +40,7 @@ WUOM is based on three core geometries:
 
 - **Modular** → simple structures (3x3) 
 - **Matrix** → complex systems (8x8) 
-- **Spherica** → multidimensional relationships 
+- **Spherica** → multidimensional relationships (continuous field, 9:16)
 
 ### Matrix Modes
 
@@ -171,7 +171,10 @@ WUOM is organized into three main layers:
 
 - [SPHERICA_BASE.xcf](templates/SPHERICA_BASE.xcf)
 
-Advanced templates available on Gumroad.
+The BASE templates reveal the structure.
+The MASTER templates enable operation.
+
+MASTER templates available via Gumroad.
 
 This example shows how WUOM can be applied to a real environment: an olive grove.
 
