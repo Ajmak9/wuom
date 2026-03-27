@@ -1,39 +1,88 @@
-## WUOM - Universal Operating Model
+# WUOM — Universal Operating Model
 
 👉 https://wuom.carrd.co
 
-WUOM is a structural system to organize information, processes and action.
+WUOM (Universal Operating Model) is a structural system designed to organize information, processes, and perception in complex environments.
 
-WUOM is a structural system designed to work with complexity.
+It provides a clear framework to work with complexity through visual and operational geometries.
 
-It is not an application.
-It is not a closed methodology.
+---
 
-It is a framework based on four operational geometries: 
+## What is WUOM
 
-## Modular
-Basic units. 
-Simple, repeatable structures.
+WUOM is not:
+- an application 
+- a productivity tool 
+- a closed methodology 
 
-## Matrix
+WUOM is:
+- a structural model 
+- a visual-operational framework 
+- a system to think, organize and act 
 
-Relations between elements. 
-System-level organization.
+---
 
-## Spherica
+## Core Idea
 
-Global vision. 
-Context, integration, totality.
+WUOM allows you to structure reality instead of simplifying it.
+
+It works by applying geometrical systems to organize:
+- information 
+- workflows 
+- decision-making 
+- perception 
+
+---
+
+## Geometries
+
+WUOM is based on three core geometries:
+
+- **Modular** → simple structures (3x3) 
+- **Matrix** → complex systems (8x8) 
+- **Spherica** → multidimensional relationships 
+
+### Matrix Modes
+
+Matrix can operate in different modes:
+
+- **Toroidal** → continuous looping systems 
+- **Cylindrical** → directional flow systems 
+
+---
 
 ## Extended
 
-Cohexistence of structures.
-Multiple logics operating simultaneously.
+The Extended layer introduces:
 
-WUOM does not add content. 
-It reveals structure within what already exists.
+- **Flow** → dynamic movement across structures 
+- **Coexistence** → integration of Modular, Matrix, and Spherica 
 
-## Access
+Extended is not a geometry. 
+It is the operational state where all geometries interact. 
+
+---
+
+## How to Start
+
+1. Choose a geometry 
+2. Use the template 
+3. Apply it to a real situation 
+
+WUOM is learned by doing.
+
+---
+
+## Use Cases
+
+- organizing large amounts of information 
+- structuring creative systems 
+- managing complex workflows 
+- visual thinking and analysis 
+
+---
+
+## Access WUOM
 
 ### Carrd
 
@@ -61,10 +110,27 @@ It reveals structure within what already exists.
 
 - Extended → https://roblesrionegro.gumroad.com/l/xaiomm 
 
+---
 
->EXTENDED is not a configuration.
->It is the operational layer of the system.
+## Notes
+
+WUOM is independent from any specific software.
+
+Templates may require tools such as:
+- GIMP 
+- Word or compatible editors 
+
+---
 
 ## Usage
 
 WUOM is understood through use, not explanation. 
+
+## License
+
+Open structure. Use, adapt, and apply. 
+
+
+
+
+
