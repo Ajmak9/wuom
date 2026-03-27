@@ -171,13 +171,16 @@ WUOM is organized into three main layers:
 
 ## Examples
 
-- [Modular Example]
-(examples/example_modular.md)
+- [Olivar Example](examples/examples/example_olivar.md)
+  
+- [Modular Example](examples/example_olivar_modular.md)
+  
+- [Matrix Example](examples/example_olivar_matrix.md)
+  
+- [Spherica Example](examples/example_olivar_spherica.md)
 
-## Examples
+- [Extended Example](examples/example_olivar_extended.md)
 
-- [Olivar Example](examples/
-examples/example_olivar.md)
 
 ## Usage
 
