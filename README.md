@@ -149,7 +149,7 @@ WUOM is organized into three main layers:
   
 - [SPHERICA.pdf](docs/SPHERICA.pdf)
   
-- [EXTENDED.pdf](docs/EXTENDED.pdf)
+- [EXTENDED_flat.pdf](docs/EXTENDED_flat.pdf)
 
 ### Images
 
@@ -159,7 +159,7 @@ WUOM is organized into three main layers:
   
 - [03_spherica.png](images/03_spherica.png)
 
-- [04_extended.png](images/04_extended.png)
+- [04_extended_flow.png](images/04_extended_flow.png)
 
 ### Templates
 
