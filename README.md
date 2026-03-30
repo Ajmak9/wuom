@@ -259,7 +259,9 @@ From simple examples (decision, project, system) to a complete real_world cases 
 
 - [Extended Example](examples/example_olivar_extended.md)
 
+### Observation Template
 
+A minimal written interface to use WUOM through its core structures.
 
 ## Usage
 
