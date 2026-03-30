@@ -237,7 +237,17 @@ It is recognized.
 
 ## Examples
 
-- [Olivar (Detailed)](examples/example_olivar.md)
+### Aplications
+
+From simple examples (decision, project, system) to a complete real_world cases (Olivar).
+  
+- [Decision / Block](examples/example_decision.md)
+  
+- [Project](examples/example_project.md)
+
+- [System](examples/example_system.md) 
+  
+- [Olivar (Complete Case)](examples/example_olivar.md)
   
 ### Geometries
   
@@ -249,13 +259,7 @@ It is recognized.
 
 - [Extended Example](examples/example_olivar_extended.md)
 
-### Aplications
-  
-- [Decision / Block](examples/example_decision.md)
-  
-- [Project](examples/example_project.md)
 
-- [System](examples/example_system.md) 
 
 ## Usage
 
