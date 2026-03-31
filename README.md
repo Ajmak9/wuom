@@ -239,13 +239,15 @@ It is recognized.
 
 ### Aplications
 
-From simple examples (decision, project, system) to a complete real_world cases (Olivar).
+From simple examples (decision, project, system, conflict, numeric) to a complete real_world cases (Olivar).
   
 - [Decision / Block](examples/example_decision.md)
   
 - [Project](examples/example_project.md)
 
-- [System](examples/example_system.md) 
+- [System](examples/example_system.md)
+
+- [Numeric](examples/example_numeric.md)
   
 - [Olivar (Complete Case)](examples/example_olivar.md)
   
