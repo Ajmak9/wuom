@@ -263,6 +263,8 @@ From simple examples (decision, project, system) to a complete real_world cases 
 
 A minimal written interface to use WUOM through its core structures.
 
+- [ Observation Template](template/observation_template.md)
+  
 ## Usage
 
 WUOM is understood through use, not explanation. 
