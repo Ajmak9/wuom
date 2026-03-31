@@ -1,6 +1,6 @@
 # WUOM — Universal Operating Model
 
-👉 https://wuom.carrd.co
+👉 https://trywuom.carrd.co
 
 WUOM (Universal Operating Model) is a structural system designed to organize information, processes, and perception in complex environments.
 
