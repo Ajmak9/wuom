@@ -124,6 +124,7 @@ Templates may require tools such as:
 
 - 📄 Documentation → /docs
 - 🧠 Templates → /templates
+- 📄 Interfaze → /template
 - 👁 Visual → /images
 
 ## Repository Structure
