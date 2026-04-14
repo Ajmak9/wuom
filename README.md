@@ -69,7 +69,7 @@ It is the operational state where all geometries interact.
 2. Use the template 
 3. Apply it to a real situation 
 
-WUOM is learned by doing.
+WUOM is learned through use.
 
 ---
 
@@ -242,7 +242,7 @@ It is recognized.
 
 ### Aplications
 
-From simple examples (decision, project, system, conflict, numeric) to a complete real_world cases (Olivar).
+From simple examples (decision, project, system, conflict, numeric) to a complete real-world cases (Olivar).
   
 - [Decision / Block](examples/example_decision.md)
   
