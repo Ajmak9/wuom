@@ -1,13 +1,30 @@
 # WUOM — Universal Operating Model
 
-👉  Try (30s) – https://trywuom.carrd.co
+👉 Try (30s) - https://trywuom.carrd.co
+
+WUOM is not a business model.
+It is not a corporate strategy, a productivity method, or Web User Object Modelling.
+
+WUOM is a universal operating framework for observation, structure, and decision-making across systems.
 
 WUOM (Universal Operating Model) is a system to understand complex situations, organize variables, and make better decisions.
 
 It helps reduce uncertainty by structuring information instead of simplifying it.
 
-A framework designed for real-world complexity: multiple variables, unclear contexts, and non-linear problems. 
+A framework designed for real-world complexity: multiple variables, unclear contexts, and non-linear problems.
+WUOM does not simplify reality: it structures it.
 
+WUOM is not a closed tool or a fixed method.
+
+It applies to natural systems, human cognition, complex environments, and organizational structures.
+
+The system evolves through use.
+Each geometry can be used independently.
+Together, they form a unified system.
+
+You don’t follow the system. You operate it.
+
+Not a hierarchy. A perspective.
 ---
 
 ## What is WUOM
