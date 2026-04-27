@@ -286,6 +286,43 @@ From simple examples (decision, project, system, conflict, numeric) to a complet
 A minimal written interface to use WUOM through its core structures.
 
 - [ Observation Template](template/observation_template.md)
+
+# WUOM Color Lens
+
+WUOM Color Lens is a practical tool to observe what color does in an image.
+
+It focuses on how color behaves within a specific context.
+
+Main functions:
+
+– Field  
+– Activation  
+– Organization  
+– Pressure  
+– Transition  
+– Edge  
+
+It does not ask what color means.
+It asks what the color is doing here.
+
+WUOM Color Lens can be used independently or alongside WUOM.
+
+Status:
+In preparation.
+
+---
+
+Preview examples:
+
+(see images in /examples)
+<img width="734" height="979" alt="01_SOL_ROJO_EN_HORIZONTE-ENCENDIDO" src="https://github.com/user-attachments/assets/bfc59799-8f79-42f3-ae92-2bfa8d420705" />
+
+<img width="959" height="959" alt="02_CIELO_REFLEJADO_EN-AGUA" src="https://github.com/user-attachments/assets/9a831234-56f8-493c-90f1-5d5cc1ced89f" />
+
+<img width="734" height="979" alt="03_FUEGO_CENTRAL_EN-OSCURIDAD" src="https://github.com/user-attachments/assets/be5ccf35-f573-4694-9107-9a0dc3e2de11" />
+
+<img width="153" height="204" alt="04_ACEITE_EN_PENUMBRA" src="https://github.com/user-attachments/assets/0d9faf53-4709-4fa8-9708-cdac1274d350" />
+
   
 ## Usage
 
