@@ -117,16 +117,16 @@ WUOM is learned through use.
 ## Access
 
 - **WUOM Color Lens** — functional color-reading tool
-  Color Lens → https://roblesrionegro.gumroad.com/l/yiiju
+   → https://roblesrionegro.gumroad.com/l/yiiju
   
 - **WUOM Core** — Modular · Matrix · Spherica
-  Core  → https://roblesrionegro.gumroad.com/l/jxirvw
+   → https://roblesrionegro.gumroad.com/l/jxirvw
   
 - **WUOM Extended** — operational layer
-  Extended → https://roblesrionegro.gumroad.com/l/xaiomm
+   → https://roblesrionegro.gumroad.com/l/xaiomm
   
 - **WUOM Complete** — Color Lens · Core · Extended
-  Complete → https://roblesrionegro.gumroad.com/l/hfmse
+   → https://roblesrionegro.gumroad.com/l/hfmse
  
 ### Individual geometries
 
