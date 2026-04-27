@@ -114,18 +114,29 @@ WUOM is learned through use.
 - ES → https://fuschia-wineberry-c88.notion.site/WUOM-ES-32801379e35c8068bc47c6fa97613183?pvs=143
 
 ### Gumroad
+## Access
 
-- BIO → https://roblesrionegro.gumroad.com/
-
-- Modular → https://roblesrionegro.gumroad.com/l/bwscsi
-
-- Matrix → https://roblesrionegro.gumroad.com/l/zlztg
-
-- Spherica → https://roblesrionegro.gumroad.com/l/bajthx
-
+- **WUOM Color Lens** — functional color-reading tool
+- Color Lens → https://roblesrionegro.gumroad.com/l/yiiju
+  
+- **WUOM Core** — Modular · Matrix · Spherica
+- Core  → https://roblesrionegro.gumroad.com/l/jxirvw
+  
+- **WUOM Extended** — operational layer
+- Extended → https://roblesrionegro.gumroad.com/l/xaiomm
+  
+- **WUOM Complete** — Color Lens · Core · Extended
 - Complete → https://roblesrionegro.gumroad.com/l/hfmse
+ 
+### Individual geometries
 
-- Extended → https://roblesrionegro.gumroad.com/l/xaiomm 
+- **WUOM Modular** → https://roblesrionegro.gumroad.com/l/bwscsi
+
+- **WUOM Matrix** → https://roblesrionegro.gumroad.com/l/zlztg
+
+- **WUOM Spherica** → https://roblesrionegro.gumroad.com/l/bajthx
+  
+- BIO → https://roblesrionegro.gumroad.com/
 
 ---
 
