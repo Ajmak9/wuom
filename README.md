@@ -317,10 +317,6 @@ It does not ask what color means.
 It asks what the color is doing here.
 
 WUOM Color Lens can be used independently or alongside WUOM.
-
-Status:
-In preparation.
-
 ---
 
 Preview examples:
