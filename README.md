@@ -142,11 +142,20 @@ WUOM is learned through use.
 
 ## Notes
 
-WUOM is independent from any specific software.
-
 Templates may require tools such as:
 - GIMP 
-- Word or compatible editors 
+- Word or compatible editors
+  
+## Note on use
+
+WUOM does not create certainty, replace action, or guarantee an outcome.
+
+It makes structures, relationships, dependencies, and contradictions legible within a complex field.
+
+If difficulty appears, it belongs to the field being observed, not to the tool itself. 
+WUOM is independent from any specific software.
+
+
 
 ## Structure
 
