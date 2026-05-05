@@ -152,9 +152,9 @@ WUOM does not create certainty, replace action, or guarantee an outcome.
 
 It makes structures, relationships, dependencies, and contradictions legible within a complex field.
 
-If difficulty appears, it belongs to the field being observed, not to the tool itself. 
-WUOM is independent from any specific software.
+If difficulty appears, it belongs to the field being observed, not to the tool itself.                                                                        WUOM does not create those conditions; it makes them legible.
 
+WUOM is independent from any specific software.
 
 
 ## Structure
