@@ -127,7 +127,12 @@ WUOM is learned through use.
   
 - **WUOM Complete** — Color Lens · Core · Extended
    → https://roblesrionegro.gumroad.com/l/hfmse
- 
+    
+ ### WUOM Void Orientation 
+Advanced orientation module for incomplete, ambiguous or saturated fields.  
+Recommended as a continuation of WUOM and Color Lens.
+ → https://roblesrionegro.gumroad.com/l/zfmka
+
 ### Individual geometries
 
 - **WUOM Modular** → https://roblesrionegro.gumroad.com/l/bwscsi
