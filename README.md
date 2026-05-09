@@ -130,7 +130,7 @@ WUOM is learned through use.
     
  ### WUOM Void Orientation 
 Advanced orientation module for incomplete, ambiguous or saturated fields.  
-Recommended as a continuation of WUOM and Color Lens.
+Recommended as an continuation of WUOM and Color Lens, not as a first entry point into the system.
  → https://roblesrionegro.gumroad.com/l/zfmka
 
 ### Individual geometries
