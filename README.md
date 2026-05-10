@@ -132,6 +132,14 @@ WUOM is learned through use.
 Advanced orientation module for incomplete, ambiguous or saturated fields.  
 Recommended as an continuation of WUOM and Color Lens, not as a first entry point into the system.
  → https://roblesrionegro.gumroad.com/l/zfmka
+ 
+## Multi-Scale Operational Ecosystem
+
+WUOM works as an operational ecosystem rather than a fixed methodology.
+
+Its layers can operate across different scales: local fields, structural systems, perceptual readings and broader relational contexts.
+
+WUOM does not provide a closed total map. It offers tools for observing, structuring and orienting within fields that may expand beyond their initial frame. 
 
 ### Individual geometries
 
