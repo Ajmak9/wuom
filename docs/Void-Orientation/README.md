@@ -5,6 +5,7 @@
 It is designed for working with incomplete, ambiguous, unresolved or saturated fields where standard structural reading is not enough to determine a viable direction.
 
 Void Orientation does not try to simplify complexity or force false closure.  
+
 It helps identify:
 
 - what is present
