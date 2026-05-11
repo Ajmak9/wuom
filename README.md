@@ -141,6 +141,121 @@ Its layers can operate across different scales: local fields, structural systems
 
 WUOM does not provide a closed total map. It offers tools for observing, structuring and orienting within fields that may expand beyond their initial frame. 
 
+# WUOM Field Scope Mode
+
+**WUOM Field Scope** is not a separate product.
+
+It is a **macro-reading mode** already contained within WUOM.
+
+It helps users move from local details to the wider field: from isolated elements to systems, relationships, routes, constraints, hidden factors, and emerging patterns.
+
+---
+
+## 1. Purpose
+
+Many complex situations cannot be understood by looking only at isolated parts.
+
+A single element may be visible, but the wider structure around it may remain unclear.
+
+WUOM Field Scope helps the user step back and observe the broader field without losing contact with the concrete details.
+
+---
+
+## 2. Micro View
+
+The **micro view** focuses on:
+
+- details
+- signals
+- individual elements
+- local behavior
+- specific actions
+- small changes
+- visible traces
+
+This view is useful for detecting what is happening at close range.
+
+---
+
+## 3. Macro View
+
+The **macro view** focuses on:
+
+- field
+- context
+- layers
+- relationships
+- routes
+- constraints
+- scale
+- hidden factors
+- emerging patterns
+
+This view is useful for understanding how the parts relate to each other inside a wider system.
+
+---
+
+## 4. Core Formula
+
+```text
+detail → field
+element → system
+signal → pattern
+local view → macro view
+
+5. How to Use It
+
+When using WUOM Field Scope, ask:
+
+What is the visible detail?
+What wider field does it belong to?
+What relationships are active?
+What layers are involved?
+What routes or flows can be detected?
+What constraints are visible or hidden?
+What pattern may be emerging?
+What changes when the observation scale is expanded?
+6. Difference from WUOM Color Lens
+
+WUOM Color Lens focuses on the operational behavior of color.
+
+WUOM Field Scope focuses on the operational behavior of the field.
+
+Color Lens → how color acts
+Field Scope → how a wider field behaves
+
+Color Lens helps read chromatic behavior.
+
+Field Scope helps read how a wider system is structured and how its elements relate across scale.
+
+7. What It Is Not
+
+WUOM Field Scope is not:
+
+a separate product
+a new framework outside WUOM
+a replacement for WUOM Color Lens
+a promise of total knowledge
+a dashboard that claims to see everything
+
+It is a mode of use inside WUOM.
+
+8. What It Does
+
+WUOM Field Scope helps the user:
+
+expand the observation scale
+connect details with wider structures
+identify active relationships
+distinguish local signals from broader patterns
+detect constraints and hidden factors
+read networks, routes, layers, and field behavior
+avoid confusing isolated elements with the whole system
+
+9. Closing Sentence
+
+WUOM Field Scope allows the user to move from close observation to wider field reading: not by abandoning the detail, but by placing it inside a larger structure of relationships, layers, routes, constraints, and patterns.
+
 ### Individual geometries
 
 - **WUOM Modular** → https://roblesrionegro.gumroad.com/l/bwscsi
