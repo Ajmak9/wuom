@@ -298,7 +298,6 @@ If difficulty appears, it belongs to the field being observed, not to the tool i
 
 WUOM is independent from any specific software.
 
-```markdown
 ## Note on AI Use
 
 WUOM can be used without AI.
