@@ -257,8 +257,12 @@ avoid confusing isolated elements with the whole system
 
 WUOM Field Scope allows the user to move from close observation to wider field reading: not by abandoning the detail, but by placing it inside a larger structure of relationships, layers, routes, constraints, and patterns.
 
+---
+
 ## Direct Access
+
 ### Documentation
+
 ### Individual geometries
 
 - **WUOM Modular** → https://roblesrionegro.gumroad.com/l/bwscsi
