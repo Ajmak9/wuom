@@ -241,27 +241,24 @@ a dashboard that claims to see everything
 
 It is a mode of use inside WUOM.
 
-8. What It Does
+## 8. What It Does
 
 WUOM Field Scope helps the user:
 
-expand the observation scale
-connect details with wider structures
-identify active relationships
-distinguish local signals from broader patterns
-detect constraints and hidden factors
-read networks, routes, layers, and field behavior
-avoid confusing isolated elements with the whole system
-
-9. Closing Sentence
-
-WUOM Field Scope allows the user to move from close observation to wider field reading: not by abandoning the detail, but by placing it inside a larger structure of relationships, layers, routes, constraints, and patterns.
+- expand the observation scale
+- connect details with wider structures
+- identify active relationships
+- distinguish local signals from broader patterns
+- detect constraints and hidden factors
+- read networks, routes, layers, and field behavior
+- avoid confusing isolated elements with the whole system
 
 ---
 
-## Direct Access
+## 9. Closing Sentence
 
-### Documentation
+WUOM Field Scope allows the user to move from close observation to wider field reading: not by abandoning the detail, but by placing it inside a larger structure of relationships, layers, routes, constraints, and patterns.
+
 
 ### Individual geometries
 
