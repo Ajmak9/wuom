@@ -197,6 +197,7 @@ This view is useful for understanding how the parts relate to each other inside 
 
 ## 4. Core Formula
 
+´´´text
 detail → field
 element → system
 signal → pattern
@@ -216,6 +217,8 @@ When using WUOM Field Scope, ask:
 -What changes when the observation scale is expanded?
 
 6. Difference from WUOM Color Lens
+
+´´´text
 
 WUOM Color Lens focuses on the operational behavior of color.
 
