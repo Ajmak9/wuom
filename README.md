@@ -207,14 +207,15 @@ local view → macro view
 
 When using WUOM Field Scope, ask:
 
-What is the visible detail?
-What wider field does it belong to?
-What relationships are active?
-What layers are involved?
-What routes or flows can be detected?
-What constraints are visible or hidden?
-What pattern may be emerging?
-What changes when the observation scale is expanded?
+-What is the visible detail?
+-What wider field does it belong to?
+-What relationships are active?
+-What layers are involved?
+-What routes or flows can be detected?
+-What constraints are visible or hidden?
+-What pattern may be emerging?
+-What changes when the observation scale is expanded?
+
 6. Difference from WUOM Color Lens
 
 WUOM Color Lens focuses on the operational behavior of color.
