@@ -197,49 +197,49 @@ This view is useful for understanding how the parts relate to each other inside 
 
 ## 4. Core Formula
 
-detail → field
+- detail → field
 
-element → system
+- element → system
 
-signal → pattern
+- signal → pattern
 
-local view → macro view
+- local view → macro view
 
 ## 5. How to Use It
 
-When using WUOM Field Scope, ask:
+ When using WUOM Field Scope, ask:
 
--What is the visible detail?
+- What is the visible detail?
 
--What wider field does it belong to?
+- What wider field does it belong to?
 
--What relationships are active?
+- What relationships are active?
 
--What layers are involved?
+- What layers are involved?
 
--What routes or flows can be detected?
+- What routes or flows can be detected?
 
--What constraints are visible or hidden?
+- What constraints are visible or hidden?
 
--What pattern may be emerging?
+- What pattern may be emerging?
 
--What changes when the observation scale is expanded?
+- What changes when the observation scale is expanded?
 
-6. Difference from WUOM Color Lens
+## 6. Difference from WUOM Color Lens
 
 WUOM Color Lens focuses on the operational behavior of color.
 
 WUOM Field Scope focuses on the operational behavior of the field.
 
-Color Lens → how color acts
+- Color Lens → how color acts
 
-Field Scope → how a wider field behaves
+- Field Scope → how a wider field behaves
 
 Color Lens helps read chromatic behavior.
 
 Field Scope helps read how a wider system is structured and how its elements relate across scale.
 
-7. What It Is Not
+## 7. What It Is Not
 
 WUOM Field Scope is not:
 
