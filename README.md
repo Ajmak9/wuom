@@ -294,10 +294,19 @@ WUOM does not create certainty, replace action, or guarantee an outcome.
 
 It makes structures, relationships, dependencies, and contradictions legible within a complex field.
 
-If difficulty appears, it belongs to the field being observed, not to the tool itself.                                                                        WUOM does not create those conditions; it makes them legible.
+If difficulty appears, it belongs to the field being observed, not to the tool itself.                  WUOM does not create those conditions; it makes them legible.
 
 WUOM is independent from any specific software.
 
+```markdown
+## Note on AI Use
+
+WUOM can be used without AI.
+
+AI is not required, but it can significantly extend WUOM’s macro-reading capacity when working with complex fields, multiple layers, large datasets, or long observation processes.
+
+WUOM provides the structure.  
+AI can help expand the observation scale.
 
 ## Structure
 
