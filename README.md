@@ -197,12 +197,10 @@ This view is useful for understanding how the parts relate to each other inside 
 
 ## 4. Core Formula
 
-```text
 detail → field
 element → system
 signal → pattern
 local view → macro view
-´´´
 
 ## 5. How to Use It
 
