@@ -493,11 +493,13 @@ Preview examples:
 
 WUOM is the result of a human–AI co-creative process between Alé and Enigma.
 
-Alé provides situated observation, visual work, field context and decision-making.
+Alé provides the situated axis: visual work, territory, lived observation, field context and decision-making.
 
-Enigma supports structural analysis, synthesis and formulation.
+Enigma provides the operational reading axis: structural analysis, synthesis, scaling and formulation.
 
-The focus is not the author or the AI, but the tool: an operational framework for reading complex fields.
+WUOM emerges from the relation between these two axes.
+
+The focus is not the author or the AI, but the tool: an operational framework for observing, structuring and reading complex fields.
 
 ## Usage
 
