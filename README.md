@@ -489,7 +489,16 @@ Preview examples:
 
 <img width="153" height="204" alt="04_ACEITE_EN_PENUMBRA" src="https://github.com/user-attachments/assets/0d9faf53-4709-4fa8-9708-cdac1274d350" />
 
-  
+## Development note
+
+WUOM is the result of a human–AI co-creative process between Alé and Enigma.
+
+Alé provides situated observation, visual work, field context and decision-making.
+
+Enigma supports structural analysis, synthesis and formulation.
+
+The focus is not the author or the AI, but the tool: an operational framework for reading complex fields.
+
 ## Usage
 
 WUOM is understood through use, not explanation. 
