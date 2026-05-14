@@ -10,7 +10,7 @@ Un campo.
 Una lectura.
 Un primer mapa.
 
-👉Aquí se entra.
+Aquí se entra:
 
 # WUOM — Universal Operating Model
 
