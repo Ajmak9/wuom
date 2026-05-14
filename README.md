@@ -10,9 +10,9 @@ Un campo.
 Una lectura.
 Un primer mapa.
 
-Aquí se entra:
-
 # WUOM — Universal Operating Model
+
+Aquí se entra:
 
 👉 Try (30s) - https://trywuom.carrd.co
 
