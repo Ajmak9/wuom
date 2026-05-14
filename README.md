@@ -1,3 +1,15 @@
+<img width="1122" height="1402" alt="WUOM_PUERTA_LINKEDIN" src="https://github.com/user-attachments/assets/b04564ea-3d0f-4da2-8b4e-6ddf843f7d8e" />
+## WUOM — Primera Puerta
+
+WUOM no empieza acelerando.
+
+Empieza bajando velocidad, observando un campo, localizando sus elementos y detectando el primer patrón.
+
+Un campo.
+Una lectura.
+Un primer mapa.
+
+Aquí se entra.
 # WUOM — Universal Operating Model
 
 👉 Try (30s) - https://trywuom.carrd.co
