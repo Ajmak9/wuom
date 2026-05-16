@@ -1,9 +1,7 @@
 
-
-![Uploading WUOM_EN.png…]()
-
-
 # WUOM — Universal Operating Model
+
+<img width="1122" height="1402" alt="WUOM_EN" src="https://github.com/user-attachments/assets/2376e1d4-d5cb-42d2-a141-0e164692fb57" />
 
 Entry here:
 
