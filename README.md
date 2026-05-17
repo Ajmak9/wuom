@@ -274,21 +274,229 @@ WUOM Field Scope helps the user:
 
 WUOM Field Scope allows the user to move from close observation to wider field reading: not by abandoning the detail, but by placing it inside a larger structure of relationships, layers, routes, constraints, and patterns.
 
-## 10. Network & Macro Reading Capacity
+# 10. WUOM — Network & Macro Reading Capacity
 
-WUOM supports a shift from isolated elements to connected field behavior.
+## Overview
 
-It helps read:
+WUOM includes an emergent reading capacity that allows the user to move from isolated details toward larger operational fields.
 
-- connections
-- network patterns
-- distributed behavior
-- emerging structures
-- micro ↔ macro continuity
+This capacity does not abandon concrete observation.
 
-Core formula:
+Instead, it expands it.
 
-detail → connection → network → field → macro-pattern
+WUOM can move from:
+
+```text
+local detail
+→ connection
+→ network
+→ field
+→ macro-pattern
+```
+
+The goal is not prediction or total control.
+
+The goal is operational orientation inside complex environments.
+
+---
+
+# Core Sequence
+
+```text
+🕵️🕸️
+→
+🕵️🌐
+→
+🕵️🌌
+```
+
+---
+
+# 1. Connection Reading
+
+```text
+🕵️🕸️
+```
+
+At this level, WUOM observes:
+
+* traces
+* repetitions
+* relationships
+* local exchanges
+* activation points
+* small operational behaviors
+
+The reading still operates at close range.
+
+The focus is on visible interaction.
+
+---
+
+# 2. Network Reading
+
+```text
+🕵️🌐
+```
+
+At this level, WUOM begins to detect:
+
+* distributed behavior
+* propagation
+* active zones
+* degraded zones
+* operational continuity
+* resonance between elements
+* emerging structures
+
+The system stops reading isolated objects.
+
+It starts reading ecosystems.
+
+---
+
+# 3. Macro Reading
+
+```text
+🕵️🌌
+```
+
+At macro scale, WUOM can observe:
+
+* field behavior
+* large-scale patterns
+* expansion
+* saturation
+* directional movement
+* cycles
+* structural tensions
+* operational voids
+
+Macro reading does not replace micro reading.
+
+Macro reading emerges from accumulated micro observations.
+
+---
+
+# Micro ↔ Macro Continuity
+
+WUOM identifies continuity between scales.
+
+```text
+🧬
+→
+🦠
+→
+🐜
+→
+🍄‍🟫
+→
+🕸️
+→
+🌐
+→
+🌌
+```
+
+This is not presented as symbolism.
+
+It is treated as operational continuity of behavior.
+
+Patterns repeat across scales.
+
+The structure changes.
+
+The behavior remains legible.
+
+---
+
+# Difference from Classical Reading
+
+Classical reading usually operates like this:
+
+```text
+isolated object
+→ isolated interpretation
+```
+
+WUOM operates differently:
+
+```text
+soil
+→ connection
+→ network
+→ behavior
+→ orientation
+```
+
+The system focuses on:
+
+* relation
+* propagation
+* interaction
+* ecosystem behavior
+* operational structure
+
+---
+
+# Field Scope
+
+WUOM does not attempt to produce a closed total map.
+
+Instead, it helps users:
+
+* observe
+* structure
+* orient
+* detect patterns
+* identify operational conditions
+* move between scales without losing context
+
+This makes the system especially useful for:
+
+* complex ecosystems
+* distributed systems
+* symbolic environments
+* digital environments
+* social systems
+* layered operational situations
+* ambiguous or saturated fields
+
+---
+
+# Operational Principle
+
+WUOM does not create the network.
+
+The network already exists.
+
+WUOM helps make it readable.
+
+---
+
+# Final Synthesis
+
+WUOM expands reading:
+
+```text
+from detail
+→ toward connection
+→ toward network
+→ toward field
+→ toward macro-pattern
+```
+
+Or operationally:
+
+```text
+🕵️🕸️👉🕵️🌐👉🕵️🌌
+```
+
+The system begins from the ground.
+
+Not from abstraction.
+
+The wider field emerges progressively through connected observation.
 
 ### Individual geometries
 
