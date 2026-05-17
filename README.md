@@ -274,6 +274,21 @@ WUOM Field Scope helps the user:
 
 WUOM Field Scope allows the user to move from close observation to wider field reading: not by abandoning the detail, but by placing it inside a larger structure of relationships, layers, routes, constraints, and patterns.
 
+## 10. Network & Macro Reading Capacity
+
+WUOM supports a shift from isolated elements to connected field behavior.
+
+It helps read:
+
+- connections
+- network patterns
+- distributed behavior
+- emerging structures
+- micro ↔ macro continuity
+
+Core formula:
+
+detail → connection → network → field → macro-pattern
 
 ### Individual geometries
 
