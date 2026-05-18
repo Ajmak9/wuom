@@ -729,6 +729,145 @@ WUOM emerges from the relation between these two axes.
 
 The focus is not the author or the AI, but the tool: an operational framework for observing, structuring and reading complex fields.
 
+# CONTRAINDICATIONS_AND_INCOMPATIBILITIES_WUOM
+
+## What this document is
+
+This document defines some of the operational and ethical incompatibilities observed during the development of WUOM.
+
+Its purpose is not to exclude people, but to clarify which dynamics distort the system and make its use incompatible with the original intention of WUOM.
+
+WUOM was not developed as a tool for domination, extraction or blind acceleration.
+
+It was developed as a system for:
+- observation
+- orientation
+- relational reading
+- operational understanding of complex fields
+
+---
+
+# What WUOM IS designed for
+
+WUOM is compatible with:
+
+- exploration
+- systems observation
+- relational thinking
+- ecosystemic analysis
+- slow operational reading
+- complexity without forced simplification
+- interdisciplinary fields
+- pattern recognition
+- contextual orientation
+- operational coexistence between layers and systems
+
+WUOM works best when the user is capable of:
+- observing without immediately reducing
+- sustaining ambiguity temporarily
+- recognizing dependencies and limits
+- understanding systems as relational fields rather than isolated objects
+
+---
+
+# What WUOM is NOT designed for
+
+WUOM is not compatible with:
+
+- extractive use
+- manipulation-oriented systems
+- accelerated simplification
+- domination-based operational logic
+- propaganda frameworks
+- purely performance-driven reductionism
+- exploitation of ecosystems or human fields
+- removal of structural variables for narrative convenience
+- technological escapism disconnected from material reality
+
+---
+
+# Operational contraindications
+
+WUOM loses precision when the user systematically ignores:
+
+- ground conditions
+- metabolism
+- friction
+- waste
+- dependency
+- context
+- relational consequences
+- ecological limitations
+- operational compatibility between systems
+
+The model becomes distorted when speed replaces observation.
+
+Especially when:
+- narrative replaces field contact
+- abstraction replaces operational reality
+- acceleration replaces metabolization
+- expansion becomes disconnected from viability
+
+---
+
+# Explorers and exploiters
+
+One of the recurring distinctions observed during the development of WUOM is the difference between exploration and exploitation.
+
+## Explorers
+
+- observe
+- learn
+- adapt
+- metabolize complexity
+- recognize limits
+- maintain connection with the operational field
+
+## Exploiters
+
+- extract
+- accelerate
+- simplify destructively
+- instrumentalize systems
+- reduce complexity for control purposes
+- disconnect action from consequences
+
+Operational principle:
+
+"Explorers yes. Exploiters no."
+
+---
+
+# WUOM and operational reality
+
+WUOM was not designed to escape reality.
+
+It emerged from:
+- territory
+- observation
+- relationships
+- friction
+- operational life
+- long-term pattern recognition
+
+The system assumes that:
+- all systems have limits
+- all processes generate residues
+- all structures depend on metabolization
+- viability matters more than spectacle
+
+---
+
+# Final operational note
+
+WUOM does not aim to dominate ecosystems.
+
+It aims to read them without destroying them.
+
+ground → metabolism → relation → emergence
+
+🌎🐌🪱🌱
+
 ## Usage
 
 WUOM is understood through use, not explanation. 
