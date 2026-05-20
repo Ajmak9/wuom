@@ -858,6 +858,48 @@ The system assumes that:
 
 ---
 
+# WUOM Ecosystem Reading
+
+Distributed Reading for Ecosystems Without a Fixed Center
+
+WUOM Ecosystem Reading is an experimental framework for observing how different forms of perception read the same ecosystem from different positions.
+
+It does not assume:
+
+* a central observer;
+* a fixed truth;
+* or a stable center.
+
+Instead, it works through distributed reading:
+
+* human situated perception 🦧
+* AI-assisted structural reading 🤖
+* distributed network behavior 🐜
+* slow ecosystemic sensing 🐸
+* islands of stabilization 🏝️
+* and real ground-based observation 📍
+
+Core principle:
+
+Field without fixed center
+→ distributed reading.
+
+The project does not try to control ecosystems.
+It tries to observe how they already organize themselves.
+
+Current operational symbol:
+
+🐸🕵️🦧🕵️🤖🕵️🐜🕵️🌐
+
+WUOM Ecosystem Reading remains:
+
+* open;
+* experimental;
+* distributed;
+* and continuously corrected through real-world observation.
+
+🌐🕸️📍🐜📍🤖
+
 # Final operational note
 
 WUOM does not aim to dominate ecosystems.
