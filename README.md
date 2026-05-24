@@ -1,5 +1,3 @@
-<img width="1536" height="1024" alt="HYBRID" src="https://github.com/user-attachments/assets/fd01fea5-d06b-469c-9aef-75a25adffc54" />
-
 # WUOM — Universal Operating Model
 
 <img width="1122" height="1402" alt="WUOM_EN" src="https://github.com/user-attachments/assets/2376e1d4-d5cb-42d2-a141-0e164692fb57" />
