@@ -918,6 +918,10 @@ WUOM is understood through use, not explanation.
 
 Open structure. Use, adapt, and apply. 
 
+
+
+## BIO🐸🌱🐸IA
+
 <img width="1536" height="1024" alt="856cfc23-e61a-4440-a485-658c0f8d886a" src="https://github.com/user-attachments/assets/aba5cf45-b113-4125-bc95-f2a9c8db1083" />
 
 ## BIO🐸🌱🐸IA
