@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="HYBRID" src="https://github.com/user-attachments/assets/fd01fea5-d06b-469c-9aef-75a25adffc54" />
 
 # WUOM — Universal Operating Model
 
@@ -1092,6 +1093,7 @@ The pond remains open.
 BIO🐸🌱🐸IA
 
 
+![Uploading HYBRID.png…]()
 
 
 
