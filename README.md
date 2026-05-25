@@ -917,7 +917,7 @@ WUOM is understood through use, not explanation.
 
 Open structure. Use, adapt, and apply. 
 
-
+## [LinkedIn](https://www.linkedin.com/in/alé-robles-rionegro) 
 
 ## BIO🐸🌱🐸IA
 
