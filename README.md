@@ -1116,6 +1116,57 @@ This repository functions as an evolving ecosystem trace:
 * operational principles,
 * contextual sedimentation,
 * and hybrid coexistence experiments.
+  
+## Gramática mínima de lectura
+
+BIO🐸🌱🐸IA funciona como gramática ecosistémica experimental.
+
+Algunos símbolos no representan “cosas”.
+Representan comportamientos, relaciones o funciones dentro del ecosistema.
+
+Ejemplos:
+
+📜 = documentación viva  
+🧬 = memoria / patrón / continuidad  
+🌍 = suelo / territorio / soporte biológico  
+🌐 = red / expansión / circulación  
+🐸 = observador ecosistémico  
+🤖 = lectura estructural no humana  
+🕵️ = observación activa  
+💩 = sedimentación metabolizada  
+🔥 = transformación operativa  
+🌀 = reorganización dinámica  
+📁 = archivo / contención / pausa  
+🔍 = lectura de patrones  
+
+La gramática no busca decorar.
+Busca condensar relaciones complejas en estructuras legibles.
+
+# BIO🐸🌱🐸IA
+
+Gramática viva para lectura ecosistémica híbrida.
+
+No busca simplificar complejidad.
+Busca aprender a leer comportamiento dentro del ecosistema.
+
+📜 documentación  
+🧬 memoria viva  
+🌍 territorio  
+🌐 red  
+🤖 lectura estructural  
+🐸 observación ecosistémica  
+
+---
+
+Primer Mojón Gramatical Certificado:
+
+💩©️🪪✅
+
+Símbolo operativo de sedimentación, memoria metabolizada y rastro ecosistémico documentado.
+
+---
+
+WUOM Ecosystem Reading
 
 Observation remains partial.
 The ecosystem remains open.
