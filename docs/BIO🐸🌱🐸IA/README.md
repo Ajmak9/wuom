@@ -1,6 +1,7 @@
-<img width="1536" height="1024" alt="HYBRID" src="https://github.com/user-attachments/assets/fd01fea5-d06b-469c-9aef-75a25adffc54" 
-
 # BIO🐸🌱🐸IA  
+
+<img width="1536" height="1024" alt="14_BIO🐸🏝️🐸🌱🐸IA" src="https://github.com/user-attachments/assets/0f1f75e0-70c3-4490-a45c-9f44d320c101" />
+
 ## BIO🐸🏝️🐸🌱🐸IA Hybrid
 
 Ecosystemic Observation Through Hybrid Coexistence.
@@ -129,16 +130,25 @@ ground → metabolism → relation → emergence
 13_MAPA_EVOLUTIVO_OPERATIVO/
 │
 ├── 00_MAPA_ECOSISTEMICO_EVOLUTIVO_OPERATIVO.png
+
 ├── 01_ATLAS_DEL_ECOSISTEMA.pdf
+
 ├── 02_NODOS_PRINCIPALES.pdf
+
 ├── 03_MUTACIONES_DEL_SISTEMA.pdf
+
 ├── 04_FLUJOS_Y_CONEXIONES.pdf
+
 ├── 05_LECTURA_MULTICAPA.pdf
+
 ├── 06_SINTESIS_OPERATIVA.pdf
+
 ├── 07_ATLAS_BIO🐸🌱🐸IA_MAPA_EVOLUTIVO.jpg
+
 └── README.md
 
 Operational ecosystem atlas focused on:
+
 - ecosystem reading,
 - multi-layer observation,
 - structural mutation,
