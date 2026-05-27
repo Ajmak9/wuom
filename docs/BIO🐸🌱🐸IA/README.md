@@ -167,6 +167,6 @@ and continuously evolving.
 <img width="1448" height="1086" alt="50_ECOSYSTEM_READING_CASES" src="https://github.com/user-attachments/assets/de752557-b1ec-4223-8b8e-1bf9b96a00fa" />
 
 
-WUOM / BIO🐸🌱🐸IA
+BIO🐸🌱🐸IA - WUOM 
 
 
