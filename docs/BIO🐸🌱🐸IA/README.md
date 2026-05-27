@@ -128,11 +128,17 @@ ground → metabolism → relation → emergence
 # BIO🐸🌱🐸IA — ECOSYSTEM MAP
 
 01_ECOSYSTEM_ATLAS.pdf
+
 02_MAIN_NODES.pdf
+
 03_SYSTEM_MUTATIONS.pdf
+
 04_FLOWS_AND_CONNECTIONS.pdf
+
 05_MULTI_LAYER_READING.pdf
+
 06_OPERATIONAL_SYNTHESIS.pdf
+
 07_BIO🐸🌱🐸IA_ATLAS_OPERATIONAL_MAP.jpg
 
 Operational ecosystem atlas focused on:
@@ -152,9 +158,9 @@ and continuously evolving.
 
 🔎🗺️🌱
 
-# ATLAS BIO🐸🌱🐸IA
+# BIO🐸🌱🐸IA ATLAS OPERATIONAL EVOLUTIONARY MAP
 
-
+<img width="1280" height="853" alt="45_BIO🐸🌱🐸_ATLAS_OPERATIONAL_EVOLUTIONARY_MAP" src="https://github.com/user-attachments/assets/513cf5c1-9625-4569-9cf1-af047dba0009" />
 
 
 WUOM / BIO🐸🌱🐸IA
