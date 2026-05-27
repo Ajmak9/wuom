@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="41_MAPA_ECOSISTEMICO_EVOLUTIVO_OPERATIVO" src="https://github.com/user-attachments/assets/f8f4f909-cdc6-4656-a7ac-135099ec18b1" /><img width="1536" height="1024" alt="HYBRID" src="https://github.com/user-attachments/assets/fd01fea5-d06b-469c-9aef-75a25adffc54" />
+<img width="1536" height="1024" alt="HYBRID" src="https://github.com/user-attachments/assets/fd01fea5-d06b-469c-9aef-75a25adffc54" 
 
 # BIO🐸🌱🐸IA  
 ## BIO🐸🏝️🐸🌱🐸IA Hybrid
