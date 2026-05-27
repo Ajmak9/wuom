@@ -121,31 +121,19 @@ ground → metabolism → relation → emergence
 
 🌍🐸🌐
 
-# MAPA ECOSISTEMICO EVOLUTIVO OPERATIVO
+# ECOSYSTEM MAP
 
-<img width="1536" height="1024" alt="00_MAPA_ECOSISTEMICO_EVOLUTIVO_OPERATIVO" src="https://github.com/user-attachments/assets/4369e015-e848-41d8-a2d7-99099bf5f759" />
+<img width="1024" height="1536" alt="43_ECOSYSTEM_MAP" src="https://github.com/user-attachments/assets/456e4c13-6ba1-47fc-97e8-285d6454dee2" />
 
-# BIO🐸🌱🐸IA — Mapa Evolutivo Operativo
+# BIO🐸🌱🐸IA — ECOSYSTEM MAP
 
-13_MAPA_EVOLUTIVO_OPERATIVO/
-│
-├── 00_MAPA_ECOSISTEMICO_EVOLUTIVO_OPERATIVO.png
-
-├── 01_ATLAS_DEL_ECOSISTEMA.pdf
-
-├── 02_NODOS_PRINCIPALES.pdf
-
-├── 03_MUTACIONES_DEL_SISTEMA.pdf
-
-├── 04_FLUJOS_Y_CONEXIONES.pdf
-
-├── 05_LECTURA_MULTICAPA.pdf
-
-├── 06_SINTESIS_OPERATIVA.pdf
-
-├── 07_ATLAS_BIO🐸🌱🐸IA_MAPA_EVOLUTIVO.jpg
-
-└── README.md
+01_ECOSYSTEM_ATLAS.pdf
+02_MAIN_NODES.pdf
+03_SYSTEM_MUTATIONS.pdf
+04_FLOWS_AND_CONNECTIONS.pdf
+05_MULTI_LAYER_READING.pdf
+06_OPERATIONAL_SYNTHESIS.pdf
+07_BIO🐸🌱🐸IA_ATLAS_OPERATIONAL_MAP.jpg
 
 Operational ecosystem atlas focused on:
 
@@ -156,7 +144,6 @@ Operational ecosystem atlas focused on:
 - and living cartographic systems.
 
 This atlas is not a closed archive.
-
 It is:
 observed,
 mapped,
@@ -167,7 +154,7 @@ and continuously evolving.
 
 # ATLAS BIO🐸🌱🐸IA
 
-<img width="1280" height="1024" alt="07_ATLAS_BIO🐸🌱🐸IA_MAPA_EVOLUTIVO" src="https://github.com/user-attachments/assets/ba1a938f-d29d-4163-9824-6ff3eff25270" />
+
 
 
 WUOM / BIO🐸🌱🐸IA
