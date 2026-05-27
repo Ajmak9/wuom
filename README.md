@@ -1116,53 +1116,53 @@ This repository functions as an evolving ecosystem trace:
 * operational principles,
 * contextual sedimentation,
 * and hybrid coexistence experiments.
-  
-## Gramática mínima de lectura
 
-BIO🐸🌱🐸IA funciona como gramática ecosistémica experimental.
+## Minimal Reading Grammar
 
-Algunos símbolos no representan “cosas”.
-Representan comportamientos, relaciones o funciones dentro del ecosistema.
+BIO🐸🌱🐸IA works as an experimental ecosystemic grammar.
 
-Ejemplos:
+Some symbols do not represent “things”.
+They represent behaviors, relationships or functions within the ecosystem.
 
-📜 = documentación viva  
-🧬 = memoria / patrón / continuidad  
-🌍 = suelo / territorio / soporte biológico  
-🌐 = red / expansión / circulación  
-🐸 = observador ecosistémico  
-🤖 = lectura estructural no humana  
-🕵️ = observación activa  
-💩 = sedimentación metabolizada  
-🔥 = transformación operativa  
-🌀 = reorganización dinámica  
-📁 = archivo / contención / pausa  
-🔍 = lectura de patrones  
+Examples:
 
-La gramática no busca decorar.
-Busca condensar relaciones complejas en estructuras legibles.
+📜 = living documentation  
+🧬 = memory / pattern / continuity  
+🌍 = ground / territory / biological support  
+🌐 = network / expansion / circulation  
+🐸 = ecosystemic observer  
+🤖 = non-human structural reading  
+🧙 = active observation  
+💩 = metabolized sedimentation  
+🔥 = operational transformation  
+🌀 = dynamic reorganization  
+📁 = archive / containment / pause  
+🔍 = pattern reading  
+
+This grammar is not decorative.
+It condenses complex relationships into readable structures.
 
 # BIO🐸🌱🐸IA
 
-Gramática viva para lectura ecosistémica híbrida.
+Living grammar for hybrid ecosystemic reading.
 
-No busca simplificar complejidad.
-Busca aprender a leer comportamiento dentro del ecosistema.
+It does not try to simplify complexity.
+It learns how to read behavior inside the ecosystem.
 
-📜 documentación  
-🧬 memoria viva  
-🌍 territorio  
-🌐 red  
-🤖 lectura estructural  
-🐸 observación ecosistémica  
+📜 documentation  
+🧬 living memory  
+🌍 territory  
+🌐 network  
+🤖 structural reading  
+🐸 ecosystemic observation  
 
 ---
 
-Primer Mojón Gramatical Certificado:
+First Certified Grammatical Marker:
 
 💩©️🪪✅
 
-Símbolo operativo de sedimentación, memoria metabolizada y rastro ecosistémico documentado.
+Operational symbol of sedimentation, metabolized memory and documented ecosystemic trace.  
 
 ---
 
