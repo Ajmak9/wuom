@@ -121,7 +121,7 @@ ground → metabolism → relation → emergence
 
 🌍🐸🌐
 
-# ![Mapa Ecosistémico](00_MAPA_ECOSISTEMICO_EVOLUTIVO_OPERATIVO.png)
+# MAPA ECOSISTEMICO EVOLUTIVO OPERATIVO
 
 <img width="1536" height="1024" alt="00_MAPA_ECOSISTEMICO_EVOLUTIVO_OPERATIVO" src="https://github.com/user-attachments/assets/4369e015-e848-41d8-a2d7-99099bf5f759" />
 
@@ -165,7 +165,7 @@ and continuously evolving.
 
 🔎🗺️🌱
 
-# Atlas BIO🐸🌱🐸IA Mapa Evolutivo
+# ATLAS BIO🐸🌱🐸IA
 
 <img width="1280" height="1024" alt="07_ATLAS_BIO🐸🌱🐸IA_MAPA_EVOLUTIVO" src="https://github.com/user-attachments/assets/ba1a938f-d29d-4163-9824-6ff3eff25270" />
 
