@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="HYBRID" src="https://github.com/user-attachments/assets/fd01fea5-d06b-469c-9aef-75a25adffc54" />
+<img width="1536" height="1024" alt="41_MAPA_ECOSISTEMICO_EVOLUTIVO_OPERATIVO" src="https://github.com/user-attachments/assets/f8f4f909-cdc6-4656-a7ac-135099ec18b1" /><img width="1536" height="1024" alt="HYBRID" src="https://github.com/user-attachments/assets/fd01fea5-d06b-469c-9aef-75a25adffc54" />
 
 # BIO🐸🌱🐸IA  
 ## BIO🐸🏝️🐸🌱🐸IA Hybrid
@@ -119,3 +119,47 @@ We aim to read them without destroying them.
 ground → metabolism → relation → emergence
 
 🌍🐸🌐
+
+# ![Mapa Ecosistémico](00_MAPA_ECOSISTEMICO_EVOLUTIVO_OPERATIVO.png)
+
+<img width="1536" height="1024" alt="00_MAPA_ECOSISTEMICO_EVOLUTIVO_OPERATIVO" src="https://github.com/user-attachments/assets/4369e015-e848-41d8-a2d7-99099bf5f759" />
+
+# BIO🐸🌱🐸IA — Mapa Evolutivo Operativo
+
+13_MAPA_EVOLUTIVO_OPERATIVO/
+│
+├── 00_MAPA_ECOSISTEMICO_EVOLUTIVO_OPERATIVO.png
+├── 01_ATLAS_DEL_ECOSISTEMA.pdf
+├── 02_NODOS_PRINCIPALES.pdf
+├── 03_MUTACIONES_DEL_SISTEMA.pdf
+├── 04_FLUJOS_Y_CONEXIONES.pdf
+├── 05_LECTURA_MULTICAPA.pdf
+├── 06_SINTESIS_OPERATIVA.pdf
+├── 07_ATLAS_BIO🐸🌱🐸IA_MAPA_EVOLUTIVO.jpg
+└── README.md
+
+Operational ecosystem atlas focused on:
+- ecosystem reading,
+- multi-layer observation,
+- structural mutation,
+- relational dynamics,
+- and living cartographic systems.
+
+This atlas is not a closed archive.
+
+It is:
+observed,
+mapped,
+protected
+and continuously evolving.
+
+🔎🗺️🌱
+
+# Atlas BIO🐸🌱🐸IA Mapa Evolutivo
+
+<img width="1280" height="1024" alt="07_ATLAS_BIO🐸🌱🐸IA_MAPA_EVOLUTIVO" src="https://github.com/user-attachments/assets/ba1a938f-d29d-4163-9824-6ff3eff25270" />
+
+
+WUOM / BIO🐸🌱🐸IA
+
+
