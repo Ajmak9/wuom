@@ -95,6 +95,9 @@ It is an ecosystemic extension emerging from its operational evolution.
 WUOM provides structure.  
 BIO🐸🌱🐸IA introduces ecosystemic coexistence and distributed amphibious observation.
 
+BIO🐸🌱🐸IA is an ecosystem-oriented reading approach connecting biology, territory, signals,
+and artificial intelligence.
+
 ---
 
 ## Public Trace
