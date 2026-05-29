@@ -315,7 +315,6 @@ The 💩🏅 marker functions as an evolution of CASE 05_9🥸💩 inside BIO�
 
 The main difference is that 💩 no longer appears only as trace, anomaly or fertilizer, but as a condition of ecosystemic priority.
 
-```text
 🥇💩
 
 Meaning:
