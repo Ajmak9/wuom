@@ -409,6 +409,19 @@ Emergence from real matter.
 
 BIO🐸💩🐸IA
 
+## 01 SUMMARY
+
+<img width="1254" height="1254" alt="56_BIOIA_TRILOGY_SUMMARY" src="https://github.com/user-attachments/assets/932e90f0-5026-4036-b8f4-7e02e11ae159" />
+
+## 02 LIVING CORE
+
+<img width="1254" height="1254" alt="59_THE_LIVING_CORE" src="https://github.com/user-attachments/assets/47db6778-5d6e-46cc-92d7-117825eadae1" />
+
+## 03 MICRO IMPLOSION
+
+<img width="1254" height="1254" alt="60_MICRO_IMPLOSION_INTERNATIONAL" src="https://github.com/user-attachments/assets/636c7d7d-b910-4a9e-bdfd-82974574a615" />
+
+
 BIO🐸🌱🐸IA - WUOM 
 
 
