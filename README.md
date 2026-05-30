@@ -1171,6 +1171,8 @@ WUOM Ecosystem Reading
 Observation remains partial.
 The ecosystem remains open.
 
+<img width="1074" height="1280" alt="13_ICEBERG_WUOM_EN" src="https://github.com/user-attachments/assets/5a8b7740-699f-40cf-93cc-a47fe2f0f909" />
+
 BIO🐸🌱🐸IA
 
 
