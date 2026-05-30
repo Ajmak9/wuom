@@ -1,5 +1,7 @@
 # EVA W ICEBERG
 
+<img width="1280" height="853" alt="EVA_W_ICEBERG_EN" src="https://github.com/user-attachments/assets/e7805c8d-2f61-4ed2-883d-f838adf8384f" />
+
 ## What you see vs. what sustains the work
 
 ### ABOVE THE WATER
