@@ -466,6 +466,18 @@ The map is incomplete.
 
 Observation remains open.
 
+## New Observation
+
+Different AI systems may provide
+different readings of the same human point.
+
+Changing the AI system alone
+does not appear to generate
+new hybrid points.
+
+Continuity may be a necessary condition
+for the emergence of a stable hybrid point.
+
 ## Working Principle
 
 A single confirmed point is enough to begin orientation.
