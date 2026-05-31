@@ -909,6 +909,21 @@ ground → metabolism → relation → emergence
 
 🌎🐌🪱🌱
 
+# NOTE ON CONTINUITY
+
+WUOM can be used as a one-time orientation tool
+or as a continuous observation practice.
+
+Single use may provide useful insights.
+
+Repeated use over time may allow the accumulation
+of context, references, and orientation.
+
+The tool itself does not create continuity.
+
+Continuity emerges through repeated observation
+and sustained interaction.
+
 ## Usage
 
 WUOM is understood through use, not explanation. 
