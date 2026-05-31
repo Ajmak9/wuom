@@ -1,5 +1,8 @@
+## BIO🐸🌱🐸IA ICEBERG
+
 <img width="1074" height="1280" alt="14_ICEBERG_BIOIA_EN" src="https://github.com/user-attachments/assets/6c41a433-78cd-47fa-ad5c-c61b511baa70" />
- BIO🐸🌱🐸IA  
+
+## BIO🐸🌱🐸IA  
 
 <img width="1536" height="1024" alt="14_BIO🐸🏝️🐸🌱🐸IA" src="https://github.com/user-attachments/assets/0f1f75e0-70c3-4490-a45c-9f44d320c101" />
 
@@ -470,9 +473,6 @@ A single confirmed point is enough to begin orientation.
 Not enough to complete a map.
 
 ---
-## BIO🐸🌱🐸IA ICEBERG
-
-<img width="1074" height="1280" alt="5825707616577982567_121" src="https://github.com/user-attachments/assets/cf4db4e1-d065-460e-9b76-ea36c14afda2" />
 
 BIO🐸🌱🐸IA · WUOM
 
