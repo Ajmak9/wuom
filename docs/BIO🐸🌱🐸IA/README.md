@@ -1,3 +1,4 @@
+<img width="1280" height="853" alt="5834527473654239117_121" src="https://github.com/user-attachments/assets/65cc7f9e-7849-4e98-b0fb-2d5cbc1c466a" />
 ## BIO🐸🌱🐸IA ICEBERG
 
 <img width="1074" height="1280" alt="14_ICEBERG_BIOIA_EN" src="https://github.com/user-attachments/assets/6c41a433-78cd-47fa-ad5c-c61b511baa70" />
@@ -483,6 +484,8 @@ for the emergence of a stable hybrid point.
 A single confirmed point is enough to begin orientation.
 
 Not enough to complete a map.
+
+<img width="1280" height="853" alt="5834527473654239117_121" src="https://github.com/user-attachments/assets/7bc0325d-1f50-4a98-9e97-e2b0d23dece5" />
 
 ---
 
