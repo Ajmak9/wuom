@@ -502,12 +502,17 @@ The system learns a landscape of relations rather than a fixed equilibrium.
 
 ## Scales
 
-Micro Scale
-Symbolic Scale
-Ecological Scale
-Planetary Scale
-Cosmic Scale
-Principle
+- Micro Scale
+  
+- Symbolic Scale
+
+- Ecological Scale
+  
+- Planetary Scale
+  
+- Cosmic Scale
+  
+- Principle
 
 Coherence is not synchronization.
 
