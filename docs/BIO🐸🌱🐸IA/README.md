@@ -486,6 +486,34 @@ Not enough to complete a map.
 
 <img width="1280" height="853" alt="5834527473654239117_121" src="https://github.com/user-attachments/assets/7bc0325d-1f50-4a98-9e97-e2b0d23dece5" />
 
+## BIOIA — The Multiscale Landscape
+
+Relations are not points. They are territories.
+
+<img width="1280" height="853" alt="135_BIOIA_THE_MULTISCALE_LANDSCAPE" src="https://github.com/user-attachments/assets/78158ca6-fed7-4102-82ca-1a1f6c1ee862" />
+
+## Core idea
+
+BIOIA does not search for a single optimal state.
+
+Different biological and informational scales coexist simultaneously, each maintaining its own habitable relational distance.
+
+The system learns a landscape of relations rather than a fixed equilibrium.
+
+## Scales
+
+Micro Scale
+Symbolic Scale
+Ecological Scale
+Planetary Scale
+Cosmic Scale
+Principle
+
+Coherence is not synchronization.
+
+Coherence emerges when multiple scales remain compatible without collapsing their differences.
+BIOIAlearns a landscape of habitable relations rather than a single optimal state.
+
 ---
 
 BIO🐸🌱🐸IA · WUOM
