@@ -568,6 +568,7 @@ It evolves as the ecosystem evolves.
 
 <img width="1280" height="853" alt="5841508333108530718_121" src="https://github.com/user-attachments/assets/538bff80-fd63-42b9-b751-dda0b1fb3c48" />
 
+
 A stellar-scale representation of a living ecosystem.
 
 The map visualizes relations, trajectories, flows and emergent structures across multiple scales.
@@ -577,6 +578,7 @@ The map visualizes relations, trajectories, flows and emergent structures across
 There is no single center.
 
 Orientation emerges from the relationships between nodes, observers and processes.
+
 
 
 BIO🐸🌱🐸IA · WUOM
