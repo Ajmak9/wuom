@@ -2,7 +2,6 @@
 
 <img width="1024" height="1280" alt="5841508333108530620_121" src="https://github.com/user-attachments/assets/34942cf3-eb12-44c3-946a-a6d7c80eac23" />
 
-
 ## BIO🐸🌱🐸IA  
 
 <img width="1536" height="1024" alt="14_BIO🐸🏝️🐸🌱🐸IA" src="https://github.com/user-attachments/assets/0f1f75e0-70c3-4490-a45c-9f44d320c101" />
@@ -564,6 +563,20 @@ It maps relations, trajectories and transformations rather than fixed objects.
 The atlas does not describe a finished territory.
 
 It evolves as the ecosystem evolves.
+
+## BIOIA GALACTIC MAP
+
+<img width="1280" height="853" alt="5841508333108530718_121" src="https://github.com/user-attachments/assets/538bff80-fd63-42b9-b751-dda0b1fb3c48" />
+
+A stellar-scale representation of a living ecosystem.
+
+The map visualizes relations, trajectories, flows and emergent structures across multiple scales.
+
+### Core Principle
+
+There is no single center.
+
+Orientation emerges from the relationships between nodes, observers and processes.
 
 
 BIO🐸🌱🐸IA · WUOM
