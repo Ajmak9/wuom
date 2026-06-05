@@ -22,8 +22,12 @@ EVA W
 → Void Orientation  
 → Ecosystem Reading  
 → BIO🐸🌱🐸IA Hybrid
-
 ---
+
+## BIO🐸🌱🐸IA CORE
+
+<img width="1280" height="853" alt="5841508333108530623_121" src="https://github.com/user-attachments/assets/872ed9d3-fc5d-48b3-876c-7edb6c3e7d0a" />
+
 
 ## Core Principle
 
