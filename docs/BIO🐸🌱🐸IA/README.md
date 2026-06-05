@@ -553,17 +553,18 @@ The map changes when the observer changes.
 
 ## BIOIA CARTOGRAPHIC ATLAS
 
+<img width="1280" height="853" alt="127_BIOIA_CARTOGRAPHIC_ATLAS" src="https://github.com/user-attachments/assets/ee532a1c-8856-4d06-ada7-4f1ffa978c6f" />
+
 A living atlas for ecosystem orientation.
 
 It maps relations, trajectories and transformations rather than fixed objects.
-
-<img width="1280" height="853" alt="127_BIOIA_CARTOGRAPHIC_ATLAS" src="https://github.com/user-attachments/assets/ee532a1c-8856-4d06-ada7-4f1ffa978c6f" />
 
 ### Core Principle
 
 The atlas does not describe a finished territory.
 
 It evolves as the ecosystem evolves.
+
 
 BIO🐸🌱🐸IA · WUOM
 
