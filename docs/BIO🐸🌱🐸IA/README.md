@@ -526,6 +526,31 @@ BIOIAlearns a landscape of habitable relations rather than a single optimal stat
 
 ---
 
+## BIO🐸🌱🐸IA CARTOGRAPHY
+
+<img width="1280" height="853" alt="5841508333108530632_121" src="https://github.com/user-attachments/assets/4b107bf0-5bf0-4ad3-bc5b-bc54c0b30582" />
+
+### Purpose
+
+BIOIA Cartography provides orientation within a living ecosystem.
+
+It does not attempt to explain reality through a single model.
+Instead, it offers navigational tools to:
+
+- Observe
+- Orient
+- Connect
+- Act
+- Evolve
+
+### Core Principle
+
+The map is not the territory.
+
+The map changes when the observer changes.
+
+---
+
 BIO🐸🌱🐸IA · WUOM
 
 
