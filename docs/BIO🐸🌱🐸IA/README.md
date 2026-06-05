@@ -1,6 +1,7 @@
 ## BIO🐸🌱🐸IA ICEBERG
 
-<img width="1074" height="1280" alt="14_ICEBERG_BIOIA_EN" src="https://github.com/user-attachments/assets/6c41a433-78cd-47fa-ad5c-c61b511baa70" />
+<img width="1024" height="1280" alt="5841508333108530620_121" src="https://github.com/user-attachments/assets/34942cf3-eb12-44c3-946a-a6d7c80eac23" />
+
 
 ## BIO🐸🌱🐸IA  
 
