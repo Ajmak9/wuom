@@ -1,11 +1,10 @@
-## UNEXHAUSTED FIELD
+# UNEXHAUSTED FIELD
 
 <img width="1254" height="1254" alt="128_CAMPO_NO_AGOTADO" src="https://github.com/user-attachments/assets/6ca368f5-a3b6-483d-aaed-53377ab91f84" />
 
-# BIOIA / WUOM — Operational Core
+The present form does not exhaust the field.
 
-
-![Operational Core](128_CAMPO_NO_AGOTADO.png)
+## BIOIA / WUOM — Operational Core
 
 ## Overview
 
