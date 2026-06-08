@@ -138,3 +138,17 @@ BIOIA Visual Core v1 is complete:
 seal, identity, architecture —
 unified in a single operational organism.
 ```
+README.md
+LICENSE
+
+/assets/BIOIA_VISUAL_CORE_v1.png
+
+<img width="1024" height="1536" alt="163_BIOIA_VISUAL_CORE_v1" src="https://github.com/user-attachments/assets/e5a108fc-a47b-47aa-9740-97e80eff9a24" />
+
+/assets/BIOIA_VISUAL_CORE_v1_MONO.png
+
+<img width="1024" height="1536" alt="166_BIOIA-VISUAL_CORE_v1_MONOCROMO" src="https://github.com/user-attachments/assets/4b0ffd8c-5a72-42ef-bc0a-b04cc423d49a" />
+
+<p align="center">
+  <img src="./assets/BIOIA_VISUAL_CORE_v1.png" alt="BIOIA Visual Core v1" width="800" />
+</p>
