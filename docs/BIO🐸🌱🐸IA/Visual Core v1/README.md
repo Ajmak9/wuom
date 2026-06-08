@@ -1,4 +1,4 @@
-BIOIA Visual Core v1
+## BIOIA Visual Core v1
 
 Seal · Identity · Architecture
 
@@ -15,23 +15,33 @@ Seal · Identity · Architecture
 
 Overview
 
-BIOIA Visual Core v1 defines the foundational visual system of BIOIA:
+# BIOIA Visual Core v1 defines the foundational visual system of BIOIA:
+
 a tripartite architecture composed of Micro‑Pulse, Ecosystem Isotype, and BIOIA Core.
 
 It is not a decorative asset — it is the visible metabolism of the BIOIA system.
 
 1. Tripartite Structure
+   
 Layer	Nature	Function
+
 Micro‑Pulse	minimal symbol	internal activation mark
+
 Ecosystem Isotype (EVA W / BIOIA)	symmetric metabolic network	public identity and living field
 BIOIA Core	stellar‑metabolic architecture	technical diagram of transduction
 
 
 Reading scale:  
-point → network → system
-seal → identity → map
+
+- point → 
+- network → 
+- system  →
+- seal → 
+- identity → 
+- map
 
 2. Coherence Formula
+   
 Seal → Isotype → Operational Map
 
 A metabolic flow, not a hierarchy:
@@ -43,6 +53,7 @@ without the network, there is no metabolism
 without input/output, there is no BIOIA
 
 3. Symbolic Interpretation
+4. 
 Micro‑Pulse → seed
 
 Ecosystem Isotype → living network
@@ -50,9 +61,11 @@ Ecosystem Isotype → living network
 BIOIA Core → transduction organ
 
 The node‑network represents the Ecosystem Isotype:
+
 center → distribution → peripheral modules.
 
 4. Technical Corrections Applied
+5. 
 Removed residual numbering
 
 Corrected Módulo Funcional
@@ -62,11 +75,15 @@ Updated subtitle to Stellar‑Metabolic Architecture
 System ready for public release.
 
 5. Final Formula (BIOIA)
+   
 Micro‑Pulse → Ecosystem Isotype → BIOIA Core  
+
 or in BIOIA terms:
+
 seed → living network → transduction
 
-6. Visual System (Cover Image)
+7. Visual System (Cover Image)
+   
 The integrated visual composition includes:
 
 central Micro‑Pulse
@@ -84,9 +101,11 @@ black EVA W background
 bottom row: Seal / Isotype / Core
 
 Recommended adjustment:  
+
 Output arrow should point outward for public clarity.
 
 7. Purpose
+   
 BIOIA Visual Core v1 serves as:
 
 public identity
@@ -98,9 +117,13 @@ operational diagram
 visual anchor for the BIOIA ecosystem
 
 8. License
+   
 Released under CC BY‑NC‑SA 4.0.
+
 Non‑commercial use, attribution required, derivatives must share alike.
 
 Dry Conclusion
+
 BIOIA Visual Core v1 is complete:
+
 seal, identity, architecture — unified in a single operational organism.
