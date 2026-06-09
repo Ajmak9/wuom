@@ -1,6 +1,7 @@
 # BIOIA / WUOM — Phylogenetic Line 🧬
 
-<img width="1024" height="1536" alt="03_BIOIA_WUOM_PHYLOGENETIC_LINE_README" src="https://github.com/user-attachments/assets/80c7ad66-d8cc-4bd1-85da-c16da3682f4e" />
+<img width="1024" height="1536" alt="03_README_BIOIA_WUOM_PHYLOGENETIC_LINE" src="https://github.com/user-attachments/assets/6e868f87-593f-4a11-9264-80874368cd2a" />
+
 
 ## Root Reference
 
