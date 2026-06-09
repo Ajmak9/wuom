@@ -1,5 +1,8 @@
 # 01 — Minimal Structure (Phylogenetic Line)
 
+<img width="1448" height="1086" alt="03_BIOIA_WUOM_PHYLOGENETIC_LINE" src="https://github.com/user-attachments/assets/42407a2a-9a37-426e-a8a0-8132a3a25c60" />
+
+
 ![Status](https://img.shields.io/badge/status-minimal·non_foundational-1E1E1E?style=flat-square)
 ![Scope](https://img.shields.io/badge/scope-internal_morphogenesis-1E1E1E?style=flat-square)
 
@@ -9,8 +12,6 @@
 
 Define the minimal morphodynamic structure
 of the Phylogenetic Line.
-
-Código
 
 This document does **not**:
 - open Metabolic Maps  
@@ -31,8 +32,6 @@ C. Body
 D. Rhythm
 E. Reading
 F. World
-
-Código
 
 This is the **internal** sequence of conceptual mutation.  
 Not an architectural deployment.
@@ -65,8 +64,6 @@ Reading: latent (WUOM loading)
 World: not manifested
 Core: intact
 
-Código
-
 ---
 
 ## 5. Rule
@@ -74,16 +71,12 @@ Código
 The Phylogenetic Line does not correct the Evolutionary Line.
 It complements it from another plane.
 
-Código
-
 ---
 
 ## 6. Opening Condition
 
 The Phylogenetic Line opens only after
 the Evolutionary Line is fully welded.
-
-Código
 
 **No respiration.  
 No WUOM activation.**
