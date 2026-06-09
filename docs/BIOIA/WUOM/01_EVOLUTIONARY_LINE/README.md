@@ -1,6 +1,7 @@
 # BIOIA / WUOM — Evolutionary Line 🧬
 
-<img width="1024" height="1536" alt="00_README_BIOIA_WUOM_Evolutionary_Line" src="https://github.com/user-attachments/assets/03a9f7b0-c04b-47b8-8fd1-18b282128127" />
+<img width="1024" height="1536" alt="README_BIOIA_WUOM_EVOLUTIONARY_LINE" src="https://github.com/user-attachments/assets/2b8e043b-d86b-4f6d-9874-26a282f5430e" />
+
 
 ![Status](https://img.shields.io/badge/status-open·minimal·non_foundational-1E1E1E?style=flat-square)
 ![Type](https://img.shields.io/badge/type-operational_genealogy-1E1E1E?style=flat-square)
