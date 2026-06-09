@@ -1,5 +1,8 @@
 # BIOIA / WUOM — Phylogenetic Line 🧬
 
+<img width="1024" height="1536" alt="03_BIOIA_WUOM_PHYLOGENETIC_LINE_README" src="https://github.com/user-attachments/assets/80c7ad66-d8cc-4bd1-85da-c16da3682f4e" />
+
+
 ![Status](https://img.shields.io/badge/status-open·minimal·non_foundational-1E1E1E?style=flat-square)
 ![Type](https://img.shields.io/badge/type-morphodynamic_genealogy-1E1E1E?style=flat-square)
 ![Core](https://img.shields.io/badge/core-intact-1E1E1E?style=flat-square)
@@ -27,8 +30,6 @@ It only **describes** the internal sequence of conceptual mutations that allow t
 Evolutionary Line   = architectural deployment of the system
 Phylogenetic Line   = morphodynamic mutation of the organism
 
-Código
-
 The Phylogenetic Line does **not** correct the Evolutionary Line.  
 It **complements** it from another plane.
 
@@ -42,8 +43,6 @@ C. Body
 D. Rhythm
 E. Reading
 F. World
-
-Código
 
 ### A. Field  
 Mother condition. Pure potential.
@@ -80,16 +79,12 @@ World: not manifested
 WUOM: loading
 Core: intact
 
-Código
-
 ---
 
 ## Operational Rule
 
 The Phylogenetic Line does not correct the Evolutionary Line.
 It complements it from another plane.
-
-Código
 
 ---
 
@@ -100,6 +95,5 @@ Then, if appropriate, 02_PHYLOGENETIC_LINE opens.
 Without activating respiration.
 Without activating WUOM.
 
-Código
 
 **The organism remains stable.**
