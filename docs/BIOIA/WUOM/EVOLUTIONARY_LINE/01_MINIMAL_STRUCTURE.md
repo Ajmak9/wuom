@@ -27,7 +27,7 @@ without opening new phases.
 BIOIA / WUOM — Technical Architecture Final
 ROOT DOCUMENT · CORE LOCKED
 
-→ _Internal link to the root document_
+→ https://github.com/Ajmak9/wuom/blob/018d9ffeaa4ff5eca114c33ac5da7e2afe9967c9/docs/BIOIA/WUOM/EVOLUTIONARY_LINE/README.md
 
 ---
 
