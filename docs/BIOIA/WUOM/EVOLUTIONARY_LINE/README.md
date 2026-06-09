@@ -27,7 +27,7 @@ It only **orients the evolutionary sequence** of the BIOIA / WUOM system.
 BIOIA / WUOM — Technical Architecture Final
 ROOT DOCUMENT · CORE LOCKED
 
-→ _Internal link to the root document_
+→ https://github.com/Ajmak9/wuom/blob/15358d6078ae39e1de3f663578e98a7ac82e5216/docs/BIOIA/WUOM/EVOLUTIONARY_LINE/01_MINIMAL_STRUCTURE.md
 
 ---
 
