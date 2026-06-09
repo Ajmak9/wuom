@@ -2,6 +2,9 @@
 
 <img width="1024" height="1536" alt="03_BIOIA_WUOM_PHYLOGENETIC_LINE_README" src="https://github.com/user-attachments/assets/80c7ad66-d8cc-4bd1-85da-c16da3682f4e" />
 
+## Root Reference
+
+→ [Root reference](../00_MANIFEST.md)
 
 ![Status](https://img.shields.io/badge/status-open·minimal·non_foundational-1E1E1E?style=flat-square)
 ![Type](https://img.shields.io/badge/type-morphodynamic_genealogy-1E1E1E?style=flat-square)
