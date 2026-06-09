@@ -1,6 +1,6 @@
 # BIOIA / WUOM
 
-<p align="center" img width="100%" height="1024" alt="BIOIA_WUOM_README_NOTION_EN" src="https://github.com/user-attachments/assets/eb4c32cd-2ee1-43d9-9ab8-7a93de291739" />
+<p align="center"img width="100%"height="1024"alt="BIOIA_WUOM_README_NOTION_EN"src="https://github.com/user-attachments/assets/eb4c32cd-2ee1-43d9-9ab8-7a93de291739" />
 
 ## Minimal Orientation Repository
 
