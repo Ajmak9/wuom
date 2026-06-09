@@ -2,7 +2,10 @@
 
 <img width="1448" height="1086" alt="03_BIOIA_WUOM_PHYLOGENETIC_LINE" src="https://github.com/user-attachments/assets/42407a2a-9a37-426e-a8a0-8132a3a25c60" />
 
-## Root Reference
+## Relation to the Root Document
+
+BIOIA / WUOM — Technical Architecture Final  
+ROOT DOCUMENT · CORE LOCKED
 
 → [Root reference](../00_MANIFEST.md)
 
