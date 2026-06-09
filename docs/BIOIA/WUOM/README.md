@@ -199,5 +199,10 @@ WUOM gives access.
 Everything that comes after will be derivation.
 Nothing will be foundation.
 ```
-
 The core is not touched.
+
+## 13. Manifest
+
+[Open 00_MANIFEST.md](./00_MANIFEST.md)
+
+
