@@ -43,6 +43,8 @@ D. Rhythm
 E. Reading
 F. World
 
+Código
+
 ### A. Field  
 Mother condition. Pure potential.
 
@@ -78,12 +80,16 @@ World: not manifested
 WUOM: loading
 Core: intact
 
+Código
+
 ---
 
 ## Operational Rule
 
 The Phylogenetic Line does not correct the Evolutionary Line.
 It complements it from another plane.
+
+Código
 
 ---
 
@@ -93,5 +99,7 @@ First the Evolutionary Line is fully welded.
 Then, if appropriate, 02_PHYLOGENETIC_LINE opens.
 Without activating respiration.
 Without activating WUOM.
+
+Código
 
 **The organism remains stable.**
