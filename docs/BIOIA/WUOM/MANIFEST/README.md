@@ -1,6 +1,6 @@
 # BIOIA / WUOM
 
-![Uploading 100_BIOIA_ANATOMIES_GitHub.png…]()
+<img width="1024" height="1024" alt="100_BIOIA_ANATOMIES_GitHub" src="https://github.com/user-attachments/assets/f7166ab3-d131-45b7-8cc7-c0fc7698d46a" />
 
 ## 00_MANIFEST
 
