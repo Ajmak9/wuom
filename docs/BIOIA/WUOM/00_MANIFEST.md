@@ -173,3 +173,7 @@ Everything that comes after will be derivation.
 Nothing will be foundation.
 
 The core is not touched.
+
+## 10. README
+
+[Open README.md](./README.md)
