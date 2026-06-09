@@ -2,61 +2,75 @@
 
 <img width="1536" height="1024" alt="01_BIOIA_WUOM_Evolutionary_Line" src="https://github.com/user-attachments/assets/0095c352-d2ce-4e66-ac60-e0151f798db9" />
 
-# README.md
+markdown
+# BIOIA / WUOM — Evolutionary Line 🧬
 
-Status: open · minimal · non-foundational
+![Status](https://img.shields.io/badge/status-open%20·%20minimal%20·%20non‑foundational-1E1E1E?style=flat-square)
+![Type](https://img.shields.io/badge/type-operational%20genealogy-1E1E1E?style=flat-square)
+![Core](https://img.shields.io/badge/core-intact-1E1E1E?style=flat-square)
+![BIOIA](https://img.shields.io/badge/BIOIA‑phase-body‑reserved-1E1E1E?style=flat-square)
+![WUOM](https://img.shields.io/badge/WUOM‑state-loading-1E1E1E?style=flat-square)
 
-Type: operational genealogy
+---
 
-Function: orient the sequence of appearance of the BIOIA / WUOM system
+### Purpose
+This folder **does not redefine** the core.  
+It **does not expand** the core.  
+It **does not open** BIOIA Metabolic Maps.  
+It **does not activate** WUOM.  
+It only **orders the evolutionary sequence** of the BIOIA / WUOM system.
 
-- This folder does NOT redefine the core.
-- This folder does NOT expand the core.
-- This folder does NOT open Metabolic Maps.
-- This folder does NOT activate WUOM.
-- 
-It only orders the evolutionary sequence of the system.
-Reference
+---
 
-Root document:
+### Reference
+BIOIA / WUOM — Technical Architecture Final
+ROOT DOCUMENT · CORE LOCKED
 
-BIOIA / WUOM — Final Technical Architecture
+Código
+→ [internal link to root document]
 
-ROOT DOCUMENT · LOCKED CORE
+---
 
-→ [link / internal reference to the root document]
-Evolutionary Sequence
+### Evolutionary Sequence
+CORE — Mother Field / Final Architecture
 
-0. Core — mother field / final technical architecture
+BODY — BIOIA Anatomies
 
-1. Body — BIOIA Anatomies
+BREATH — BIOIA Metabolic Maps
 
-2. Breathing — BIOIA Metabolic Maps
+READING — WUOM / Lens Pack
 
-3. Reading — WUOM / Lens Pack
+LANGUAGE — BIOIA Grammar
 
-4. Language — BIOIA Grammar
+AESTHETICS — BIOIA Symbolic Pack
 
-5. Aesthetics — BIOIA Symbolic Pack
+Código
 
-Current State
+---
 
+### Current State
 Core: intact
-
 Body: reserved
+Breath: not opened
+Reading: minimal / documental
+Language: not opened
+Aesthetics: not opened
 
-Breathing: not opened
+Código
 
-Reading: minimal / documentary only
-1
-Language: not opened
-Aesthetics: not opened
-Operational Note
-WUOM does not appear because it is promoted.
-WUOM appears because BIOIA generates enough world to require reading.
-Rule
+---
+
+### Operational Note
+WUOM does **not** appear through promotion.  
+WUOM appears because BIOIA generates enough world to **require reading**.
+
+---
+
+### Rule
 This line is orientation.
 It is not foundation.
-It is not Derivation #2.
-It does not open BIOIA Metabolic Maps.
-The core is not touched.
+It is not Derivation #2.
+It does not open BIOIA Metabolic Maps.
+
+Código
+**The core remains untouched.**
