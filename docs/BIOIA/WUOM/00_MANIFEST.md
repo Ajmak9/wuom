@@ -8,7 +8,7 @@
 **Scope:** public technical manifest
 **Core:** locked · non-modifiable
 
----
+--- 
 
 ## 1. Purpose
 
