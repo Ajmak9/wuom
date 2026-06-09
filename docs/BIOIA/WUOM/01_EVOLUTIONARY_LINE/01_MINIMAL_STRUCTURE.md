@@ -27,7 +27,7 @@ without opening new phases.
 BIOIA / WUOM — Technical Architecture Final
 ROOT DOCUMENT · CORE LOCKED
 
-[Root reference](../00_MANIFEST.md)
+→ [Root reference](../00_MANIFEST.md)
 
 ---
 
