@@ -1,4 +1,3 @@
-Markdown
 # BIOIA / WUOM — Evolutionary Line 🧬
 
 <img width="1024" height="1536" alt="00_README_BIOIA_WUOM_Evolutionary_Line" src="https://github.com/user-attachments/assets/03a9f7b0-c04b-47b8-8fd1-18b282128127" />
