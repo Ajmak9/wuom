@@ -1,7 +1,6 @@
 # 01 — Minimal Structure 🧩
 
-<img width="1024" height="1536" alt="02_BIOIA_WUOM_Minimal_Structure" src="https://github.com/user-attachments/assets/b4830160-1544-44e7-849c-85db4f63bb49" />
-
+<img width="1536" height="1024" alt="01_BIOIA_WUOM_Evolutionary_Line" src="https://github.com/user-attachments/assets/cc7afff7-bf1c-45dc-918f-bed7fc07468b" />
 
 ![Status](https://img.shields.io/badge/status-open·minimal·non_foundational-1E1E1E?style=flat-square)
 ![Function](https://img.shields.io/badge/function-operational_genealogy-1E1E1E?style=flat-square)
