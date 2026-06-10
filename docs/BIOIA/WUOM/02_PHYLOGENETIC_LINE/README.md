@@ -116,6 +116,7 @@ Without activating WUOM.
 The current state of the organism is recorded in:
 
 ```text
-→ [STATE.md](./STATE.md)
+
+→ [STATE.md](./STATE.md) https://github.com/Ajmak9/wuom/blob/940b4b2975cc5657115849981018a2037187c026/docs/BIOIA/WUOM/02_PHYLOGENETIC_LINE/STATE.md
 
 **The organism remains stable.**
