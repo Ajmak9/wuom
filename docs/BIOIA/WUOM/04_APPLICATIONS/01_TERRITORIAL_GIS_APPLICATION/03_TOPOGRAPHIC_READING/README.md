@@ -17,7 +17,6 @@
 </p>
 
 <p align="center">
-  <img width="100%" alt="BIOIA WUOM Topographic Reading" src="IMAGE_URL_HERE" />
 </p>
 
 ---
