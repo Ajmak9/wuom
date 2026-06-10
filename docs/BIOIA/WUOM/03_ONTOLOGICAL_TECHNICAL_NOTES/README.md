@@ -1,6 +1,6 @@
 # BIOIA / WUOM — Ontological Technical Notes
 
-<img width="1448" height="1086" alt="02_ATLAS#_BIOIA_WUOM_v0 4" src="https://github.com/user-attachments/assets/ddf3a634-7f62-453f-8104-5496f041135e" />
+<img width="1536" height="1024" alt="BCO 20eaeb59-94f3-433e-9e52-60832fb278e7" src="https://github.com/user-attachments/assets/185a4f4c-4d25-4b02-8452-2a9b58d122f3" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-minimal-4CAF50?style=for-the-badge" />
