@@ -4,7 +4,7 @@
 
 ## Root Reference
 
-→ [Root reference](../00_MANIFEST.md)
+→ [Root reference](../00_MANIFEST.md) 
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-minimal-4CAF50?style=for-the-badge" />
