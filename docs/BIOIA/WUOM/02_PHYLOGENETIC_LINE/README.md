@@ -116,6 +116,6 @@ Without activating WUOM.
 The current state of the organism is recorded in:
 
 ```text
-STATE.md
+→ [STATE.md](./STATE.md)
 
 **The organism remains stable.**
