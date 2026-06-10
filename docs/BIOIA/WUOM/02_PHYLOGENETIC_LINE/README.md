@@ -2,7 +2,6 @@
 
 <img width="1024" height="1536" alt="03_README_BIOIA_WUOM_PHYLOGENETIC_LINE" src="https://github.com/user-attachments/assets/6e868f87-593f-4a11-9264-80874368cd2a" />
 
-
 ## Root Reference
 
 → [Root reference](../00_MANIFEST.md)
