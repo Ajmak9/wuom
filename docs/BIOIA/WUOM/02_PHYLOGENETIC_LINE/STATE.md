@@ -1,12 +1,12 @@
 # BIOIA / WUOM — Phylogenetic Line State
 
-![Uploading BIOIA_WUOM_PHYLOGENETIC_LINE.png…]()
+<img width="1448" height="1086" alt="BIOIA_WUOM_PHYLOGENETIC_LINE" src="https://github.com/user-attachments/assets/1bb884c0-7c97-4c5c-93d5-e67a8f41a69d" />
 
 Root Reference
 
 This document remains dependent on the root technical architecture:
 
-→ Root reference
+→ [Root reference](../00_MANIFEST.md)
 
 <p align="center">
   <img src="https://img.shields.io/badge/state-recorded-4CAF50?style=for-the-badge" />
