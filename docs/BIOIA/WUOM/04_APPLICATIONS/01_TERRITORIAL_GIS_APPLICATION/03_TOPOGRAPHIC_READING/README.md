@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-applied-4CAF50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/type-topographic%20reading-2196F3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/type-topographic%20reading-2196F3?style=for-the-badge" /> 
   <img src="https://img.shields.io/badge/domain-territorial%20GIS-9C27B0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/mode-derived-FF9800?style=for-the-badge" />
 </p>
