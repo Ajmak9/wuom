@@ -1,6 +1,6 @@
 # BIOIA / WUOM — Land Use Change API
 
-<img width="1122" height="1402" alt="177_BIOIA_WUOM_LAND_USE_CHANGE_API"src="https://github.com/user-attachments/assets/7bdf8693-2306-4156-8556-98eebb39adb9" />
+<img width="1122" height="1402" alt="177_BIOIA_WUOM_LAND_USE_CHANGE_API" src="https://github.com/user-attachments/assets/c6a3da05-0f4b-4d91-a24a-f32733415cf2" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-applied%20subcase-4CAF50?style=for-the-badge" />
