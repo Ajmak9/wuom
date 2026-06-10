@@ -7,9 +7,21 @@
 
 → [Root reference](../00_MANIFEST.md)
 
-![Status](https://img.shields.io/badge/status-open·minimal·non_foundational-1E1E1E?style=flat-square)
-![Type](https://img.shields.io/badge/type-morphodynamic_genealogy-1E1E1E?style=flat-square)
-![Core](https://img.shields.io/badge/core-intact-1E1E1E?style=flat-square)
+<p align="center">
+  <img src="https://img.shields.io/badge/status-minimal-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/type-phylogenetic%20line-2196F3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/function-internal%20genealogy-9C27B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/mode-non--foundational-FF9800?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/metabolism-not%20opened-607D8B?style=flat-square" />
+  <img src="https://img.shields.io/badge/breath-not%20activated-607D8B?style=flat-square" />
+  <img src="https://img.shields.io/badge/WUOM-charging-00BCD4?style=flat-square" />
+  <img src="https://img.shields.io/badge/core-intact-8BC34A?style=flat-square" />
+</p>
+
+<img width="1024" height="1536" alt="STATE_PHYLOGENETIC_LINE_README" src="https://github.com/user-attachments/assets/b8623101-472b-46ea-af8e-560ad4b2a018" />
 
 ---
 
@@ -98,6 +110,13 @@ First the Evolutionary Line is fully welded.
 Then, if appropriate, 02_PHYLOGENETIC_LINE opens.
 Without activating respiration.
 Without activating WUOM.
+---
 
+## State File
+
+The current state of the organism is recorded in:
+
+```text
+STATE.md
 
 **The organism remains stable.**
