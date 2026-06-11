@@ -6,27 +6,36 @@ Entry here:
 
 👉 Try (30s) - https://trywuom.carrd.co
 
-WUOM is not a business model.
-It is not a corporate strategy, a productivity method, or Web User Object Modelling.
+WUOM is not a framework, method or business consulting model.
 
-WUOM is a universal operating framework for observation, structure, and decision-making across systems.
+WUOM is an operational reading apparatus for organizing information, processes and perception before acting.
 
-WUOM (Universal Operating Model) is a system to understand complex situations, organize variables, and make better decisions.
+BIOIA is not a product or methodology.
+BIOIA gives the field where WUOM becomes necessary.
 
-It helps reduce uncertainty by structuring information instead of simplifying it.
+It is not a corporate strategy, a productivity method or generic workflow modelling.
 
-A framework designed for real-world complexity: multiple variables, unclear contexts, and non-linear problems.
-WUOM does not simplify reality: it structures it.
+WUOM is an operational reading apparatus for observation, structure and decision-making across complex systems.
 
-WUOM is not a closed tool or a fixed method.
+WUOM — Universal Operating Model — helps understand complex situations, organize variables and make better decisions.
 
-It applies to natural systems, human cognition, complex environments, and organizational structures.
+It reduces uncertainty by structuring information without simplifying it.
+An operational reading apparatus for real-world complexity: multiple variables, unclear contexts and non-linear problems.
+
+WUOM does not simplify reality: it structures it before acting.
+
+WUOM is not a closed tool.
+WUOM is not a fixed method.
+WUOM is not a framework.
+
+It applies to natural systems, human cognition, complex environments and operational structures.
 
 The system evolves through use.
 Each geometry can be used independently.
-Together, they form a unified system.
+Together, they form a unified operating model.
 
-You don’t follow the system. You operate it.
+You do not follow the system.
+You operate it.
 
 Not a hierarchy. A perspective.
 ---
