@@ -1,4 +1,4 @@
-/># BIOIA / WUOM — Field Altimetry and Relief Reading
+# BIOIA / WUOM — Field Altimetry and Relief Reading
 
 <img width="1536" height="1024" alt="BIOIA_WUOM_FIELD_ALTIMETRY_AND_RELIEF_READING" src="https://github.com/user-attachments/assets/3ee3771e-b490-475e-a912-97a99b2263f6" />
 
