@@ -1,6 +1,6 @@
 # BIOIA / WUOM — Socioecological Territory
 
-<img width="1536" height="1024" alt="BIOIA_WUOM_SOCIOECOLOGICAL_TERRITORY" src="IMAGE_URL_HERE" />
+<img width="1536" height="1024" alt="BIOIA_WUOM_SOCIOECOLOGICAL_TERRITORY" src="https://github.com/user-attachments/assets/a70c410c-5cf8-4ea5-8004-87d1f95fd3ea" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-minimal-4CAF50?style=for-the-badge" />
