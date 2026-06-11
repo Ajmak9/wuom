@@ -207,17 +207,23 @@ It remains a technical input inside the applied territorial branch.
 
 ## Application Modules
 
-- [Land Use Change API](./02_LAND_USE_CHANGE_API/)
-- [Topographic Reading](./03_TOPOGRAPHIC_READING/)
-- [Geospatial Risk Reading](./04_GEOSPATIAL_RISK_READING/)
-- [Socioecological Territory](./05_SOCIOECOLOGICAL_TERRITORY/)
-- [Basic Spatial Operations](./06_SPATIAL_OPERATIONS_BASIC/)
-- [Territorial Visualization and Urban Planning](./07_TERRITORIAL_VISUALIZATION_URBAN_PLANNING/)
-- [GIS Lifecycle](./08_GIS_LIFECYCLE/)
-- [Territorial Visibility and Heritage](./09_TERRITORIAL_VISIBILITY_HERITAGE/)
-- [Google Earth Engine and Territorial Automation](./10_GOOGLE_EARTH_ENGINE_AUTOMATION/)
-- [Spatial Indexing and Territorial Search](./11_SPATIAL_INDEXING/)
-  
+* [Land Use Change API](./02_LAND_USE_CHANGE_API/)
+* [Topographic Reading](./03_TOPOGRAPHIC_READING/)
+* [Geospatial Risk Reading](./04_GEOSPATIAL_RISK_READING/)
+* [Socioecological Territory](./05_SOCIOECOLOGICAL_TERRITORY/)
+* [Basic Spatial Operations](./06_SPATIAL_OPERATIONS_BASIC/)
+* [Territorial Visualization and Urban Planning](./07_TERRITORIAL_VISUALIZATION_URBAN_PLANNING/)
+* [GIS Lifecycle](./08_GIS_LIFECYCLE/)
+* [Territorial Visibility and Heritage](./09_TERRITORIAL_VISIBILITY_HERITAGE/)
+* [Google Earth Engine and Territorial Automation](./10_GOOGLE_EARTH_ENGINE_AUTOMATION/)
+* [Spatial Indexing and Territorial Search](./11_SPATIAL_INDEXING/)
+* [Territorial Geometry and Irregular Polygons](./12_TERRITORIAL_GEOMETRY_IRREGULAR_POLYGONS/)
+* [Environmental Assessment and Territorial Decision](./13_ENVIRONMENTAL_ASSESSMENT_TERRITORIAL_DECISION/)
+* [Professional GIS Environment: ArcGIS Pro](./14_PROFESSIONAL_GIS_ENVIRONMENT_ARCGIS_PRO/)
+* [Legend, Classification and Cartographic Veracity](./15_LEGEND_CLASSIFICATION_CARTOGRAPHIC_VERACITY/)
+* [Python + GIS and Analytical Automation](./16_PYTHON_GIS_ANALYTICAL_AUTOMATION/)
+* [AI Safeguards and Operational Governance](./17_AI_SAFEGUARDS_OPERATIONAL_GOVERNANCE/)
+
 ## Technical Note
 
 BIOIA / WUOM is not a GIS tool.
