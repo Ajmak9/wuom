@@ -207,16 +207,16 @@ It remains a technical input inside the applied territorial branch.
 
 ## Application Modules
 
-- Land Use Change API
-- Topographic Reading
-- Geospatial Risk Reading
-- Socioecological Territory
-- Spatial Operations Basic
-- Territorial Visualization and Urban Planning
-- GIS Lifecycle
-- Territorial Visibility and Heritage
-- Google Earth Engine Automation
-- Spatial Indexing
+- [Land Use Change API](./02_LAND_USE_CHANGE_API/)
+- [Topographic Reading](./03_TOPOGRAPHIC_READING/)
+- [Geospatial Risk Reading](./04_GEOSPATIAL_RISK_READING/)
+- [Socioecological Territory](./05_SOCIOECOLOGICAL_TERRITORY/)
+- [Basic Spatial Operations](./06_SPATIAL_OPERATIONS_BASIC/)
+- [Territorial Visualization and Urban Planning](./07_TERRITORIAL_VISUALIZATION_URBAN_PLANNING/)
+- [GIS Lifecycle](./08_GIS_LIFECYCLE/)
+- [Territorial Visibility and Heritage](./09_TERRITORIAL_VISIBILITY_HERITAGE/)
+- [Google Earth Engine and Territorial Automation](./10_GOOGLE_EARTH_ENGINE_AUTOMATION/)
+- [Spatial Indexing and Territorial Search](./11_SPATIAL_INDEXING/)
   
 ## Technical Note
 
