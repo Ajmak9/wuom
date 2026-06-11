@@ -223,6 +223,9 @@ It remains a technical input inside the applied territorial branch.
 * [Legend, Classification and Cartographic Veracity](./15_LEGEND_CLASSIFICATION_CARTOGRAPHIC_VERACITY/)
 * [Python + GIS and Analytical Automation](./16_PYTHON_GIS_ANALYTICAL_AUTOMATION/)
 * [AI Safeguards and Operational Governance](./17_AI_SAFEGUARDS_OPERATIONAL_GOVERNANCE/)
+* * [QField + QGIS Field Survey and Territorial Workflow](./18_QFIELD_QGIS_FIELD_SURVEY_TERRITORIAL_WORKFLOW/)
+* [Field Altimetry and Relief Reading](./19_FIELD_ALTIMETRY_RELIEF_READING/)
+* [Land Cover Mapping and Territorial Classification](./20_LAND_COVER_MAPPING_TERRITORIAL_CLASSIFICATION/)
 
 ## Technical Note
 
