@@ -6,27 +6,18 @@ Entry here:
 
 👉 Try (30s) - https://trywuom.carrd.co
 
-WUOM is not a framework, method or business consulting model.
+WUOM is not a method or business consulting model.
 
 WUOM is an operational reading apparatus for organizing information, processes and perception before acting.
 
 BIOIA is not a product or methodology.
 BIOIA gives the field where WUOM becomes necessary.
 
-It is not a corporate strategy, a productivity method or generic workflow modelling.
+WUOM is not a corporate strategy, a productivity method or generic workflow modelling.
 
-WUOM is an operational reading apparatus for observation, structure and decision-making across complex systems.
+It helps understand complex situations, organize variables and make better decisions.
 
-WUOM — Universal Operating Model — helps understand complex situations, organize variables and make better decisions.
-
-It reduces uncertainty by structuring information without simplifying it.
-An operational reading apparatus for real-world complexity: multiple variables, unclear contexts and non-linear problems.
-
-WUOM does not simplify reality: it structures it before acting.
-
-WUOM is not a closed tool.
-WUOM is not a fixed method.
-WUOM is not a framework.
+It reduces uncertainty by structuring information without simplifying reality.
 
 It applies to natural systems, human cognition, complex environments and operational structures.
 
@@ -38,19 +29,22 @@ You do not follow the system.
 You operate it.
 
 Not a hierarchy. A perspective.
----
+.---
 
 ## What is WUOM
 
 WUOM is not:
-- an application 
-- a productivity tool 
-- a closed methodology 
+
+* an application
+* a productivity tool
+* a closed methodology
+* a business consulting model
 
 WUOM is:
-- a structural model 
-- a visual-operational framework 
-- a system to think, organize and act 
+
+* an operational reading apparatus
+* a structural model for organizing complexity
+* a system to think, organize and act before deciding
 
 ---
 
@@ -59,10 +53,16 @@ WUOM is:
 WUOM allows you to structure reality instead of simplifying it.
 
 It works by applying geometrical systems to organize:
-- information 
-- workflows 
-- decision-making 
-- perception 
+
+* information
+* workflows
+* decision-making
+* perception
+* relations between variables
+
+It does not replace thought.
+
+It prepares thought before action.
 
 ---
 
@@ -257,7 +257,7 @@ Field Scope helps read how a wider system is structured and how its elements rel
 WUOM Field Scope is not:
 
 a separate product
-a new framework outside WUOM
+a new external system
 a replacement for WUOM Color Lens
 a promise of total knowledge
 a dashboard that claims to see everything
@@ -530,7 +530,9 @@ WUOM does not create certainty, replace action, or guarantee an outcome.
 
 It makes structures, relationships, dependencies, and contradictions legible within a complex field.
 
-If difficulty appears, it belongs to the field being observed, not to the tool itself.                  WUOM does not create those conditions; it makes them legible.
+If difficulty appears, it belongs to the field being observed, not to the tool itself.                  
+
+WUOM does not create those conditions; it makes them legible.
 
 WUOM is independent from any specific software.
 
