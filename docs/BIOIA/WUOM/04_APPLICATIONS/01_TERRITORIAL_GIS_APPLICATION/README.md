@@ -205,6 +205,19 @@ It remains a technical input inside the applied territorial branch.
 
 ---
 
+## Application Modules
+
+- Land Use Change API
+- Topographic Reading
+- Geospatial Risk Reading
+- Socioecological Territory
+- Spatial Operations Basic
+- Territorial Visualization and Urban Planning
+- GIS Lifecycle
+- Territorial Visibility and Heritage
+- Google Earth Engine Automation
+- Spatial Indexing
+  
 ## Technical Note
 
 BIOIA / WUOM is not a GIS tool.
