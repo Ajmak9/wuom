@@ -226,7 +226,11 @@ WUOM is not remote sensing software.
 
 BIOIA is not defined as territorial intelligence.
 
-In this application, BIOIA / WUOM can operate as a situated framework for reading territorial complexity.
+In this application, BIOIA / WUOM functions as a situated reading layer for territorial complexity.
+
+GIS organizes spatial layers.
+WUOM reads relations.
+BIOIA gives the living field where that reading makes sense.
 
 The correct integration is:
 
