@@ -9,7 +9,7 @@
 Orthogonality = coexistence without contamination.
 It describes the capacity of different axes, layers, domains, or readings to coexist inside the same field without collapsing into each other, merging improperly, or producing interpretive noise.
 
-# Core definition
+## Core definition
 
 Orthogonality is not separation by isolation.
 
@@ -21,7 +21,7 @@ They may interact, resonate, or remain mutually visible, but their identities do
 
 Orthogonality preserves difference.
 
-# Function
+## Function
 
 53O acts as a structural stabilizer.
 
@@ -43,7 +43,7 @@ Its function is to:
 
 Orthogonality makes plurality readable without reducing it to unity.
 
-# Operational role
+## Operational role
 
 Within BIOIA / WUOM, 53O operates whenever several elements must remain present but distinct.
 
@@ -60,7 +60,7 @@ Each term can relate to the others, but none should absorb the others.
 
 The system remains coherent because difference is maintained.
 
-# Structural principle
+## Structural principle
 
 A field can contain multiple axes
 without collapsing them
@@ -71,7 +71,7 @@ Orthogonality does not deny relation.
 
 It prevents confusion.
 
-# Relation to BIOIA
+## Relation to BIOIA
 
 BIOIA is a living field.
 
@@ -86,7 +86,7 @@ Without orthogonality, BIOIA would risk becoming noise.
 
 With orthogonality, BIOIA remains readable.
 
-# Relation to WUOM
+## Relation to WUOM
 
 WUOM is the reading apparatus.
 
@@ -99,7 +99,7 @@ WUOM orients without collapsing.
 
 53O allows WUOM to distinguish between adjacent structures, detect false equivalences, and prevent forced synthesis.
 
-# Difference from hierarchy
+## Difference from hierarchy
 
 Orthogonality is not hierarchy.
 
@@ -116,7 +116,7 @@ BIOIA / WUOM does not require domination between layers in order to produce cohe
 
 It requires readable difference.
 
-# Difference from opposition
+## Difference from opposition
 
 Orthogonality is not opposition.
 
@@ -129,7 +129,7 @@ Orthogonality preserves difference.
 
 Orthogonal elements may coexist peacefully inside the same field.
 
-# Risk prevented
+## Risk prevented
 
 53O prevents four main risks:
 
@@ -138,23 +138,23 @@ Orthogonal elements may coexist peacefully inside the same field.
 3. Forced synthesis
 4. False equivalence
    
-# 1. Contamination
+### 1. Contamination
 
 One layer begins to define another improperly.
 
-# 2. Collapse
+### 2. Collapse
 
 Different structures lose distinction and become unreadable.
 
-# 3. Forced synthesis
+### 3. Forced synthesis
 
 The system tries to unify elements before their relation is mature.
 
-# 4. False equivalence
+### 4. False equivalence
 
 Different things are treated as if they were the same.
 
-# Minimal formula
+### Minimal formula
 
 Orthogonality = stable difference.
 
@@ -165,7 +165,7 @@ without contamination,
 relation without fusion,
 and plurality without collapse.
 
-# Position inside MATRIX#
+## Position inside MATRIX#
 
 Within MATRIX#, 53O functions as one of the stabilizing invariants.
 
@@ -181,7 +181,7 @@ It allows a matrix state to remain open while keeping its internal axes clean.
 
 Together, they allow the system to remain open without becoming chaotic.
 
-# Status
+## Status
 
 Status: stable
 Code: 53O
@@ -192,7 +192,7 @@ Activation: none
 Expansion: blocked
 Core: intact
 
-# Closing formula
+## Closing formula
 
 Orthogonality conserves difference.
 WUOM reads the difference.
