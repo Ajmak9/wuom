@@ -4,7 +4,7 @@
 
 ## What you see vs. what sustains the work
 
-## EVA W Artworks
+## EVA W Physical Origin
 
 <img width="1152" height="1536" alt="EVA_W_ORIGIN_2025" src="https://github.com/user-attachments/assets/b009f6d9-3e6f-4fb3-828f-0b4769f2446c" />
 
