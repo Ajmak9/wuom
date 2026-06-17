@@ -1,5 +1,4 @@
 # Annex 02 — Field Response
-
 ## Vegetation, Soil and Traces
 
 <p align="center">
