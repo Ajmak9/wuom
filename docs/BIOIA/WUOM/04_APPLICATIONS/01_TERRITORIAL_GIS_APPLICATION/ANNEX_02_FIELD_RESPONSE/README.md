@@ -165,7 +165,7 @@ structure
 ## Scene 01 — Wild Jasmine and Reading Path
 
 <p align="center">
-  <img src="103_WILD_JASMINE_AND_READING_PATH_EN.png" alt="Wild jasmine and reading path" width="850">
+  <img width="1122" height="1402" alt="103_WILD_JASMINE_AND_READING_PATH_EN" src="https://github.com/user-attachments/assets/09eca852-8bd7-4cb2-a5b5-193b436ce336" />
 </p>
 
 **Function:** situated entry point.
@@ -206,7 +206,7 @@ The territory also speaks through the edge of the path.
 ## Scene 02 — 7 PM Field Traces
 
 <p align="center">
-  <img src="104_7PM_FIELD_TRACES_PATH_SCALE_2EUR_EN.png" alt="7 PM field traces with 2 euro scale" width="850">
+  <img width="1448" height="1086" alt="104_7PM_FIELD_TRACES_PATH_SCALE_2EUR_EN" src="https://github.com/user-attachments/assets/864c5009-0a1f-4258-92b6-9f4e2a672d0a" />
 </p>
 
 **Function:** field evidence of territorial activity.
@@ -248,7 +248,7 @@ The territory also speaks through traces.
 ## Scene 03 — Field Response Synthesis
 
 <p align="center">
-  <img src="101_ANNEX_02_FIELD_RESPONSE_VISUAL_EN.png" alt="Annex 02 Field Response synthesis" width="900">
+  <img width="1122" height="1402" alt="105_ANNEX_02_FIELD_RESPONSE_VISUAL_EN" src="https://github.com/user-attachments/assets/3878133f-344d-48cd-b928-e5799ec653ab" />
 </p>
 
 **Function:** structural synthesis.
