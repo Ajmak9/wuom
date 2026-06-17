@@ -20,7 +20,7 @@
 ---
 
 <p align="center">
-  <img src="101_ANNEX_02_FIELD_RESPONSE_VISUAL_EN.png" alt="Annex 02 Field Response visual synthesis" width="900">
+  <img width="1122" height="1402" alt="105_ANNEX_02_FIELD_RESPONSE_VISUAL_EN" src="https://github.com/user-attachments/assets/3878133f-344d-48cd-b928-e5799ec653ab" />
 </p>
 
 ---
