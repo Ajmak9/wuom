@@ -1,8 +1,5 @@
 # Annex 02 — Field Response
 
-<img width="1280" height="960" alt="ANNEX_02_FIELD_RESPONSE_VISUAL_EN" src="https://github.com/user-attachments/assets/9f4e194d-2af8-4841-bcbd-7507e6135cc0" />
-
-
 ## Vegetation, Soil and Traces
 
 <p align="center">
@@ -13,7 +10,7 @@
   <img src="https://img.shields.io/badge/exposure-public%20controlled-607D8B?style=for-the-badge" />
 </p>
 
----
+<img width="1280" height="960" alt="ANNEX_02_FIELD_RESPONSE_VISUAL_EN" src="https://github.com/user-attachments/assets/9f4e194d-2af8-4841-bcbd-7507e6135cc0" />
 
 ## Overview
 
