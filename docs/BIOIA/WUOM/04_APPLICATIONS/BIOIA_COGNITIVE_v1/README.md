@@ -77,7 +77,7 @@ It puts them in relation.
 
 ## Relationship with BIOIA Territorial
 
-<img width="1448" height="1086" alt="109_BIOIA_COGNITIVA_v1_DOUBLE_INTERFACE_EN" src="https://github.com/user-attachments/assets/fcc3ccdc-a82f-484b-84d2-dae9925d0a0e" />
+<img width="1448" height="1086" alt="BIOIA Cognitive v1 — Double Interface EN" src="assets/109_BIOIA_COGNITIVE_v1_DOUBLE_INTERFACE_EN.png" />
 
 BIOIA Territorial reads the field.
 
@@ -102,8 +102,7 @@ This double reading helps avoid two errors:
 
 ## Operational Reading Cycle
 
-<img width="1448" height="1086" alt="110_BIOIA_COGNITIVA_v1_THE_COMPLETE_READING_OPERATION_CYCLE" src="https://github.com/user-attachments/assets/0706ca1f-7bb0-4f0c-88c3-c985de9ed908" />
-
+<img width="1448" height="1086" alt="BIOIA Cognitive v1 — Complete Operational Reading Cycle EN" src="assets/110_BIOIA_COGNITIVE_v1_THE_COMPLETE_READING_OPERATION_CYCLE_EN.png" />
 
 The operational cycle of BIOIA Cognitive v1 is:
 
