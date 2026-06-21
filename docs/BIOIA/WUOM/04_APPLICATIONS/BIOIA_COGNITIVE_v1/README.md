@@ -199,9 +199,9 @@ Return verifies both.**
 
 ## Public Pages
 
-- [CAT — BIOIA Cognitiva v1](URL_CAT_PUBLICA)https://fuschia-wineberry-c88.notion.site/BIOIA-Cognitiva-v1-CAT-38601379e35c80c8a125d1283501caff?pvs=149
-- [ES — BIOIA Cognitiva v1](URL_EN_PUBLICA)https://fuschia-wineberry-c88.notion.site/BIOIA-Cognitiva-v1-ES-38601379e35c80f29462cb006314c6a5?pvs=143
-- [EN — BIOIA Cognitive v1](URL_EN_PUBLICA)https://fuschia-wineberry-c88.notion.site/BIOIA-Cognitive-v1-EN-38601379e35c804d8951d39dfd709724?pvs=143
+- [CAT — BIOIA Cognitiva v1] https://fuschia-wineberry-c88.notion.site/BIOIA-Cognitiva-v1-CAT-38601379e35c80c8a125d1283501caff?pvs=149
+- [ES — BIOIA Cognitiva v1] https://fuschia-wineberry-c88.notion.site/BIOIA-Cognitiva-v1-ES-38601379e35c80f29462cb006314c6a5?pvs=143
+- [EN — BIOIA Cognitive v1] https://fuschia-wineberry-c88.notion.site/BIOIA-Cognitive-v1-EN-38601379e35c804d8951d39dfd709724?pvs=143
 
 ---
 
