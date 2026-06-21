@@ -199,9 +199,9 @@ Return verifies both.**
 
 ## Public Pages
 
-* CAT — BIOIA Cognitiva v1 - https://www.notion.so/BIOIA-Cognitiva-v1-CAT-38601379e35c80c8a125d1283501caff?source=copy_link
-* ES — BIOIA Cognitiva v1 - https://app.notion.com/p/BIOIA-Cognitiva-v1-ES-38601379e35c80f29462cb006314c6a5?source=copy_link
-* EN — BIOIA Cognitive v1 - https://www.notion.so/BIOIA-Cognitive-v1-EN-38601379e35c804d8951d39dfd709724?source=copy_link
+*  https://www.notion.so/BIOIA-Cognitiva-v1-CAT-38601379e35c80c8a125d1283501caff?source=copy_link 
+*  https://app.notion.com/p/BIOIA-Cognitiva-v1-ES-38601379e35c80f29462cb006314c6a5?source=copy_link
+*  https://www.notion.so/BIOIA-Cognitive-v1-EN-38601379e35c804d8951d39dfd709724?source=copy_link
 
 ---
 
@@ -234,4 +234,9 @@ BIOIA Territorial reads the field.
 BIOIA Cognitive reads the reading of the field.
 Return verifies both.
 
+## links
+
+- LinkedIn www.linkedin.com/in/alé-robles-rionegro 
+- Carrd wuom.carrd.co
+  
 **Without return, there is extraction.**
