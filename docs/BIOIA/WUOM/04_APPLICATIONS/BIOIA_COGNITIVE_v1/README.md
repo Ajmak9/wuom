@@ -5,7 +5,7 @@
 ![Use](https://img.shields.io/badge/use-non--extractive-lightgrey)
 ![Return](https://img.shields.io/badge/principle-return%20to%20territory-brightgreen)
 
-<img width="1536" height="1024" alt="108_BIOIA_CONITIVE_v1_EN" src="https://github.com/user-attachments/assets/1c2818ea-c58d-4c3f-abfc-7dedfbe7cc10" />
+<img width="1536" height="1024" alt="BIOIA Cognitive v1 EN" src="assets/108_BIOIA_COGNITIVE_v1_EN.png" />
 
 **Situated reading interface · AI · human experience · verifiable territory · criterion · return**
 
