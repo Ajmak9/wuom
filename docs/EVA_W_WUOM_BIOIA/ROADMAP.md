@@ -8,6 +8,8 @@ It is not a commercial product roadmap.
 
 It is a structural orientation document.
 
+EVA W / WUOM / BIOIA is an independent open research project focused on visual origin, operational reading and situated verification between artificial intelligence, human experience and territory.
+
 ---
 
 # Current Status
