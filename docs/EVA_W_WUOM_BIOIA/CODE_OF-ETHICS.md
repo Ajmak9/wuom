@@ -71,6 +71,7 @@ The territory verifies.
 Understanding precedes action.
 Verification returns knowledge to the territory.
 
-<img width="1402" height="1122" alt="251_BIOI_WUOM_INTEGRITY_SEAL_EN" src="https://github.com/user-attachments/assets/fdf742c1-6ecf-4efb-a83c-923ade8678c8" />
+<img width="1086" height="1448" alt="253_BIOIA_WUOM_ETHICAL_USE_CODE_v1 0_EN" src="https://github.com/user-attachments/assets/cfb60af7-350f-41ba-a7e5-73573713a814" />
+
 
 
