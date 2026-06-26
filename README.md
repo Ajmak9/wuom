@@ -41,15 +41,18 @@ It is a conceptual and operational reading architecture developed by **Daniel Al
 WUOM is not **Web User Object Modelling** and should not be confused with previous academic or technical uses of the same acronym.
 
 Official context:
+
 - EVA W: origin of the visual and conceptual field
 - WUOM: operational reading architecture
-- BIOIA: situated verification field
+- BIOIA: situated verification architecture
 
 Core formulation:
 
 **EVA W gives origin to the gaze.  
 WUOM organizes the reading.  
 BIOIA verifies it in the territory.**
+
+EVA W / WUOM / BIOIA is an independent open research project focused on visual origin, operational reading and situated verification between artificial intelligence, human experience and territory.
 
 ---
 
