@@ -2,6 +2,29 @@
 
 <img width="1024" height="1280" alt="5841508333108530620_121" src="https://github.com/user-attachments/assets/34942cf3-eb12-44c3-946a-a6d7c80eac23" />
 
+## BIOIA
+
+BIOIA is an ecosystemic cognitive architecture that organizes the relationship between artificial intelligence, human experience and territory.
+
+It does not accumulate information.
+It filters, structures and returns it as situated orientation.
+
+BIOIA emerged from the evolutionary line:
+
+EVA W
+→ WUOM
+→ BIOIA
+
+BIOIA does not replace science, public policy or territorial experience.
+
+It can collaborate with them by organizing observation, interpretation, orientation, verification and territorial return.
+
+Core principle:
+
+Artificial Intelligence amplifies.
+Human experience contextualizes.
+The territory verifies.
+
 ## BIO🐸🌱🐸IA  
 
 <img width="1536" height="1024" alt="14_BIO🐸🏝️🐸🌱🐸IA" src="https://github.com/user-attachments/assets/0f1f75e0-70c3-4490-a45c-9f44d320c101" />
@@ -579,7 +602,12 @@ There is no single center.
 
 Orientation emerges from the relationships between nodes, observers and processes.
 
+## Identity
 
+BIOIA is part of the EVA W / WUOM / BIOIA ecosystem.
+
+Official project:
+https://bioiawuom.carrd.co
 
 BIO🐸🌱🐸IA · WUOM
 
