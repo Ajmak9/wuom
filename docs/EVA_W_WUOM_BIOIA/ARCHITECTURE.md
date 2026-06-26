@@ -93,4 +93,4 @@ The central question is:
 
 Project gate:
 
-https://bioiawuom.carrd.co![Uploading EVA_W_WUOM_BIOIA_COMPLETE_ECOSYSTEM_ARCHITECTURE_EN.png…]()
+https://bioiawuom.carrd.co
