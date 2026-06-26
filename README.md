@@ -29,7 +29,29 @@ You do not follow the system.
 You operate it.
 
 Not a hierarchy. A perspective.
+
 .---
+
+## Identity and disambiguation
+
+WUOM means **Universal Operating Model**.
+
+It is a conceptual and operational reading architecture developed by **Daniel Alejandro Robles Rionegro** within the EVA W / WUOM / BIOIA ecosystem.
+
+WUOM is not **Web User Object Modelling** and should not be confused with previous academic or technical uses of the same acronym.
+
+Official context:
+- EVA W: origin of the visual and conceptual field
+- WUOM: operational reading architecture
+- BIOIA: situated verification field
+
+Core formulation:
+
+**EVA W gives origin to the gaze.  
+WUOM organizes the reading.  
+BIOIA verifies it in the territory.**
+
+---
 
 ## What is WUOM
 
