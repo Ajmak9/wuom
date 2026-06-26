@@ -1,5 +1,8 @@
 # LICENSE
 
+<img width="1086" height="1448" alt="252_LICENSE_EVA_W_WUOM_BIOIA" src="https://github.com/user-attachments/assets/8c1f6d20-73ac-43e9-9f54-4d6b2d55d612" />
+
+
 ## EVA W / WUOM / BIOIA
 
 Unless otherwise stated, the contents of this repository are licensed under:
