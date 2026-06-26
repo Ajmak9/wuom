@@ -4,15 +4,17 @@
 
 ## Identity
 
-**EVA W** is the visual origin of the EVA W / WUOM / BIOIA ecosystem.
+**EVA W** is the visual origin of the ecosystem.
 
-It began as a pictorial work and later became the first visible reference point for a wider process of observation, interpretation and operational reading.
+It began as a single pictorial work and later became the reference point from which WUOM and BIOIA emerged.
 
-EVA W is not presented as decoration, branding or illustration.
+It is neither a methodology nor a product.
 
-It functions as an origin point: the visual seed from which WUOM and BIOIA later unfolded.
+It is the visual seed that made the ecosystem possible.
 
-Core formulation:
+---
+
+Core lineage
 
 **EVA W gives origin to the gaze.  
 WUOM organizes the reading.  
