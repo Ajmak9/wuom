@@ -1,5 +1,8 @@
 # CODE OF ETHICS
 
+<img width="1024" height="1536" alt="CODE_OF_ETHICS_EVA_W_WUOM_BIOIA_EN" src="https://github.com/user-attachments/assets/1538ceac-2296-44a8-81a0-a7bf5f9327fe" />
+
+
 ## EVA W / WUOM / BIOIA
 
 This ethical code defines the operational boundaries of the EVA W / WUOM / BIOIA ecosystem.
