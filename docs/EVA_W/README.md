@@ -2,6 +2,22 @@
 
 <img width="1280" height="853" alt="EVA_W_ICEBERG_EN" src="https://github.com/user-attachments/assets/e7805c8d-2f61-4ed2-883d-f838adf8384f" />
 
+## Identity
+
+**EVA W** is the visual origin of the EVA W / WUOM / BIOIA ecosystem.
+
+It began as a pictorial work and later became the first visible reference point for a wider process of observation, interpretation and operational reading.
+
+EVA W is not presented as decoration, branding or illustration.
+
+It functions as an origin point: the visual seed from which WUOM and BIOIA later unfolded.
+
+Core formulation:
+
+**EVA W gives origin to the gaze.  
+WUOM organizes the reading.  
+BIOIA verifies it in the territory.**
+
 ## What you see vs. what sustains the work
 
 ## EVA W Physical Origin
