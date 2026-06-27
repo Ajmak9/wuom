@@ -1,6 +1,6 @@
 # 🐝 Node Bee v0.1
 
-![Uploading NODE_BEE_BIOIA_WUOM_EN.png…]()
+<img width="1024" height="1536" alt="NODE_BEE_v0 1_BIOIA_WUOM_EN" src="https://github.com/user-attachments/assets/5fa6bc1e-b523-497c-961f-eb21e316aa31" />
 
 ![Status](https://img.shields.io/badge/status-public_v0.1-green)
 ![BIOIA](https://img.shields.io/badge/BIOIA-Application-2E8B57)
