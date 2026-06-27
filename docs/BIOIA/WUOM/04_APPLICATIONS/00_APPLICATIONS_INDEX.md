@@ -1,6 +1,6 @@
 # BIOIA / WUOM — Applications Index
 
-<img width="1055" height="1491" alt="BIOIA_WUOM_APPLICATIONS_INDEX_EN" src="https://github.com/user-attachments/assets/b1623f4f-2647-4076-a736-c61cdfed7f39" />
+<img width="1055" height="1491" alt="BIOIA_WUOM_APPLICATIONS_INDEX_EN"  src="https://github.com/user-attachments/assets/b1623f4f-2647-4076-a736-c61cdfed7f39" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-minimal%20index-4CAF50?style=for-the-badge" />
