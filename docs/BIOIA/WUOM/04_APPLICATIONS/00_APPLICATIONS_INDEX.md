@@ -103,6 +103,8 @@ Core relation: does not modify the root architecture.
 
 ### 07 — CASE OO1 Bonelli´s Eagle
 
+CASE_001_BONELLI_EAGLE.md
+
 State: open case
 Function: shared territory observation, pressure reading, custody and no closed causality.
 Nature: territorial case derived from BIOIA / WUOM.
