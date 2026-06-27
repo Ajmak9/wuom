@@ -2,10 +2,6 @@
 
 <img width="1122" height="1402" alt="WUOM_EN" src="https://github.com/user-attachments/assets/2376e1d4-d5cb-42d2-a141-0e164692fb57" />
 
-Entry here:
-
-👉 wuom.carrd.co
-
 WUOM is not a method or business consulting model.
 
 WUOM is an operational reading apparatus for organizing information, processes and perception before acting.
