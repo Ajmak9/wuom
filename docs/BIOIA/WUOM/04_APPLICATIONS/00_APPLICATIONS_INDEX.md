@@ -84,6 +84,32 @@ It only records the current applied state of BIOIA / WUOM.
 
 Territorial GIS Application demonstrates that BIOIA / WUOM can operate as an applied reading system where field, layers, relations, tension, orientation and decision are present.
 
+**Governance:** CODE_OF_ETHICS.md · LICENSE.md
+
+---
+
+### 06 — Node Bee v0.1
+
+NODE_BEE_v0.1.md
+
+State: public v0.1
+Function: operational metaphor for territorial reading through territory, data, experience, AI and return.
+Nature: public BIOIA / WUOM application.
+Core relation: does not modify the root architecture.
+
+**Governance:** CODE_OF_ETHICS.md · LICENSE.md
+
+---
+
+### 07 — CASE OO1 Bonelli´s Eagle
+
+State: open case
+Function: shared territory observation, pressure reading, custody and no closed causality.
+Nature: territorial case derived from BIOIA / WUOM.
+Core relation: does not modify the root architecture.
+
+**Governance:** CODE_OF_ETHICS.md · LICENSE.md
+
 ---
 
 ## Reserved Application Domains
@@ -178,14 +204,30 @@ turn BIOIA / WUOM into a generic method
 It only declares the applications family and records the current applied state.
 
 ---
+## Governance References
+
+The following documents apply across the Applications layer:
+
+CODE_OF_ETHICS.md
+LICENSE.md
+
+CODE_OF_ETHICS.md defines the basic principles of use, custody, non-extraction, territorial return and protection of the living core.
+LICENSE.md defines the public reuse conditions of BIOIA / WUOM materials.
+
+These documents do not open new applications.
+
+They regulate how the applications may be read, shared and reused.
+
+---
 
 ## Closing Formula
 
-```text
-One application consolidated.
+```md
+Three applications declared.
 The family remains open.
 The core remains intact.
 Do not expand before signal.
+
 ```
 
 BIOIA / WUOM — Applications Index
