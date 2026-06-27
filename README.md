@@ -4,7 +4,7 @@
 
 Entry here:
 
-👉 Try (30s) - https://trywuom.carrd.co
+👉 wuom.carrd.co
 
 WUOM is not a method or business consulting model.
 
