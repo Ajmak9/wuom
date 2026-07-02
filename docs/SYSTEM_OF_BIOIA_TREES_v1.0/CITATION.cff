@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+title: "System of BIOIA Trees v1.0"
+message: "If you use or reference this work, please cite it as below."
+type: dataset
+
+authors:
+  - family-names: "Robles Rionegro"
+    given-names: "Daniel Alejandro"
+
+abstract: >
+  The System of BIOIA Trees v1.0 organizes seven complementary operational
+  perspectives for reading living systems and territories: Horizon, Wind, Fog,
+  Fire, Living, Energy and Time.
+
+keywords:
+  - BIOIA
+  - WUOM
+  - living systems
+  - territorial reading
+  - ecological governance
+  - decision support
+  - responsible AI
+  - sustainability
+  - complexity
+  - return
+
+license: "CC-BY-NC-SA-4.0"
+version: "1.0"
+date-released: "2026-07-02"
+
+repository-code: "https://github.com/ajmak9/SYSTEM_OF_BIOIA_TREE_v1.0"
+
+preferred-citation:
+  type: generic
+  title: "System of BIOIA Trees v1.0"
+  authors:
+    - family-names: "Robles Rionegro"
+      given-names: "Daniel Alejandro"
+  year: 2026
+  version: "1.0"
+  license: "CC-BY-NC-SA-4.0"
