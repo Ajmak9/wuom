@@ -96,6 +96,16 @@ The existence of a form does not imply equivalence with the field that contains 
 
 ---
 
+## Core Architecture
+
+This section defines the structural, operative and governance layers of the BIOIA / WUOM ecosystem.
+
+- [00 System Architecture](00_SYSTEM_ARCHITECTURE.md)
+- [01 BIOIA / WUOM Operative Architecture](01_BIOIA_WUOM_OPERATIVE_ARCHITECTURE_EN.md)
+- [02 Ecosystem Governance Metaarchitecture](02_ECOSYSTEM_GOVERNANCE_METAARCHITECTURE.md)
+
+---
+
 ## WUOM
 
 WUOM originated as the **Universal Operating Model**.
@@ -119,3 +129,4 @@ WUOM reads.
 RETURN reopens.
 
 The field remains larger than any single form that appears within it.
+
