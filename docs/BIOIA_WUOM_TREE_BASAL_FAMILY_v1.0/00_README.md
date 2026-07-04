@@ -33,6 +33,16 @@ The territory verifies the return.
 
 ---
 
+### Structural Documents
+
+- `08_PRINCIPLE_12_ECOSYSTEMIC_RECOMPOSITION_BIOIA_WUOM_v1.0.md`  
+  Principle 12 — Ecosystemic Recomposition
+
+- `09_COGNITIVE_ARCHITECTURE_BIOIA_WUOM_v1.0.md`  
+  Cognitive Architecture — Internal organization of BIOIA / WUOM
+
+---
+
 ### Purpose
 
 The Basal Family is not a monitoring system.
