@@ -41,6 +41,8 @@ The territory verifies the return.
 - `09_COGNITIVE_ARCHITECTURE_BIOIA_WUOM_v1.0.md`  
   Cognitive Architecture — Internal organization of BIOIA / WUOM
 
+- `10_LAW_OF_TERRITORIAL_RETURN_BIOIA_WUOM_v1.0.md`
+  Law of Territorial Return — First architectural law of BIOIA / WUOM
 ---
 
 ### Purpose
