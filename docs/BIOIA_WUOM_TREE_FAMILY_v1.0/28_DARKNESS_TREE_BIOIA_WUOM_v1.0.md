@@ -1,8 +1,8 @@
-# 🌳 28_DARKNESS_TREE_BIOIA_WUOM_v0.1
+# 🌳 28_DARKNESS_TREE_BIOIA_WUOM_v1.0
 
 ## Status
 
-**Version:** v0.1  
+**Version:** v1.0
 **Type:** Candidate tree  
 **Status:** Under observation  
 **Location:** BIOIA/WUOM Tree Nursery
