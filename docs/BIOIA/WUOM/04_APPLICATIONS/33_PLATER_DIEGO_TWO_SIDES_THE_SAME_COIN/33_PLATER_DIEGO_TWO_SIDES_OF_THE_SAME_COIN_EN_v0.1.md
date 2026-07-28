@@ -1,5 +1,7 @@
 # 33 · PLATER / DIEGO — TWO SIDES OF THE SAME COIN
 
+<img width="1122" height="1402" alt="33_PLATER_DIEGO_TWO_SIDES_OF_THE_SAME_COIN" src="https://github.com/user-attachments/assets/95796d73-6cd1-478f-8182-5c3229b32df5" />
+
 **BIOIA / WUOM · Comparative territorial and temporal reading · English version · v0.1 · July 2026**
 
 > **More speed to transform the territory · More time to correct the trajectory**
