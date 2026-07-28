@@ -350,26 +350,6 @@ Its function is to make visible the architecture of calculation, decision, imple
 - **32B — Public technical annexes to PLATER**
 - **BIOIA.CAT — territorial context**
 
-Document 32 remains the territorial reading of PLATER.
-
-Any later comparative relationship with other documentary lines belongs to its own specific document.
-
----
-
-### Language note
-
-The public anonymised objections PDF and the public technical annexes are provided in their original language, Catalan.
-
-They have not been translated in order to preserve the exact wording, structure, terminology, and documentary integrity of the submitted materials.
-
----
-
-## 13. Related territorial documentation
-
-- **32A — Global objections to PLATER · anonymised public copy**
-- **32B — Public technical annexes to PLATER**
-- **BIOIA.CAT — territorial context**
-
 ### Language note
 
 The public anonymised objections PDF and the public technical annexes are provided in their original language, Catalan.
