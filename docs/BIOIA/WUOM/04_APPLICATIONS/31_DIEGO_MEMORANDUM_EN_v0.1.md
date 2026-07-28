@@ -479,11 +479,6 @@ It continues from July.
 - **Trilogy of Postponed Time**
 - **PLATER — The Same Omelette**
 
-Document 33 connects PLATER and Diego without asserting legal identity or direct causality.
-
-- **PLATER** contributes the spatial face: acceleration of territorial implementation and late entry of territorial conditions.
-- **Diego** contributes the temporal face: additional political time while the material trajectory remains active.
-
 ---
 
 ## 17. Public context
