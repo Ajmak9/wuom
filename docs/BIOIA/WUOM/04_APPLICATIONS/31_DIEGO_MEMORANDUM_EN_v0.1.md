@@ -1,5 +1,8 @@
 # DIEGO MEMORANDUM
 
+<img width="1122" height="1402" alt="31_DIEGO_MEMORANDUM_EN" src="https://github.com/user-attachments/assets/ddbbf986-4a8b-44c4-b6fa-dc6218ae1cc9" />
+
+
 **BIOIA / WUOM · English technical version · v0.1 · July 2026**
 
 > **Political time can be postponed. Territorial time cannot.**
