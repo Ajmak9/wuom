@@ -1,5 +1,8 @@
 # 32 · PLATER — THE SAME OMELETTE
 
+<img width="1122" height="1402" alt="32_PLA~1" src="https://github.com/user-attachments/assets/14f7550c-7070-4d59-9764-dff5086aa508" />
+
+
 **BIOIA.CAT · Territorial reading · English version · v0.1 · July 2026**
 
 > **The saucer calculates · The territory pays · The collective 1 changes direction**
