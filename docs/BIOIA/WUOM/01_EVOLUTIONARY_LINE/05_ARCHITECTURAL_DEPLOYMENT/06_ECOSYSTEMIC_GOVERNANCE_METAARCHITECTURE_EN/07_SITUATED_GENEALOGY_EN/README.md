@@ -7,7 +7,9 @@
 **System:** BIOIA / WUOM  
 **Conceptual identity:** BI🌍I🌐A
 
-![Synthesis of Situated Genealogy](100_SYNTHESIS_OF_SITUATED_GENEALOGY.png)
+100_SYNTHESIS_OF_SITUATED_GENEALOGY
+
+<img width="1122" height="1402" alt="100_SYNTHESIS_OF_SITUATED_GENEALOGY" src="https://github.com/user-attachments/assets/a5b80527-ade0-450e-8697-6f158390413e" />
 
 ---
 
