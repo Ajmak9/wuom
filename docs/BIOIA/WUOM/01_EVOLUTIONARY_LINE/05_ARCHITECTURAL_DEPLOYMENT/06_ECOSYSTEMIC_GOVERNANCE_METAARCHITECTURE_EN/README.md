@@ -1,4 +1,4 @@
-# BIOIA / WUOM - Metaarchitecture
+# BIOIA / WUOM - Ecosystemic Governance Metaarchitecture
 
 ## Purpose
 
@@ -44,8 +44,14 @@ Return verifies.
 | [10_APPLICATION_VERIFICATION_AND_CUSTODY_PROTOCOL_EN.md](10_APPLICATION_VERIFICATION_AND_CUSTODY_PROTOCOL_EN.md) | Full protocol from case opening to closure, suspension or withdrawal | v0.1 |
 | [11_BIOIA_WUOM_INSTITUTIONAL_FIT_SHEET_EN.md](11_BIOIA_WUOM_INSTITUTIONAL_FIT_SHEET_EN.md) | Institutional-fit assessment | v0.1 |
 | [12_PARTICIPATION_AND_CUSTODY_COMPATIBILITY_EN.md](12_PARTICIPATION_AND_CUSTODY_COMPATIBILITY_EN.md) | Participation, personal compatibility and custody safeguards | v0.1 |
-| [99_BIOIA_ORIENTATION_CYCLE_EN.md](99_BIOIA_ORIENTATION_CYCLE_EN.md) | Complete situated orientation cycle | v0.1 |
+| [99_BIOIA_ORIENTATION_CYCLE_EN.md](99_BIOIA_ORIENTATION_CYCLE_EN.md) | Complete situated orientation cycle | v0.2 |
 | [13_OPERATIONAL_METAARCHITECTURE_BIOIA_WUOM_v0.1_EN.pdf](13_OPERATIONAL_METAARCHITECTURE_BIOIA_WUOM_v0.1_EN.pdf) | Visual and operational companion document | v0.1 - PDF |
+
+## Visual Extensions
+
+- `14_GRAMMAR_OF_INTERVENTION_BIOIA_WUOM.png`
+- `15_INTERVENTION_METHODOLOGY_WITH_BIOIA_WUOM.png`
+- `16_AMPHIBIOUS_ORIENTATION_ARCHITECTURE.png`
 
 ## PDF companion
 
@@ -159,4 +165,4 @@ Unless a specific file states otherwise, this corpus is published under:
 **Action that returns.**
 
 > Without return, there is extraction.
-[README.md](https://github.com/user-attachments/files/30513226/README.md)
+
