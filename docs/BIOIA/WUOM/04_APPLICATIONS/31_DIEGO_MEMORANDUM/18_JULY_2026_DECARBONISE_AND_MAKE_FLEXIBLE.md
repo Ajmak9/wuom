@@ -1,5 +1,7 @@
 # DECARBONISE AND MAKE FLEXIBLE
 
+<img width="1024" height="1536" alt="18_JULY_2026_DESCARBONISE_AND_FLEXIBILISE" src="https://github.com/user-attachments/assets/e6acad55-db42-4116-832c-c11a4a2bcc69" />
+
 ## When the limit becomes inconvenient, the exception reappears.
 
 ### 17 JUL 2026
