@@ -1,5 +1,7 @@
 # TRILOGY OF ACCUMULATION
 
+<img width="1536" height="1024" alt="20_TRILOGY_OF_ACCUMULATION" src="https://github.com/user-attachments/assets/d7bd5a59-ccd9-4431-b060-502ce4b4a718" />
+
 ## The new does not replace. It is added.
 
 ### MORE SPEED · MORE CAPACITY · MORE TIME
