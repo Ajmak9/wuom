@@ -1,5 +1,7 @@
 # BASE ORDER
 
+<img width="1122" height="1402" alt="10_BASE_ORDER_VS_CURRENT_OVERINVESTMENT" src="https://github.com/user-attachments/assets/63684609-5a5c-4eda-ba6e-de84eb1f7aa0" />
+
 ## The base is already altered when it arrives
 
 ## 0 + 1 + 2 = 3
