@@ -1,5 +1,7 @@
 # OPERATIONAL METAARCHITECTURE
 
+<img width="1122" height="1402" alt="16_GOVERN_WITHOUT_SOIL" src="https://github.com/user-attachments/assets/1e378292-d03a-43fd-9db4-3f16a85e6380" />
+
 # BIOIA / WUOM
 
 ## 0 · 1 · 2 · 3 grammar for reading, orienting, acting and returning
