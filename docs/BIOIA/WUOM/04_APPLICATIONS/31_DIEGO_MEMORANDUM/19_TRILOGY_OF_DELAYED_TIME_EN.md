@@ -1,5 +1,7 @@
 # BIOIA / WUOM
 
+<img width="865" height="1818" alt="19_TRILOGY_OF_DELAYED_TIME" src="https://github.com/user-attachments/assets/28bc7dfc-963b-4c67-aa80-7c87586e3d9a" />
+
 # TRILOGY OF DELAYED TIME
 
 ## Explanatory document · Publication piece
