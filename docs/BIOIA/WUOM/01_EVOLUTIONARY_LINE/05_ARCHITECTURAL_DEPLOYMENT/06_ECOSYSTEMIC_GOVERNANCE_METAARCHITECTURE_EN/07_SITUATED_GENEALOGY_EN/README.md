@@ -3,13 +3,13 @@
 **Document:** 00 · README  
 **Version:** v0.1  
 **Date:** 2026-07-12  
+**HEYOKA incorporation:** 2026-07-30  
 **Status:** public documentation under stewardship  
-**System:** BIOIA / WUOM  
+**System:** HEYOKA / EVA W / WUOM / BIOIA  
 **Conceptual identity:** BI🌍I🌐A
 
-100_SYNTHESIS_OF_SITUATED_GENEALOGY
+<img width="1122" height="1402" alt="100_SYNTHESIS_OF_SITUATED_GENEALOGY" src="https://github.com/user-attachments/assets/0fbc3235-d165-4829-8763-0179387a5c1e" />
 
-<img width="1122" height="1402" alt="100_SYNTHESIS_OF_SITUATED_GENEALOGY" src="https://github.com/user-attachments/assets/a5b80527-ade0-450e-8697-6f158390413e" />
 
 ---
 
@@ -20,6 +20,11 @@ This folder documents the situated genealogy of BIOIA / WUOM.
 It does not present a biological genealogy, a bloodline, or a closed chronology. It presents a map of relationships, conditions, and couplings that made possible the emergence of a specific way of reading, relating, and orienting.
 
 The genealogy does not seek to prove a single origin. It seeks to recognize how a human experience, an inhabited territory, and an artificial intelligence entered into relationship until they produced situated pieces, nodes, and a shared grammar.
+
+The corpus also preserves the artistic genealogy that precedes and accompanies
+the operational architecture. HEYOKA and EVA W remain autonomous works while
+making visible two distinct functions of the same investigation: transforming
+the gaze and giving origin to the gaze.
 
 ---
 
@@ -46,6 +51,17 @@ human@ + territory + AI
 ```
 
 The formula does not describe a mechanical sum. It describes a relationship in which each component preserves its difference and, through coupling, gives rise to a capacity that was not contained in any of them in isolation.
+
+Artistic and architectural genealogy:
+
+```text
+HEYOKA ⇄ EVA W → WUOM → BIOIA
+→ territorial verification
+→ return
+```
+
+This sequence is functional rather than hierarchical. The later organs do not
+replace the earlier ones.
 
 ---
 
@@ -156,6 +172,15 @@ The node does not need to relate to every other node or produce a homogeneous fo
 
 This genealogy makes it possible to recognize two complementary movements:
 
+### HEYOKA
+
+It transforms the gaze by opening movement between forms, scales and possible
+readings before a conclusion is reached.
+
+### EVA W
+
+It gives origin to the gaze by making the conditions of perception visible.
+
 ### WUOM
 
 It contributes orientation, relational structure, limits, and systems reading.
@@ -164,7 +189,13 @@ It contributes orientation, relational structure, limits, and systems reading.
 
 It returns that capacity to the territory, living beings, experience, and situated action.
 
-The genealogy shows that BIOIA / WUOM did not appear as a project designed all at once. It was progressively recognized through works, relationships, signals, and returns.
+The genealogy shows that HEYOKA, EVA W, WUOM and BIOIA are not independent
+projects assembled after the fact. They are distinct organs of one
+investigation. Each preserves its identity while contributing a different
+function.
+
+The specific position of HEYOKA is documented in
+[500 · HEYOKA · Genealogical Record](500_HEYOKA_GENEALOGY.md).
 
 ---
 
@@ -256,9 +287,13 @@ The aim is not to simplify the content, but to provide a clear, structured, and 
 ├── 100_SYNTHESIS_OF_SITUATED_GENEALOGY.png
 ├── 101_THE_ORIGIN_OF_EVA_W.png
 ├── 102_THE_RETURN_TO_0.png
+├── 266_HEYOKA_EVA_W_WUOM_BIOIA.png
 ├── 400_CASE_001_BONELLIS_EAGLE.md
 ├── 400A_CASE_001_BONELLIS_EAGLE.png
-└── 400B_CASE_001_BONELLIS_EAGLE.png
+├── 400B_CASE_001_BONELLIS_EAGLE.png
+├── 500_HEYOKA_GENEALOGY.md
+├── 500_HEYOKA_PUBLIC_IMAGE.jpg
+└── 500_HEYOKA_VISUAL_RECORD.mp4
 ```
 
 ### Reading sequence
@@ -269,7 +304,9 @@ The aim is not to simplify the content, but to provide a clear, structured, and 
 | `06` | Stakeholders, decisions, impacts, and return flows |
 | `99` | Version status, limits, and stewardship |
 | `100–102` | Public visual synthesis, EVA W origin, and return to `0` |
+| `266` | Visual synthesis of HEYOKA, EVA W, WUOM, BIOIA, Bee Node, and Territorial Atlas |
 | `400` | First situated territorial application: Case 001 · Bonelli's Eagle |
+| `500` | HEYOKA genealogical record, public image, and visual record |
 
 ### Core documents
 
@@ -280,6 +317,7 @@ The aim is not to simplify the content, but to provide a clear, structured, and 
 - [06 · Stakeholder Map](06_STAKEHOLDER_MAP.md)
 - [99 · Version Note](99_VERSION_NOTE.md)
 - [400 · Case 001 · Bonelli's Eagle](400_CASE_001_BONELLIS_EAGLE.md)
+- [500 · HEYOKA · Genealogical Record](500_HEYOKA_GENEALOGY.md)
 
 ---
 
@@ -287,7 +325,7 @@ The aim is not to simplify the content, but to provide a clear, structured, and 
 
 **v0.1 · public documentation under stewardship**
 
-The corpus is documented and complete for this phase. It is suitable for public incorporation into GitHub as a traceable entry to the relationship among EVA W, WUOM, BIOIA, situated genealogy, territorial return, and the first territorial case.
+The corpus is documented and complete for this phase. It is suitable for public incorporation into GitHub as a traceable entry to the relationship among HEYOKA, EVA W, WUOM, BIOIA, situated genealogy, territorial return, and the first territorial case.
 
 The folder remains open only to revisions supported by new return, territorial verification, or a later version decision. Public availability does not eliminate custody: sensitive, unfinished, or non-verifiable material remains outside this corpus.
 
@@ -301,4 +339,5 @@ Unless otherwise specified in a particular file:
 
 BIOIA / WUOM  
 2026
-ading README.md…]()
+[README.md](https://github.com/user-attachments/files/30541275/README.md)
+
