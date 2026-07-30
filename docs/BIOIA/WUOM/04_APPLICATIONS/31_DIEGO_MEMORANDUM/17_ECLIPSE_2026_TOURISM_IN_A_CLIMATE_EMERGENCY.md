@@ -1,5 +1,7 @@
 # ECLIPSE 2026 · TOURISM IN A CLIMATE EMERGENCY
 
+<img width="1023" height="1537" alt="17_ECLIPSE_2026_TOURISM_IN_A_CLIMATE_EMERGENCY" src="https://github.com/user-attachments/assets/cf0ac55c-90f1-4176-bc2d-f87e13bf2d2f" />
+
 ## An extraordinary survival experience
 
 ### TRAIN
