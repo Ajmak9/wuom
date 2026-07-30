@@ -77,7 +77,7 @@ Its function is to organize public access while preserving the identity, limits,
 The public-release image is stored in this folder as:
 
 ```text
-00_BIOIA_WUOM_WEB_PUBLIC_30_JULIO_2026.png
+00_BIOIA_WUOM_WEB_PUBLIC_EN_30_JULIO_2026.png
 ```
 
 The image records the public opening of the web on **30 July 2026**.
