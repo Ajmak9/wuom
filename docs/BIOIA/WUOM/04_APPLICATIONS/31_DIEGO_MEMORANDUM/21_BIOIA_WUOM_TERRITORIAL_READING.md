@@ -1,5 +1,7 @@
 # BIOIA / WUOM · TERRITORIAL READING
 
+<img width="1122" height="1402" alt="21_PROTECTION_COMPENSATION_AND_TERRITORIAL_TIME" src="https://github.com/user-attachments/assets/bd971898-45c5-44cc-b743-79c92b3b45df" />
+
 # 10 🌳 − 9 🌳 + 1 🌳 = 2 🌳
 
 *BIOIA / WUOM · CC BY-NC-SA 4.0 · 30 July 2026*
