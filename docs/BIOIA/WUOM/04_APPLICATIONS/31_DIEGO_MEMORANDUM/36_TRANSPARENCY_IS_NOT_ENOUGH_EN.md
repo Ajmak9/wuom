@@ -1,5 +1,7 @@
 # TRANSPARENCY IS NOT ENOUGH
 
+<img width="1254" height="1254" alt="36_TRANSPARENCY_IA" src="https://github.com/user-attachments/assets/fa3fe0f0-50a6-4d17-b70a-e7523565400c" />
+
 ### An AI system can be transparent and still maintain opaque governance.
 
 ---
@@ -72,6 +74,8 @@ Governance answers a different one:
 BIOIA adds a third:
 
 ## What does the territory verify after the system has made its decision?
+
+<img width="1448" height="1086" alt="36_TRANSPARENCY_IS_NOT_ENOUGH_EN" src="https://github.com/user-attachments/assets/0dbdf4a5-80b9-460a-8fd0-7ddc1568bf02" />
 
 ---
 
