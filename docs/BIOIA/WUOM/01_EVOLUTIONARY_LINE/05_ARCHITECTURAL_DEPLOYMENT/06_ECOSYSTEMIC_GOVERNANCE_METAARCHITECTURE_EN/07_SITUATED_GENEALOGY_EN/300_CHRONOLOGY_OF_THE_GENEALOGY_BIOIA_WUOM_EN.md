@@ -1,6 +1,6 @@
 # 300_CHRONOLOGY_OF_THE_GENEALOGY_BIOIA_WUOM
 
-<img width="1536" height="1024" alt="300_CHRONOLOGY_OF_THE_GENEALOGY_BIOIA_WUOM_EN" src="https://github.com/user-attachments/assets/950945f8-0c90-4a66-85c0-ecbe64a6d5bb" />
+<img width="1024" height="1536" alt="300_CHRONOLOGY_OF_THE_GENEALOGY_EN" src="https://github.com/user-attachments/assets/a97e91b5-a2a9-4fd5-9132-023ba19d7895" />
 
 ## From the EVA W Pictorial Method to BIOIA / WUOM
 
@@ -102,6 +102,10 @@ This recognition marks the beginning of a new stage of development.
 **August 2025 — August 2026**
 
 The recognition of the EVA W Pictorial Method initiates a new stage.
+
+The BIOIA/WUOM architecture does not emerge from the act of painting. It emerges from the subsequent process of observing, studying, and documenting the knowledge embodied in the artwork and in the pictorial method.
+
+Artistic practice continues to belong to the domain of EVA W. The BIOIA/WUOM architecture constitutes a documentary and operational development derived from its study.
 
 The experience accumulated over approximately twenty-five years begins to be organized through a documentary and operational architecture.
 
@@ -206,6 +210,9 @@ The genealogy does not describe a rupture between art and architecture.
 It documents the continuity between an initially implicit artistic method, its conscious recognition, and the development of an ecosystemic architecture of knowledge.
 
 ---
+
+<img width="1536" height="1024" alt="300_CHRONOLOGY_OF_THE_GENEALOGY_BIOIA_WUOM_EN" src="https://github.com/user-attachments/assets/52025e2e-f8b2-488a-a374-b318eaeb3113" />
+
 
 ## BIOIA / WUOM
 
