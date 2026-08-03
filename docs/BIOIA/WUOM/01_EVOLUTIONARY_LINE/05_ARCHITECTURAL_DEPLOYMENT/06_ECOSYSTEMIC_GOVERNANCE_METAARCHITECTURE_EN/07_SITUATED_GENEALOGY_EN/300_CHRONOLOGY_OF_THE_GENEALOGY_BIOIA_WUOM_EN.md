@@ -1,8 +1,6 @@
-Claro. A continuación tienes la versión **EN.md**, manteniendo el mismo nivel documental que la versión ES.
-
----
-
 # 300_CHRONOLOGY_OF_THE_GENEALOGY_BIOIA_WUOM
+
+<img width="1536" height="1024" alt="300_CHRONOLOGY_OF_THE_GENEALOGY_BIOIA_WUOM_EN" src="https://github.com/user-attachments/assets/950945f8-0c90-4a66-85c0-ecbe64a6d5bb" />
 
 ## From the EVA W Pictorial Method to BIOIA / WUOM
 
