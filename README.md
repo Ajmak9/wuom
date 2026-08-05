@@ -1220,6 +1220,26 @@ The ecosystem remains open.
 
 <img width="1074" height="1280" alt="13_ICEBERG_WUOM_EN" src="https://github.com/user-attachments/assets/5a8b7740-699f-40cf-93cc-a47fe2f0f909" />
 
+## BIOIA / WUOM · Abstract 0.1
+
+**Official DOI:** [10.5281/zenodo.21809027](https://doi.org/10.5281/zenodo.21809027)
+
+The official Zenodo record contains the two public language editions:
+
+- `BIOIA_WUOM_ABSTRACT_0.1_EN.pdf`
+- `BIOIA_WUOM_ABSTRACT_0.1_ES.pdf`
+
+GitHub public edition:
+
+- [00_ABSTRACT_0.1_EN.pdf](00_ABSTRACT_0.1_EN.pdf)
+
+Public ecosystem:
+
+- [bioiawuom.org](https://bioiawuom.org)
+
+The Zenodo DOI above is the canonical public reference for
+BIOIA / WUOM · Abstract 0.1.
+
 BIO🐸🌱🐸IA
 
 
