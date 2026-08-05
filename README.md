@@ -1231,7 +1231,7 @@ The official Zenodo record contains the two public language editions:
 
 GitHub public edition:
 
-- [00_ABSTRACT_0.1_EN.pdf](00_ABSTRACT_0.1_EN.pdf)
+- [00_ABSTRACT_0.1_EN.pdf](docs/00_ABSTRACT_0.1_EN.pdf)
 
 Public ecosystem:
 
