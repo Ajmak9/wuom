@@ -9,7 +9,7 @@ WUOM is an operational reading apparatus for organizing information, processes a
 BIOIA is not a product or methodology.
 BIOIA gives the field where WUOM becomes necessary.
 
-WUOM is not a corporate strategy, a productivity method or generic workflow modelling.
+WUOM is not a corporate strategy, a productivity method or generic workflow modelling. 
 
 It helps understand complex situations, organize variables and make better decisions.
 
