@@ -974,7 +974,7 @@ https://doi.org/10.5281/zenodo.21827928
 
 Read the complete publication:
 
--[BIOIA / WUOM · Ecosystem Reading 0.1](00_BIOIA_WUOM_ECOSYSTEM_READING_0.1_EN.pdf)
+-[BIOIA / WUOM · Ecosystem Reading 0.1](docs/00_BIOIA_WUOM_ECOSYSTEM_READING_0.1_EN.pdf)
 
 # Final operational note
 
