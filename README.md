@@ -922,7 +922,7 @@ Current operational symbol:
 
 🐸🕵️🦧🕵️🤖🕵️🐜🕵️🌐
 
-WUOM Ecosystem Reading remains:
+# WUOM Ecosystem Reading remains:
 
 * open;
 * experimental;
@@ -930,6 +930,42 @@ WUOM Ecosystem Reading remains:
 * and continuously corrected through real-world observation.
 
 🌐🕸️📍🐜📍🤖
+
+# BIOIA / WUOM · Ecosystem Reading 0.1
+
+Ecosystem Reading 0.1 introduces the public navigation architecture of the BIOIA/WUOM ecosystem.
+
+Rather than presenting new methodological concepts, this publication explains how readers can navigate the ecosystem through its complementary public platforms, including the multilingual websites, ANE (Artificial Navigation Ecosystem), Notion, GitHub, Zenodo, Gumroad, and Medium.
+
+The document defines ANE as the public orientation layer of the ecosystem and describes its role in connecting documentation, technical development, scientific publications, operational resources, and public communication while preserving transparency, contextual understanding, and continuous return to the territory.
+
+This publication complements Abstract 0.1 by focusing on navigation, orientation, and ecosystem structure rather than conceptual foundations.
+
+Publication
+Title: BIOIA / WUOM · Ecosystem Reading 0.1
+Author: Daniel Alejandro Robles Rionegro
+Version: 0.1
+Language: English
+License: CC BY-NC-SA 4.0
+Public Ecosystem
+Website: https://bioiawuom.org
+Documentation: Notion
+Technical Repository: GitHub
+Scientific Publications: Zenodo
+Operational Resources: Gumroad
+Public Articles: Medium
+Related Publication
+
+BIOIA / WUOM – Abstract 0.1
+
+DOI:
+https://doi.org/10.5281/zenodo.21825189
+
+Citation
+
+Robles Rionegro, D. A. (2026). BIOIA / WUOM – Ecosystem Reading 0.1. BIOIA / WUOM.
+
+DOI: To be assigned upon publication in Zenodo.
 
 # Final operational note
 
