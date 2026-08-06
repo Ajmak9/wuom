@@ -967,6 +967,14 @@ Robles Rionegro, D. A. (2026). BIOIA / WUOM – Ecosystem Reading 0.1. BIOIA / W
 
 DOI: To be assigned upon publication in Zenodo.
 
+## Publication
+
+**BIOIA / WUOM · Ecosystem Reading 0.1**
+
+Read the complete publication:
+
+BIOIA_WUOM_ECOSYSTEM_READING_0.1_EN.pdf
+
 # Final operational note
 
 WUOM does not aim to dominate ecosystems.
