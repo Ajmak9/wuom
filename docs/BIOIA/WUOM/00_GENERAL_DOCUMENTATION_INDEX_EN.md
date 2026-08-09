@@ -175,6 +175,15 @@ BIOIA provides the situated field in which that reading acquires meaning and res
 
 ---
 
+## Recent documentary readings
+
+- [38 · DISORIENTED](https://github.com/Ajmak9/wuom/blob/main/docs/BIOIA/WUOM/04_APPLICATIONS/31_DIEGO_MEMORANDUM/38_DISORIENTED_EN.pdf)
+- [39 · THE TRILOGY OF ACCUMULATIVE MISGOVERNANCE](https://github.com/Ajmak9/wuom/blob/main/docs/BIOIA/WUOM/04_APPLICATIONS/31_DIEGO_MEMORANDUM/39_TRILOGY_OF_ACCUMULATIVE_MISGOVERNANCE_EN.pdf)
+- [41 · THE ONE COLLECTIVE · THE ONE IRRESPONSIBLE](https://github.com/Ajmak9/wuom/blob/main/docs/BIOIA/WUOM/04_APPLICATIONS/31_DIEGO_MEMORANDUM/41_BIOIA_WUOM_THE_ONE_COLLECTIVE_THE_ONE_IRRESPONSIBLE_EN.pdf)
+- [42 · THE WRONG AXIS](https://github.com/Ajmak9/wuom/blob/main/docs/BIOIA/WUOM/04_APPLICATIONS/31_DIEGO_MEMORANDUM/42_BIOIA_WUOM_THE_WRONG_AXIS_EN.pdf)
+
+---
+
 # 07 · Versions and Status
 
 Public function: preserve traceability, current state and the distinction between stable, open, observed and developing materials.
