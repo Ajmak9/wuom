@@ -193,7 +193,7 @@ BIOIA provides the situated field in which that reading acquires meaning and res
 ---
 
 ### [51 · THE ORDER OF PRIORITIES](../../51_THE_ORDER_OF_PRIORITIES_EN.pdf)
-
+[Zenodo · DOI 10.5281/zenodo.21904155](https://doi.org/10.5281/zenodo.21904155)
 ---
 
 ### 52 · THE EVIDENT
