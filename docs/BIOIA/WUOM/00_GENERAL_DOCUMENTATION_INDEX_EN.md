@@ -24,7 +24,7 @@ It organizes access to them according to the functional structure of the public 
 | **Repository root** | Complete GitHub archive |
 | **Root README** | General repository orientation |
 
-- [Open the public BIOIA / WUOM website](https://bioia-wuom.robles-rionegro.chatgpt.site/?lang=en)
+- [Open the public BIOIA / WUOM website](https://web.bioiawuom.org/?lang=en)
 - [Open the complete GitHub repository](https://github.com/Ajmak9/wuom)
 - [Open the root README](https://github.com/Ajmak9/wuom/blob/main/README.md)
 
@@ -36,8 +36,8 @@ Public function: establish the purpose, limits, orientation and derivation rules
 
 - [BIOIA / WUOM — Repository Manifest](https://github.com/Ajmak9/wuom/blob/main/docs/BIOIA/WUOM/00_MANIFEST.md)
 - [BIOIA / WUOM — Minimal Orientation Repository](https://github.com/Ajmak9/wuom/blob/main/docs/BIOIA/WUOM/README.md)
-- [Public website — Start](https://bioia-wuom.robles-rionegro.chatgpt.site/?lang=en)
-- [Public website — Origin](https://bioia-wuom.robles-rionegro.chatgpt.site/origen?lang=en)
+- [Public website — Start](https://web.bioiawuom.org/?lang=en)
+- [Public website — Origin](https://web.bioiawuom.org/origen?lang=en)
 
 Core operational sequence:
 
@@ -61,7 +61,7 @@ territory
 
 Public function: situate every stable element within the complete BIOIA / WUOM architecture.
 
-- [Public website — Architecture](https://bioia-wuom.robles-rionegro.chatgpt.site/arquitectura?lang=en)
+- [Public website — Architecture](https://web.bioiawuom.org/arquitectura?lang=en)
 - [BIOIA / WUOM Master Plan — Definition and Scope](https://github.com/Ajmak9/wuom/blob/main/docs/BIOIA/WUOM/01_EVOLUTIONARY_LINE/05_ARCHITECTURAL_DEPLOYMENT/04_BIOIA_WUOM_MASTER_PLAN/01_DEFINITION_AND_SCOPE_OF_THE_BIOIA_WUOM_MASTER_PLAN_EN_v1.0.md)
 - [Architectural Deployment — Complete folder](https://github.com/Ajmak9/wuom/tree/main/docs/BIOIA/WUOM/01_EVOLUTIONARY_LINE/05_ARCHITECTURAL_DEPLOYMENT)
 - [BIOIA / WUOM Master Plan — Folder](https://github.com/Ajmak9/wuom/tree/main/docs/BIOIA/WUOM/01_EVOLUTIONARY_LINE/05_ARCHITECTURAL_DEPLOYMENT/04_BIOIA_WUOM_MASTER_PLAN)
@@ -75,7 +75,7 @@ It makes the relationships between core, principles, trees, interfaces, applicat
 
 Public function: organize complementary perspectives for reading living systems before intervention.
 
-- [Public website — Reading Organs](https://bioia-wuom.robles-rionegro.chatgpt.site/organos?lang=en)
+- [Public website — Reading Organs](https://web.bioiawuom.org/organos?lang=en)
 - [System of BIOIA Trees v1.0 — Main document](https://github.com/Ajmak9/wuom/blob/main/docs/SYSTEM_OF_BIOIA_TREES_v1.0/00_README.md)
 - [System of BIOIA Trees v1.0 — Complete folder](https://github.com/Ajmak9/wuom/tree/main/docs/SYSTEM_OF_BIOIA_TREES_v1.0)
 
@@ -98,7 +98,7 @@ They are not products and do not replace scientific, territorial or human knowle
 
 Public function: translate the architecture into situated, traceable and limited applications.
 
-- [Public website — Applications](https://bioia-wuom.robles-rionegro.chatgpt.site/aplicaciones?lang=en)
+- [Public website — Applications](https://web.bioiawuom.org/aplicaciones?lang=en)
 - [BIOIA / WUOM — Applications Index](https://github.com/Ajmak9/wuom/blob/main/docs/BIOIA/WUOM/04_APPLICATIONS/00_APPLICATIONS_INDEX.md)
 - [Applications — Complete folder](https://github.com/Ajmak9/wuom/tree/main/docs/BIOIA/WUOM/04_APPLICATIONS)
 - [Territorial GIS Application — Main document](https://github.com/Ajmak9/wuom/blob/main/docs/BIOIA/WUOM/04_APPLICATIONS/01_TERRITORIAL_GIS_APPLICATION/README.md)
