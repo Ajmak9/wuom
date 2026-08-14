@@ -219,8 +219,7 @@ Examines the promise of widely distributed artificial intelligence against the m
 If the old remains and the new is added.
 Analyzes the gap between the declared transition and effective material change. It distinguishes substitution from superposition, shows how new infrastructures can be added without displacing existing ones, and introduces the temporal variable: more time to reduce pressure and more speed to add capacity. It proposes the hypothesis of accelerated superposition and argues that transition should be verified through material flows, pressure reduction, and the actual territorial balance.
 
-[PDF · 54_WHERE_IS_THE_TRANSITION_EN.pdf]
-(04_APPLICATIONS/31_DIEGO_MEMORANDUM/54_WHERE_IS_THE_TRANSITION_EN.pdf)
+[PDF · 54_WHERE_IS_THE_TRANSITION_EN.pdf](04_APPLICATIONS/31_DIEGO_MEMORANDUM/54_WHERE_IS_THE_TRANSITION_EN.pdf)
 
 ---
 
