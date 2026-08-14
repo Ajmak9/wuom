@@ -187,7 +187,7 @@ BIOIA provides the situated field in which that reading acquires meaning and res
 - [46 · VISIBLE, BUT NOT OPERATIONAL](04_APPLICATIONS/31_DIEGO_MEMORANDUM/46_VISIBLE_BUT_NOT_OPERATIONAL_EN.pdf)
 - [47 · THE CHROMATIC TRANSITION](04_APPLICATIONS/31_DIEGO_MEMORANDUM/47_THE_CHROMATIC_TRANSITION_EN.pdf)
 - [48 · THE ACCELERATION OF POSTPONEMENT](04_APPLICATIONS/31_DIEGO_MEMORANDUM/48_THE_ACCELERATION_OF_POSTPONEMENT_EN.pdf)
-- [49 · THE DOUBLE DIRECTION OF PRESSURE](04_APPLICATIONS/31_DIEGO_MEMORANDUM/49_THE_DOUBLE_DIRECTION_OF_PRESSURE_EN.pdf)
+- [49 · THE DOUBLE DIRECTION OF PRESSURE](04_APPLICATIONS/31_DIEGO_MEMORANDUM/49_THE_DOUBLE_DIRECTION_EN.pdf)
 - [50 · OUTSIDE THE AXIS](04_APPLICATIONS/31_DIEGO_MEMORANDUM/50_OUTSIDE_THE_AXIS_EN.pdf)
   
 ---
@@ -210,7 +210,7 @@ Examines the difference between intelligence, capability, and responsibility in 
 
 Examines the promise of widely distributed artificial intelligence against the material and territorial conditions that sustain it. It argues that democratizing access does not yet mean democratizing power, infrastructure, or decision-making capacity, and that the equalizing promise remains incomplete while questions of control, transparency, responsibility, concentration, and territorial return remain unresolved.
 
-[PDF · 53_SUPERINTELLIGENCE_FOR_ALL_EN.pdf](04_APPLICATIONS/31_DIEGO_MEMORANDUM/53_SUPERINTELLIGENCE_FOR_ALL_EN.pdf) 
+[PDF · 53_SUPERINTELLIGENCE_FOR_ALL_TERRITORY_FOR_NONE_EN.pdf](04_APPLICATIONS/31_DIEGO_MEMORANDUM/53_SUPERINTELLIGENCE_FOR_ALL_TERRITORY_FOR_NONE_EN.pdf)
 
 ---
 
