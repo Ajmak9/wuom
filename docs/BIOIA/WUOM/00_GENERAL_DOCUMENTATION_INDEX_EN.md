@@ -223,6 +223,23 @@ Analyzes the gap between the declared transition and effective material change. 
 
 ---
 
+## 59 · DIEGO MEMORANDUM
+
+17 July — 17 August 2026.
+Presents a situated observation of the thermal signal across health, production, water, biodiversity, fires, work, transport, energy, infrastructure, services, and economic activity. It documents cross-sector impacts, operational capacity limits, and territorial costs, including damage that remains outside available economic accounting.
+
+[PDF · 59_DIEGO_MEMORANDUM_EN.pdf](04_APPLICATIONS/31_DIEGO_MEMORANDUM/59_DIEGO_MEMORANDUM_EN.pdf)
+
+---
+
+## 60 · SYNTHESIS BY SUPERPOSITION 0.1
+
+Proposes a joint reading of territory, time, capacity, infrastructure, adaptation, responsibility, and artificial intelligence. It argues that territory operates in the present while decisions and objectives can be postponed, and verifies transformation through what decreased, remained, or was added, how pressure changed, and what return materially reached the territory.
+
+[PDF · 60_SYNTHESIS_BY_SUPERPOSITION_0.1_EN.pdf](04_APPLICATIONS/31_DIEGO_MEMORANDUM/60_SYNTHESIS_BY_SUPERPOSITION_0.1_EN.pdf)
+
+---
+
 # 07 · Versions and Status
 
 Public function: preserve traceability, current state and the distinction between stable, open, observed and developing materials.
