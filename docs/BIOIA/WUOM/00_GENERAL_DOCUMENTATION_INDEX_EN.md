@@ -223,6 +223,18 @@ Analyzes the gap between the declared transition and effective material change. 
 
 ---
 
+## 55 · THE SPEED OF ADAPTATION
+
+[PDF · 55_THE_SPEED_OF_ADAPTATION_EN.pdf](04_APPLICATIONS/31_DIEGO_MEMORANDUM/55_THE_SPEED_OF_ADAPTATION_EN.pdf)
+
+---
+
+## 56 · THE TIME OF RETURN
+
+[PDF · 56_THE_TIME_OF_RETURN_EN.pdf](04_APPLICATIONS/31_DIEGO_MEMORANDUM/56_THE_TIME_OF_RETURN_EN.pdf)
+
+---
+
 ## 59 · DIEGO MEMORANDUM
 
 17 July — 17 August 2026.
