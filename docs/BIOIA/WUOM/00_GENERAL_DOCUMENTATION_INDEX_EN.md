@@ -252,6 +252,14 @@ Proposes a joint reading of territory, time, capacity, infrastructure, adaptatio
 
 ---
 
+## ISOTYPIC MENU OF THE CURRENT ORDER
+
+[PDF · ISOTYPIC_MENU_OF_THE_CURRENT_ORDER_EN.pdf](04_APPLICATIONS/31_DIEGO_MEMORANDUM/ISOTYPIC_MENU_OF_THE_CURRENT_ORDER_EN.pdf)
+
+[Zenodo · DOI 10.5281/zenodo.22081813](https://doi.org/10.5281/zenodo.22081813)
+
+---
+
 # 07 · Versions and Status
 
 Public function: preserve traceability, current state and the distinction between stable, open, observed and developing materials.
