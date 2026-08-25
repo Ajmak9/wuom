@@ -260,6 +260,14 @@ Proposes a joint reading of territory, time, capacity, infrastructure, adaptatio
 
 ---
 
+## BLACK DESSERT MENU · ISOTYPES
+
+[PDF · BLACK_DESSERT_MENU_ISOTYPES.pdf](04_APPLICATIONS/31_DIEGO_MEMORANDUM/BLACK_DESSERT_MENU_ISOTYPES.pdf)
+
+[Zenodo · DOI 10.5281/zenodo.22097532](https://doi.org/10.5281/zenodo.22097532)
+
+---
+
 # 07 · Versions and Status
 
 Public function: preserve traceability, current state and the distinction between stable, open, observed and developing materials.
@@ -330,4 +338,3 @@ Any derivation must preserve:
 **BIOIA / WUOM**  
 Art · Orientation · Territory  
 Reading · Criterion · Return
-ing 00_GENERAL_DOCUMENTATION_INDEX_EN.md…]()
