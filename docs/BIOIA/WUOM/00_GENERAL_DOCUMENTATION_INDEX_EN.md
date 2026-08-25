@@ -268,6 +268,14 @@ Proposes a joint reading of territory, time, capacity, infrastructure, adaptatio
 
 ---
 
+## CURRENT INVERTED ORDER · THE LOOP
+
+[PDF · CURRENT_INVERTED_ORDER_THE_LOOP.pdf](04_APPLICATIONS/31_DIEGO_MEMORANDUM/CURRENT_INVERTED_ORDER_THE_LOOP.pdf)
+
+[Zenodo · DOI 10.5281/zenodo.22099681](https://doi.org/10.5281/zenodo.22099681)
+
+---
+
 # 07 · Versions and Status
 
 Public function: preserve traceability, current state and the distinction between stable, open, observed and developing materials.
