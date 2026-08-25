@@ -276,6 +276,14 @@ Proposes a joint reading of territory, time, capacity, infrastructure, adaptatio
 
 ---
 
+## COFFEE OR INFUSION · ISOTYPES OF THE INVERTED ORDER
+
+[PDF · COFFEE_OR_INFUSION_ISOTYPES_OF_THE_INVERTED_ORDER.pdf](04_APPLICATIONS/31_DIEGO_MEMORANDUM/COFFEE_OR_INFUSION_ISOTYPES_OF_THE_INVERTED_ORDER.pdf)
+
+[Zenodo · DOI 10.5281/zenodo.22100417](https://doi.org/10.5281/zenodo.22100417)
+
+---
+
 # 07 · Versions and Status
 
 Public function: preserve traceability, current state and the distinction between stable, open, observed and developing materials.
