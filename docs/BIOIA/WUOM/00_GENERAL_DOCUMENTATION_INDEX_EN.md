@@ -284,6 +284,16 @@ Proposes a joint reading of territory, time, capacity, infrastructure, adaptatio
 
 ---
 
+## THE WHOLE COIN
+
+Examines how the expansion of networks and AI can advance while human and territorial margins decline. It frames this as a loss of correction capacity over time and places responsibility for reorientation in the human collective.
+
+[PDF · THE_WHOLE_COIN_Abstract_acceleration_delegation_material_degradation_loss of margin.pdf](04_APPLICATIONS/31_DIEGO_MEMORANDUM/THE_WHOLE_COIN_Abstract_acceleration_delegation_material_degradation_loss%20of%20margin.pdf)
+
+[Zenodo · DOI 10.5281/zenodo.22111164](https://doi.org/10.5281/zenodo.22111164)
+
+---
+
 # 07 · Versions and Status
 
 Public function: preserve traceability, current state and the distinction between stable, open, observed and developing materials.
