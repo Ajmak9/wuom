@@ -294,6 +294,12 @@ Examines how the expansion of networks and AI can advance while human and territ
 
 ---
 
+## WHO IS IN CHARGE? · MANY HANDS / NO HAND
+
+[PDF · WHO_IS_IN_CHARGE_MANY_HANDS_NO_HAND.pdf](04_APPLICATIONS/31_DIEGO_MEMORANDUM/WHO_IS_IN_CHARGE_MANY_HANDS_NO_HAND.pdf)
+
+---
+
 # 07 · Versions and Status
 
 Public function: preserve traceability, current state and the distinction between stable, open, observed and developing materials.
