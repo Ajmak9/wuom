@@ -34,6 +34,8 @@ It organizes access to them according to the functional structure of the public 
 
 Public function: establish the purpose, limits, orientation and derivation rules of BIOIA / WUOM.
 
+- [BIOIA / WUOM — Repository Manifest](https://github.com/Ajmak9/wuom/blob/main/docs/BIOIA/WUOM/00_MANIFEST.md)
+- [BIOIA / WUOM — Minimal Orientation Repository](https://github.com/Ajmak9/wuom/blob/main/docs/BIOIA/WUOM/README.md)
 - [Public website — Start](https://web.bioiawuom.org/?lang=en)
 - [Public website — Origin](https://web.bioiawuom.org/origen?lang=en)
 
