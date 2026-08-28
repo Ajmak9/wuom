@@ -34,8 +34,6 @@ It organizes access to them according to the functional structure of the public 
 
 Public function: establish the purpose, limits, orientation and derivation rules of BIOIA / WUOM.
 
-- [BIOIA / WUOM — Repository Manifest](https://github.com/Ajmak9/wuom/blob/main/docs/BIOIA/WUOM/00_MANIFEST.md)
-- [BIOIA / WUOM — Minimal Orientation Repository](https://github.com/Ajmak9/wuom/blob/main/docs/BIOIA/WUOM/README.md)
 - [Public website — Start](https://web.bioiawuom.org/?lang=en)
 - [Public website — Origin](https://web.bioiawuom.org/origen?lang=en)
 
@@ -267,3 +265,13 @@ Examines the limits of economic valuation and the material conditions that make 
 [PDF · HOW_MUCH_IS_WHAT_MAKES_PRICE_POSSIBLE_WORTH.pdf](04_APPLICATIONS/31_DIEGO_MEMORANDUM/HOW_MUCH_IS_WHAT_MAKES_PRICE_POSSIBLE_WORTH.pdf)
 
 [Zenodo · DOI 10.5281/zenodo.22130001](https://doi.org/10.5281/zenodo.22130001)
+
+---
+
+## DECOUPLING BETWEEN THREAT AND PROTECTION
+
+Examines the gap between material threats and political protection, focusing on how temperature, water and territorial conditions shape security, budgets, infrastructure and Europe’s capacity to orient its priorities.
+
+[PDF · DECOUPLING_BETWEEN_THREAT_AND_PROTECTION.pdf](04_APPLICATIONS/31_DIEGO_MEMORANDUM/DECOUPLING_BETWEEN_THREAT_AND_PROTECTION.pdf)
+
+[Zenodo · DOI 10.5281/zenodo.22149469](https://doi.org/10.5281/zenodo.22149469)
