@@ -1,0 +1,129 @@
+{
+  "implementation": {
+    "name": "ANE NEW IMPLEMENTATION",
+    "version": "0.1.0",
+    "scope": "static routing nucleus",
+    "new_validation_counter_initial": 0,
+    "provenance_baseline": {
+      "commit": "75c688634371e52ee5f45764c6ac955514309bb8",
+      "tree": "d5b87c50cc8f62a21c77105fcd2e97a85915bb61"
+    },
+    "validated_at": "2026-09-16",
+    "historical_boundary": {
+      "historical_ane_runtime": "not recovered",
+      "historical_validation_record": "786/786 PASS",
+      "historical_test_suite": "not recovered",
+      "sites_v48": "preserved historical evidence, not source"
+    },
+    "custody_policy": "Public navigation metadata only. Do not add sensitive territorial locations, field observations, credentials, or unverified destinations."
+  },
+  "documentation_sources": [
+    {
+      "path": "README.md",
+      "commit": "75c688634371e52ee5f45764c6ac955514309bb8",
+      "blob_sha": "fb19904cc18a1d50b4a8f2b1182f94e5499c660b",
+      "role": "documents Ecosystem Reading 0.1, ANE as public orientation layer, the main website, and the Zenodo DOI"
+    },
+    {
+      "path": "BASELINE_DISCONTINUITY_MANIFEST_2026-09.md",
+      "commit": "75c688634371e52ee5f45764c6ac955514309bb8",
+      "blob_sha": "61748cc7b950c75955d09c30b8b39ed5299d9ec4",
+      "role": "declares Ajmak9/wuom main as the independent working lineage"
+    }
+  ],
+  "internal_targets": [
+    {
+      "path": "docs/00_BIOIA_WUOM_ECOSYSTEM_READING_0.1.pdf",
+      "blob_sha": "bc8d1409f06186e651a3d5a04f4398896af73551",
+      "baseline_tree": "d5b87c50cc8f62a21c77105fcd2e97a85915bb61"
+    }
+  ],
+  "routes": [
+    {
+      "id": "ecosystem-reading-en",
+      "destination": {
+        "kind": "repository_path",
+        "path": "docs/00_BIOIA_WUOM_ECOSYSTEM_READING_0.1.pdf",
+        "blob_sha": "bc8d1409f06186e651a3d5a04f4398896af73551"
+      },
+      "language": "en",
+      "source_type": "documentation",
+      "source_document": "README.md",
+      "provenance_baseline": {
+        "commit": "75c688634371e52ee5f45764c6ac955514309bb8",
+        "tree": "d5b87c50cc8f62a21c77105fcd2e97a85915bb61"
+      },
+      "validated_at": "2026-09-16",
+      "status": "VERIFIED_STATIC",
+      "custody": "Public English documentation. No sensitive territorial location or field data."
+    },
+    {
+      "id": "zenodo-ecosystem-reading",
+      "destination": {
+        "kind": "https_url",
+        "url": "https://doi.org/10.5281/zenodo.21827928"
+      },
+      "language": "en",
+      "source_type": "persistent_record",
+      "source_document": "README.md",
+      "provenance_baseline": {
+        "commit": "75c688634371e52ee5f45764c6ac955514309bb8",
+        "tree": "d5b87c50cc8f62a21c77105fcd2e97a85915bb61"
+      },
+      "validated_at": "2026-09-16",
+      "status": "VERIFIED_STATIC",
+      "custody": "Public DOI only. The route is checked statically; no live fetch is implied."
+    },
+    {
+      "id": "bioiawuom-main",
+      "destination": {
+        "kind": "https_url",
+        "url": "https://bioiawuom.org"
+      },
+      "language": "multilingual",
+      "source_type": "public_entrypoint",
+      "source_document": "README.md",
+      "provenance_baseline": {
+        "commit": "75c688634371e52ee5f45764c6ac955514309bb8",
+        "tree": "d5b87c50cc8f62a21c77105fcd2e97a85915bb61"
+      },
+      "validated_at": "2026-09-16",
+      "status": "VERIFIED_STATIC",
+      "custody": "Public entrypoint only. This implementation does not deploy, publish, or integrate with the website."
+    },
+    {
+      "id": "github-technical-repository",
+      "destination": {
+        "kind": "https_url",
+        "url": "https://github.com/Ajmak9/wuom"
+      },
+      "language": "multilingual",
+      "source_type": "repository",
+      "source_document": "BASELINE_DISCONTINUITY_MANIFEST_2026-09.md",
+      "provenance_baseline": {
+        "commit": "75c688634371e52ee5f45764c6ac955514309bb8",
+        "tree": "d5b87c50cc8f62a21c77105fcd2e97a85915bb61"
+      },
+      "validated_at": "2026-09-16",
+      "status": "VERIFIED_STATIC",
+      "custody": "Public repository route. The baseline commit and tree remain the provenance anchor."
+    }
+  ],
+  "unresolved": [
+    {
+      "id": "notion-documentation",
+      "status": "UNRESOLVED",
+      "reason": "The baseline names Notion as documentation but does not contain a canonical Notion destination."
+    },
+    {
+      "id": "gumroad-operational-resources",
+      "status": "UNRESOLVED",
+      "reason": "The baseline names Gumroad as operational resources but does not contain a canonical destination for this routing nucleus."
+    },
+    {
+      "id": "medium-public-articles",
+      "status": "UNRESOLVED",
+      "reason": "The baseline names Medium as public articles but does not contain a canonical destination for this routing nucleus."
+    }
+  ]
+}
