@@ -3,6 +3,26 @@
     "name": "ANE NEW IMPLEMENTATION",
     "version": "0.1.0",
     "scope": "static routing nucleus",
+    "operational_purpose": {
+      "statement": "The reproducible ANE implementation is intended to support a later, separate and verifiable measurement of visits to the BIOIA/WUOM website and queries/interactions with ANE.",
+      "future_measurements": [
+        {
+          "id": "web_visits",
+          "label": "visits to the BIOIA/WUOM website"
+        },
+        {
+          "id": "ane_queries_interactions",
+          "label": "queries/interactions with ANE"
+        }
+      ],
+      "current_phase_exclusions": [
+        "analytics",
+        "telemetry",
+        "counters",
+        "tracking"
+      ],
+      "boundary": "This phase does not implement analytics, telemetry or counters. It establishes the reproducible and traceable core on which that measurement may later be implemented."
+    },
     "new_validation_counter_initial": 0,
     "provenance_baseline": {
       "commit": "75c688634371e52ee5f45764c6ac955514309bb8",
