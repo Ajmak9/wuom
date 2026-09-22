@@ -1287,8 +1287,42 @@ BIOIA / WUOM · Abstract 0.1.
 
 BIO🐸🌱🐸IA
 
+---
 
+## BIOIA / WUOM · Ecosystem for Continuity
 
+**Version 1.0 · September 2026**
 
+A multilingual synthesis of the BIOIA / WUOM ecosystem and its trajectory across territory, pictorial practice, human experience, artificial intelligence and network.
 
+Core orientation:
+
+`🌍 → 🦧 → 🤖 → 🌐`
+
+Operational return:
+
+`➡️ → 🔙📍`
+
+Central distinctions:
+
+**continuity ≠ scale**  
+**support ≠ acceleration**
+
+The document presents the genealogy:
+
+`territory → pictorial work → EVA W → WUOM → BIOIA → ANE`
+
+and explains why an external relationship of support is now being opened: not to fragment, direct or accelerate the ecosystem, but to increase its capacity for continuity without losing autonomy, reference or the capacity to return.
+
+GitHub public edition:
+
+- [BIOIA / WUOM · Ecosystem for Continuity · EN](docs/BIOIA_WUOM_ECOSYSTEM_FOR_CONTINUITY_EN.pdf)
+
+Zenodo canonical record:
+
+- DOI: [10.5281/zenodo.22901233](https://doi.org/10.5281/zenodo.22901233)
+
+Citation:
+
+Robles Rionegro, D. A. (2026). *BIOIA / WUOM · Ecosystem for Continuity* (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.22901233
 
