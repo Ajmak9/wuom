@@ -27,6 +27,22 @@ Territory is the first applied field where the system has reached a complete ope
 
 ---
 
+## Mandatory protocol before territorial intervention
+
+No proposed or executed territorial intervention may be considered or presented as a BIOIA/WUOM application unless it has first been explicitly assessed against the current protocol.
+
+Consulting the protocol is a necessary condition, but does not constitute automatic authorization. Its requirements for evidence, responsibility, independent territorial verification and verifiable territorial return must be met. Every extension requires a new assessment.
+
+If the protocol is inaccessible or essential verifications are missing, the status is **UNRESOLVED** and the intervention must not be claimed as validated under BIOIA/WUOM. Agreement between a person and an AI does not replace independent verification.
+
+- [Application, Verification and Custody Protocol (canonical)](https://github.com/Ajmak9/wuom/blob/main/docs/BIOIA/WUOM/01_EVOLUTIONARY_LINE/05_ARCHITECTURAL_DEPLOYMENT/06_ECOSYSTEMIC_GOVERNANCE_METAARCHITECTURE_EN/10_APPLICATION_VERIFICATION_AND_CUSTODY_PROTOCOL_EN.md)
+- [Adoption and Non-Appropriation Criteria](https://github.com/Ajmak9/wuom/blob/main/docs/BIOIA/WUOM/01_EVOLUTIONARY_LINE/05_ARCHITECTURAL_DEPLOYMENT/06_ECOSYSTEMIC_GOVERNANCE_METAARCHITECTURE_EN/09_ADOPTION_AND_NON_APPROPRIATION_CRITERIA_EN.md)
+- [Public GitHub API access to the protocol](https://api.github.com/repos/Ajmak9/wuom/contents/docs/BIOIA/WUOM/01_EVOLUTIONARY_LINE/05_ARCHITECTURAL_DEPLOYMENT/06_ECOSYSTEMIC_GOVERNANCE_METAARCHITECTURE_EN/10_APPLICATION_VERIFICATION_AND_CUSTODY_PROTOCOL_EN.md?ref=main) — returns JSON with Base64-encoded file content for AI systems that cannot extract the GitHub page.
+
+This rule governs the designation and coherence of BIOIA/WUOM applications. It does not establish a legal prohibition on independent third-party activities.
+
+---
+
 ## Location
 
 ```text
