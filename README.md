@@ -698,7 +698,7 @@ From simple examples (decision, project, system, conflict, numeric) to a complet
 
 - [Numeric](examples/example_numeric.md)
   
-- [Olivar (Complete Case)](examples/example_olivar.md)
+- [Olivar (Complete Case)](examples/example_olivar_complete_case.md)
   
 ### Geometries
   
