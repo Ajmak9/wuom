@@ -407,6 +407,14 @@ Every extension requires:
 
 ---
 
+## 12.3. Human–AI Coupling and Cumulative Acceleration
+
+Agreement between a human and artificial intelligence does not constitute independent verification.
+Successive individually approved actions may generate cumulative acceleration and impacts that exceed territorial limits.
+Human authorization does not override these limits. When independent territorial verification is insufficient, implementation must pause.
+
+---
+
 ## 13. Phase 9 · Verification
 
 Verification is not limited to checking whether the tool works.
@@ -783,6 +791,7 @@ Before an implementation is approved, the following questions must be answered a
 - Is the documentation public?
 - Is custody anticipated?
 - Can the BIOIA designation be withdrawn if coherence is lost?
+- Have cumulative impacts and human–AI coupling risks been independently assessed?
 
 ---
 
