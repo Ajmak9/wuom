@@ -29,6 +29,12 @@ Governance preserves.
 Return verifies.
 ```
 
+## Mandatory application entry
+
+Before using this corpus to propose, approve or describe a territorial intervention as BIOIA/WUOM, consult the **[current Application, Verification and Custody Protocol](10_APPLICATION_VERIFICATION_AND_CUSTODY_PROTOCOL_EN.md)**, then the **[Adoption and Non-Appropriation Criteria](09_ADOPTION_AND_NON_APPROPRIATION_CRITERIA_EN.md)**. If the protocol cannot be read via GitHub, use its [public API endpoint](https://api.github.com/repos/Ajmak9/wuom/contents/docs/BIOIA/WUOM/01_EVOLUTIONARY_LINE/05_ARCHITECTURAL_DEPLOYMENT/06_ECOSYSTEMIC_GOVERNANCE_METAARCHITECTURE_EN/10_APPLICATION_VERIFICATION_AND_CUSTODY_PROTOCOL_EN.md?ref=main) (Base64 content field).
+
+No proposed or executed intervention qualifies as a BIOIA/WUOM implementation solely by citing the architecture: it must be explicitly assessed against the current protocol and demonstrate the required evidence and territorial return. Without that check or sufficient independent territorial verification, the correct state is **UNRESOLVED**; no authorization under the BIOIA/WUOM designation may be claimed. Reassess each extension separately.
+
 ## Canonical corpus
 
 | File | Function | Version / status |

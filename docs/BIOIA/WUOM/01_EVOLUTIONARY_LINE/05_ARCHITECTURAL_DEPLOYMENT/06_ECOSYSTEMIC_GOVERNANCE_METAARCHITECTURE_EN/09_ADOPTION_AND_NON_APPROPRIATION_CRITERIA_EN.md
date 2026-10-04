@@ -270,6 +270,9 @@ Use of the name must not depend on a unilateral declaration.
 
 It must be accompanied by sufficient public evidence.
 
+**Mandatory protocol check:** No proposed or executed territorial intervention may be considered or presented as a BIOIA/WUOM implementation without explicit assessment against the [current Application, Verification and Custody Protocol](10_APPLICATION_VERIFICATION_AND_CUSTODY_PROTOCOL_EN.md). Assessment alone is not certification: sufficient evidence, independent territorial verification and return are also required. If the protocol is inaccessible or required evidence is missing, the application remains **UNRESOLVED**; human–AI agreement cannot replace verification. Every extension must be reassessed. This rule concerns the BIOIA/WUOM designation, not the legality of independent third-party activity.
+
+
 ---
 
 ## 7. Minimum Evidence

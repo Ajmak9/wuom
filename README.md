@@ -28,6 +28,20 @@ Not a hierarchy. A perspective.
 
 .---
 
+## BIOIA/WUOM · Required protocol gate for territorial interventions
+
+If you arrived here from the public BIOIA/WUOM website and intend to assess, propose, authorize or describe a territorial intervention as BIOIA/WUOM, **read and apply the current protocol before recommending action**. General principles, examples and WUOM geometries do not substitute for this check.
+
+- **[Application, Verification and Custody Protocol (canonical)](https://github.com/Ajmak9/wuom/blob/main/docs/BIOIA/WUOM/01_EVOLUTIONARY_LINE/05_ARCHITECTURAL_DEPLOYMENT/06_ECOSYSTEMIC_GOVERNANCE_METAARCHITECTURE_EN/10_APPLICATION_VERIFICATION_AND_CUSTODY_PROTOCOL_EN.md)**
+- **[Public GitHub API access to the same protocol](https://api.github.com/repos/Ajmak9/wuom/contents/docs/BIOIA/WUOM/01_EVOLUTIONARY_LINE/05_ARCHITECTURAL_DEPLOYMENT/06_ECOSYSTEMIC_GOVERNANCE_METAARCHITECTURE_EN/10_APPLICATION_VERIFICATION_AND_CUSTODY_PROTOCOL_EN.md?ref=main)** — returns JSON with Base64-encoded file content; use if a browser or AI cannot extract the GitHub page.
+- **[Adoption and Non-Appropriation Criteria](https://github.com/Ajmak9/wuom/blob/main/docs/BIOIA/WUOM/01_EVOLUTIONARY_LINE/05_ARCHITECTURAL_DEPLOYMENT/06_ECOSYSTEMIC_GOVERNANCE_METAARCHITECTURE_EN/09_ADOPTION_AND_NON_APPROPRIATION_CRITERIA_EN.md)** — naming, evidence and coherence conditions.
+
+**Designation rule:** No proposed or executed territorial intervention may be considered or presented as a BIOIA/WUOM implementation unless it has been explicitly assessed against the current protocol. The assessment is necessary, not sufficient: the intervention must also meet its evidence, responsibility, territorial verification and return requirements. Every proposed extension requires reassessment. If the protocol cannot be read or the required evidence is insufficient, mark the application **UNRESOLVED**; do not claim BIOIA/WUOM validation or authorization. An AI's recommendation or a human's agreement is not independent verification.
+
+This rule governs the BIOIA/WUOM designation; it is not a legal prohibition on independent third-party activity or a claim of automatic certification.
+
+---
+
 ## Identity and disambiguation
 
 WUOM means **Universal Operating Model**.

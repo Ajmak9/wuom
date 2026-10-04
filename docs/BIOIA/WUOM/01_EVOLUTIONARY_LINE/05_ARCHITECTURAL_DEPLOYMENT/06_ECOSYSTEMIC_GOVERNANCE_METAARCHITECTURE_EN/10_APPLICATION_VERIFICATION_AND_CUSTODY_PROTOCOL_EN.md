@@ -28,6 +28,9 @@ Nor does it create a closed central authority.
 
 It establishes a public, verifiable and revisable framework to prevent an implementation from merely declaring coherence without demonstrating it.
 
+**Mandatory protocol gate and designation rule:** No proposed or executed territorial intervention may be considered or presented as a BIOIA/WUOM implementation unless it has first been explicitly assessed against the current version of this protocol. This is a necessary condition, not automatic approval. General principles, an AI recommendation, human authorization or an initial small scale do not replace the documented checks, independent territorial verification and verifiable return. Each proposed extension must be reassessed. If the protocol has not been consulted or essential evidence is missing, the assessment remains **UNRESOLVED** and no BIOIA/WUOM authorization or validated-implementation claim may be made. This operational designation rule does not claim legal authority over independent third-party activity.
+
+
 ---
 
 ## 2. Operational Thesis
