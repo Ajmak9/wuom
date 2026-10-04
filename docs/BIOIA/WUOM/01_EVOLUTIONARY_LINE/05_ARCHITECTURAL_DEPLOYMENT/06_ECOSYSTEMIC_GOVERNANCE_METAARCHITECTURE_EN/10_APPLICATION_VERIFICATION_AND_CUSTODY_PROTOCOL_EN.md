@@ -769,7 +769,7 @@ Before an implementation is approved, the following questions must be answered a
 - Are the limits defined?
 - Does experience participate?
 - Can deliberation modify the decision?
-- Is artificial intelligence necessary?
+- Has the necessity of artificial intelligence been assessed, including the option not to use it?
 - Is the scale proportional?
 - Are responsible parties identified?
 - Are costs visible?
