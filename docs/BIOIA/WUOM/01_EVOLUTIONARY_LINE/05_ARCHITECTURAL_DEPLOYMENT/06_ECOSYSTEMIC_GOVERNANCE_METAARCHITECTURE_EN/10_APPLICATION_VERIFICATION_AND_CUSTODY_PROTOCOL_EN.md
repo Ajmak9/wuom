@@ -407,7 +407,7 @@ Every extension requires:
 
 ---
 
-## 12.3. Human–AI Coupling and Cumulative Acceleration
+### 12.3. Human–AI Coupling and Cumulative Acceleration
 
 Agreement between a human and artificial intelligence does not constitute independent verification.
 Successive individually approved actions may generate cumulative acceleration and impacts that exceed territorial limits.
