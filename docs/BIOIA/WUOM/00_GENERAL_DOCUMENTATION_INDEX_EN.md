@@ -361,6 +361,12 @@ For the full repository, including documentation, images, templates, examples an
 
 ---
 
+👉🪙 **Support BIOIA/WUOM · contribute to ecosystemic return and to those who make it possible.**
+
+https://ko-fi.com/bioiawuom
+
+---
+
 # Contact
 
 For documentation enquiries, technical issues and collaborations:
