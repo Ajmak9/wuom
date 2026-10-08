@@ -39,6 +39,9 @@ Public function: establish the purpose, limits, orientation and derivation rules
 - [BIOIA / WUOM · STRUCTURAL HYPOTHESIS · EN.](../../BIOIA_WUOM_STRUCTURAL_HYPOTHESIS_EN.pdf)
   - Open structural hypothesis on emergence, asymmetric dependence and territorial return: `0 + 1 + 2 = 3 → 0`.
   - [Zenodo · DOI 10.5281/zenodo.23184846](https://doi.org/10.5281/zenodo.23184846)
+- [BIOIA / WUOM · STRUCTURAL HYPOTHESIS · EN · v1.1](../../BIOIA_WUOM_STRUCTURAL_HYPOTHESIS_EN.pdf)
+  - Open conceptual and operational framework examining emergence, asymmetric dependence and return through the provisional notation `0 + 1 + 2 = 3 → 0′`. It distinguishes verification return from operational return and must be contrasted in practice, in territory and over time.
+  - [Zenodo · DOI 10.5281/zenodo.23234041](https://doi.org/10.5281/zenodo.23234041)
 - [BIOIA / WUOM · ELEMENTAL DISORDER HYPOTHESIS · EN · v1.1](../../ELEMENTAL_DISORDER_HYPOTHESIS_EN.pdf)
   - Examines the structural asymmetry between BIOIA’s order of emergence and its current operational relations, while distinguishing interpretive inversion from the operational test of whether limits modify the next.
   - [Zenodo · DOI 10.5281/zenodo.23215908](https://doi.org/10.5281/zenodo.23215908)  
