@@ -50,6 +50,9 @@ Public function: establish the purpose, limits, orientation and derivation rules
 - [BIOIA / WUOM · ELEMENTAL DISORDER HYPOTHESIS · EN · v1.1](../../ELEMENTAL_DISORDER_HYPOTHESIS_EN.pdf)
   - Examines the structural asymmetry between BIOIA’s order of emergence and its current operational relations, while distinguishing interpretive inversion from the operational test of whether limits modify the next.
   - [Zenodo · DOI 10.5281/zenodo.23215908](https://doi.org/10.5281/zenodo.23215908)  
+- [BIOIA / WUOM · INTEGRATED THEORETICAL FRAMEWORK · EN · v1.0](../../INTEGRATED_THEORETICAL_FRAMEWORK.pdf)
+  - Conceptual synthesis of material dependence, operational disorder, ecosystemic tunneling, Hyperacceleratus and hyperacceleration. Distinguishes observed phenomena (MICRO), systemic inferences (MACRO) and the bounded SH-B01 testing protocol; **no confirmatory empirical findings are claimed**.
+  - [Zenodo · DOI 10.5281/zenodo.23299746](https://doi.org/10.5281/zenodo.23299746)
 - [BIOIA / WUOM — Repository Manifest](https://github.com/Ajmak9/wuom/blob/main/docs/BIOIA/WUOM/00_MANIFEST.md)
 - [BIOIA / WUOM — Minimal Orientation Repository](https://github.com/Ajmak9/wuom/blob/main/docs/BIOIA/WUOM/README.md)
 - [Public website — Start](https://web.bioiawuom.org/?lang=en)
