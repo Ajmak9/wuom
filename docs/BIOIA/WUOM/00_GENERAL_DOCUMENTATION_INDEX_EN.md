@@ -42,6 +42,9 @@ Public function: establish the purpose, limits, orientation and derivation rules
 - [BIOIA / WUOM · STRUCTURAL HYPOTHESIS · EN · v1.1](../../BIOIA_WUOM_STRUCTURAL_HYPOTHESIS_EN.pdf)
   - Open conceptual and operational framework examining emergence, asymmetric dependence and return through the provisional notation `0 + 1 + 2 = 3 → 0′`. It distinguishes verification return from operational return and must be contrasted in practice, in territory and over time.
   - [Zenodo · DOI 10.5281/zenodo.23234041](https://doi.org/10.5281/zenodo.23234041)
+- [SH-B01 · STRUCTURAL ECOSYSTEMIC TUNNELING HYPOTHESIS · EN · v1.1](../../STRUCTURAL_ECOSYSTEMIC_TUNNELING_HYPOTHESIS_v1.1.pdf)
+  - Conceptual hypothesis examining whether visible harms across biophysical, human, technological and network systems may be delayed manifestations of an earlier, interconnected loss of ecosystemic margin. Explores material dependencies, hyperacceleration, corrective capacity and verifiable material recovery. **MICRO observed · MACRO inferred · RESULT open; hypothesis open to empirical testing, not demonstrated.**
+  - [Zenodo · DOI 10.5281/zenodo.23590960](https://doi.org/10.5281/zenodo.23590960) · [Spanish publication · DOI 10.5281/zenodo.23589996](https://doi.org/10.5281/zenodo.23589996) · **CC BY-NC-SA 4.0**
 - [SH-B01 · Empirical Contrast of the Structural Hypothesis · Confirmatory Preregistration v0.3](../../SH_B01_v0.3.pdf)
   - Preregistered systematic comparative review and paired retrospective diagnostic comparison of `M₁` (observable internal functioning) versus `M₂` (explicit sustaining material-base assessment). **Research protocol only; no empirical findings reported.**
   - [OSF preregistration · DOI 10.17605/OSF.IO/BCT9S](https://doi.org/10.17605/OSF.IO/BCT9S) · **CC BY-SA 4.0**
