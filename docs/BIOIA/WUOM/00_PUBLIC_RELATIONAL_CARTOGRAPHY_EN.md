@@ -20,10 +20,10 @@ Make accumulated relations navigable by external readers without producing a new
 
 **Epistemic status:** DOCUMENTED CONCEPTUAL RELATION · INDEPENDENT EMPIRICAL CONTRAST PENDING.
 
-**Existing source trail:** The links below use identifiers already recorded in the Spanish documentation index. External DOI resolution and any English-language counterparts still require independent verification; no unverified EN DOI is asserted.
-- [Pattern of Abstract Expansion and Asymmetric Material Correction v1.0.1 (ES)](https://doi.org/10.5281/zenodo.23916737) — conceptual exploratory hypothesis.
-- [Integrated Theoretical Framework (ES)](https://doi.org/10.5281/zenodo.23298632) — integration, not empirical confirmation.
-- [Structural Ecosystemic Tunneling Hypothesis (ES)](https://doi.org/10.5281/zenodo.23589996) — open hypothesis.
+**Existing source trail:** The identifiers below are cross-checked against the repository's existing EN documentation index. External resolution and publication metadata could not be independently confirmed in this review; the index is documentary evidence, not a live DOI check.
+- [Pattern of Abstract Expansion and Asymmetric Material Correction v1.0.1 (EN)](https://doi.org/10.5281/zenodo.23917862) — conceptual exploratory hypothesis.
+- [Integrated Theoretical Framework (EN)](https://doi.org/10.5281/zenodo.23299746) — integration, not empirical confirmation.
+- [Structural Ecosystemic Tunneling Hypothesis (EN)](https://doi.org/10.5281/zenodo.23590960) — open hypothesis.
 - [SH-B01 preregistration](https://doi.org/10.17605/OSF.IO/BCT9S) — protocol, not results.
 
 **Spanish access:** [Notion — Cartografía del estado actual (ES)](https://app.notion.com/p/3e801379e35c80ca9affd1e041598846).
