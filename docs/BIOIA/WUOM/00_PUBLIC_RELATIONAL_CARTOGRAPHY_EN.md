@@ -12,7 +12,7 @@ Make accumulated relations navigable by external readers without producing a new
 
 **Question:** Does economic, institutional, or technological expansion demonstrate recovery of the material systems that sustain it?
 
-**MICRO — source-backed observations to inspect:** Existing publications discuss expansion, pressure, partial or delayed correction, and temporal asymmetry. Individual PIB, climate, ecological, and social indicators must be cited with their geography, dates, and methods before being treated as verified observations here. No new quantitative empirical finding is claimed in this index.
+**MICRO — source-backed observations to inspect:** Existing publications discuss expansion, pressure, partial or delayed correction, and temporal asymmetry. Individual GDP, climate, ecological, and social indicators must be cited with their geography, dates, and methods before being treated as verified observations here. No new quantitative empirical finding is claimed in this index.
 
 **MACRO — exploratory interpretation:** Operational expansion and material deterioration can coexist. Their coexistence alone does not establish a causal pathway. The sufficiency of correction and the extent of the pattern remain open to independent testing.
 
@@ -20,10 +20,10 @@ Make accumulated relations navigable by external readers without producing a new
 
 **Epistemic status:** DOCUMENTED CONCEPTUAL RELATION · INDEPENDENT EMPIRICAL CONTRAST PENDING.
 
-**Existing source trail:**
-- [Pattern of Abstract Expansion and Asymmetric Material Correction v1.0.1](https://doi.org/10.5281/zenodo.23917862) — conceptual exploratory hypothesis.
-- [Integrated Theoretical Framework](https://doi.org/10.5281/zenodo.23299746) — integration, not empirical confirmation.
-- [Structural Ecosystemic Tunneling Hypothesis](https://doi.org/10.5281/zenodo.23590960) — open hypothesis.
+**Existing source trail:** The links below use identifiers already recorded in the Spanish documentation index. External DOI resolution and any English-language counterparts still require independent verification; no unverified EN DOI is asserted.
+- [Pattern of Abstract Expansion and Asymmetric Material Correction v1.0.1 (ES)](https://doi.org/10.5281/zenodo.23916737) — conceptual exploratory hypothesis.
+- [Integrated Theoretical Framework (ES)](https://doi.org/10.5281/zenodo.23298632) — integration, not empirical confirmation.
+- [Structural Ecosystemic Tunneling Hypothesis (ES)](https://doi.org/10.5281/zenodo.23589996) — open hypothesis.
 - [SH-B01 preregistration](https://doi.org/10.17605/OSF.IO/BCT9S) — protocol, not results.
 
 **Spanish access:** [Notion — Cartografía del estado actual (ES)](https://app.notion.com/p/3e801379e35c80ca9affd1e041598846).
